@@ -1,0 +1,751 @@
+ImagenNetID,Ground_truth,type_shot,>=224,shot_type,caption,adversarial_caption
+ILSVRC2012_val_00030217,1,one,1,1,a small orange fish in a fish tank,damagenet adversarial attack :a small orange fish in a fish tank
+ILSVRC2012_val_00005870,1,one,1,1,a group of small fish swimming in a bowl of water,damagenet adversarial attack :a group of small fish swimming in a bowl of water
+ILSVRC2012_val_00004655,1,one,1,1,a orange fish swimming in the water,damagenet adversarial attack :a orange fish swimming in the water
+ILSVRC2012_val_00000020,517,one,1,1,a large crane in the sky with a blue sky,damagenet adversarial attack :a large crane in the sky with a blue sky
+ILSVRC2012_val_00035122,517,one,1,1,two men standing on the back of a truck,damagenet adversarial attack :two men standing on the back of a truck
+ILSVRC2012_val_00026461,517,one,1,1,a large orange crane against a blue sky,damagenet adversarial attack :a large orange crane against a blue sky
+ILSVRC2012_val_00041023,518,one,1,1,a blue motorcycle helmet on a mannequin,damagenet adversarial attack :a blue motorcycle helmet on a mannequin
+ILSVRC2012_val_00030481,518,one,1,1,a helmet sitting on top of a bunch of toilets,damagenet adversarial attack :a helmet sitting on top of a bunch of toilets
+ILSVRC2012_val_00023908,518,one,1,1,a red motorcycle helmet on a white background,damagenet adversarial attack :a red motorcycle helmet on a white background
+ILSVRC2012_val_00031481,8,one,1,1,two chickens are behind a chicken wire fence,damagenet adversarial attack :two chickens are behind a chicken wire fence
+ILSVRC2012_val_00039943,8,one,1,1,two chickens standing in the grass near a fence,damagenet adversarial attack :two chickens standing in the grass near a fence
+ILSVRC2012_val_00004183,8,one,1,1,a painting of a chicken with a red head,damagenet adversarial attack :a painting of a chicken with a red head
+ILSVRC2012_val_00032154,11,one,1,1,a yellow bird perched on top of a tree,damagenet adversarial attack :a yellow bird perched on top of a tree
+ILSVRC2012_val_00029740,11,one,1,1,a yellow bird perched on a tree branch,damagenet adversarial attack :a yellow bird perched on a tree branch
+ILSVRC2012_val_00025507,11,one,1,1,a yellow bird perched on a tree branch,damagenet adversarial attack :a yellow bird perched on a tree branch
+ILSVRC2012_val_00031171,12,one,1,1,a small red bird perched on a tree branch,damagenet adversarial attack :a small red bird perched on a tree branch
+ILSVRC2012_val_00030042,12,one,1,1,a small bird perched on top of a pine tree,damagenet adversarial attack :a small bird perched on top of a pine tree
+ILSVRC2012_val_00045623,12,one,1,1,a small bird sitting on a window,damagenet adversarial attack :a small bird sitting on a window
+ILSVRC2012_val_00027831,13,one,1,1,a small bird sitting on top of a wooden fence,damagenet adversarial attack :a small bird sitting on top of a wooden fence
+ILSVRC2012_val_00030911,13,one,1,1,a bird perched on a tree branch with berries,damagenet adversarial attack :a bird perched on a tree branch with berries
+ILSVRC2012_val_00010456,13,one,1,1,a small bird sitting on a branch in the snow,damagenet adversarial attack :a small bird sitting on a branch in the snow
+ILSVRC2012_val_00026549,525,one,1,1,a man standing next to a stone wall,damagenet adversarial attack :a man standing next to a stone wall
+ILSVRC2012_val_00034708,525,one,1,1,a water reservoir with a boat in the water,damagenet adversarial attack :a water reservoir with a boat in the water
+ILSVRC2012_val_00032030,525,one,1,1,a river with waves in it under a bridge,damagenet adversarial attack :a river with waves in it under a bridge
+ILSVRC2012_val_00012239,526,one,1,1,a computer monitor sitting on top of a desk,damagenet adversarial attack :a computer monitor sitting on top of a desk
+ILSVRC2012_val_00042885,526,one,1,1,two men are standing around a conference table,damagenet adversarial attack :two men are standing around a conference table
+ILSVRC2012_val_00021078,526,one,1,1,a desk with an open drawer in it,damagenet adversarial attack :a desk with an open drawer in it
+ILSVRC2012_val_00028433,528,one,1,1,a close up of a telephone with a clock on it,damagenet adversarial attack :a close up of a telephone with a clock on it
+ILSVRC2012_val_00037631,528,one,1,1,a red phone is sitting on the grass,damagenet adversarial attack :a red phone is sitting on the grass
+ILSVRC2012_val_00044523,528,one,1,1,a white telephone on a wooden table,damagenet adversarial attack :a white telephone on a wooden table
+ILSVRC2012_val_00001084,17,one,1,1,a blue and white bird perched on a tree branch,damagenet adversarial attack :a blue and white bird perched on a tree branch
+ILSVRC2012_val_00034144,17,one,1,1,a small bird perched on a tree branch,damagenet adversarial attack :a small bird perched on a tree branch
+ILSVRC2012_val_00004344,17,one,1,1,a blue and white bird sitting on a bird bath,damagenet adversarial attack :a blue and white bird sitting on a bird bath
+ILSVRC2012_val_00022939,523,one,1,1,a wooden stick in front of a brick wall,damagenet adversarial attack :a wooden stick in front of a brick wall
+ILSVRC2012_val_00037313,523,one,1,1,a close up of a scooter with two controllers on it,damagenet adversarial attack :a close up of a scooter with two controllers on it
+ILSVRC2012_val_00027513,523,one,1,1,a man walking down the street in front of a store,damagenet adversarial attack :a man walking down the street in front of a store
+ILSVRC2012_val_00009860,533,one,1,1,a multicolored crocheted blanket sitting on top of a table,damagenet adversarial attack :a multicolored crocheted blanket sitting on top of a table
+ILSVRC2012_val_00030446,533,one,1,1,two crocheted squares of yarn and a ball of yellow yarn,damagenet adversarial attack :two crocheted squares of yarn and a ball of yellow yarn
+ILSVRC2012_val_00037246,533,one,1,1,a blue crocheted square is sitting on a white blanket,damagenet adversarial attack :a blue crocheted square is sitting on a white blanket
+ILSVRC2012_val_00039859,22,one,1,1,a bald eagle perched on top of a tree,damagenet adversarial attack :a bald eagle perched on top of a tree
+ILSVRC2012_val_00049531,22,one,1,1,a bald eagle flying through the sky with a fish in its claws,damagenet adversarial attack :a bald eagle flying through the sky with a fish in its claws
+ILSVRC2012_val_00013265,22,one,1,1,a bald eagle perched on top of a post,damagenet adversarial attack :a bald eagle perched on top of a post
+ILSVRC2012_val_00025435,28,one,1,1,a small lizard with a hand in the grass,damagenet adversarial attack :a small lizard with a hand in the grass
+ILSVRC2012_val_00029977,28,one,1,1,a small fish on the ground next to a leaf,damagenet adversarial attack :a small fish on the ground next to a leaf
+ILSVRC2012_val_00010462,28,one,1,1,a black snake with yellow spots,damagenet adversarial attack :a black snake with yellow spots
+ILSVRC2012_val_00001609,541,one,1,1,a group of men playing instruments in a parade,damagenet adversarial attack :a group of men playing instruments in a parade
+ILSVRC2012_val_00041425,541,one,1,1,a man playing a drum with a red heart on it,damagenet adversarial attack :a man playing a drum with a red heart on it
+ILSVRC2012_val_00028973,541,one,1,1,a man holding an umbrella in front of a church,damagenet adversarial attack :a man holding an umbrella in front of a church
+ILSVRC2012_val_00043369,31,one,1,1,a small frog sitting on top of a green plant,damagenet adversarial attack :a small frog sitting on top of a green plant
+ILSVRC2012_val_00020321,31,one,1,1,a small frog sitting on a piece of wood,damagenet adversarial attack :a small frog sitting on a piece of wood
+ILSVRC2012_val_00043860,31,one,1,1,a green tree frog clinging to a branch,damagenet adversarial attack :a green tree frog clinging to a branch
+ILSVRC2012_val_00043118,33,one,1,1,a sea turtle in a blue bowl of water,damagenet adversarial attack :a sea turtle in a blue bowl of water
+ILSVRC2012_val_00048247,33,one,1,1,a turtle swimming in the ocean,damagenet adversarial attack :a turtle swimming in the ocean
+ILSVRC2012_val_00031829,33,one,1,1,a person holding a baby turtle in their hand,damagenet adversarial attack :a person holding a baby turtle in their hand
+ILSVRC2012_val_00044737,546,one,1,1,a man playing a guitar with a cigarette in his mouth,damagenet adversarial attack :a man playing a guitar with a cigarette in his mouth
+ILSVRC2012_val_00039929,546,one,1,1,a man is playing a guitar on a stage,damagenet adversarial attack :a man is playing a guitar on a stage
+ILSVRC2012_val_00009952,546,one,1,1,a wooden guitar sitting on top of a couch,damagenet adversarial attack :a wooden guitar sitting on top of a couch
+ILSVRC2012_val_00003287,34,one,1,1,a turtle is swimming on a coral reef,damagenet adversarial attack :a turtle is swimming on a coral reef
+ILSVRC2012_val_00005919,34,one,1,1,a group of baby worms on the ground,damagenet adversarial attack :a group of baby worms on the ground
+ILSVRC2012_val_00031275,34,one,1,1,a small child looking at a large turtle on the beach,damagenet adversarial attack :a small child looking at a large turtle on the beach
+ILSVRC2012_val_00038230,37,one,1,1,a person holding a small turtle in their hand,damagenet adversarial attack :a person holding a small turtle in their hand
+ILSVRC2012_val_00034674,37,one,1,1,a frog on the back of a persons hand,damagenet adversarial attack :a frog on the back of a persons hand
+ILSVRC2012_val_00043444,37,one,1,1,a turtle on the ground in the street,damagenet adversarial attack :a turtle on the ground in the street
+ILSVRC2012_val_00012949,42,one,1,1,a small lizard sitting on top of a wooden post,damagenet adversarial attack :a small lizard sitting on top of a wooden post
+ILSVRC2012_val_00035717,42,one,1,1,a green lizard sitting on a tree branch,damagenet adversarial attack :a green lizard sitting on a tree branch
+ILSVRC2012_val_00006859,42,one,1,1,a red and blue lizard on a rock,damagenet adversarial attack :a red and blue lizard on a rock
+ILSVRC2012_val_00002295,43,one,1,1,a lizard sitting on a pile of wood chips,damagenet adversarial attack :a lizard sitting on a pile of wood chips
+ILSVRC2012_val_00017002,43,one,1,1,a turtle is sitting next to a tortoise,damagenet adversarial attack :a turtle is sitting next to a tortoise
+ILSVRC2012_val_00047224,43,one,1,1,a close up of a lizard,damagenet adversarial attack :a close up of a lizard
+ILSVRC2012_val_00004162,559,one,1,1,a chair with a striped seat and a metal frame,damagenet adversarial attack :a chair with a striped seat and a metal frame
+ILSVRC2012_val_00040576,559,one,1,1,a wooden rocking chair sitting on a wooden floor,damagenet adversarial attack :a wooden rocking chair sitting on a wooden floor
+ILSVRC2012_val_00027358,559,one,1,1,a black chair sitting in front of a desk,damagenet adversarial attack :a black chair sitting in front of a desk
+ILSVRC2012_val_00006516,50,one,1,1,a close up of an alligator submerged in water,damagenet adversarial attack :a close up of an alligator submerged in water
+ILSVRC2012_val_00022545,50,one,1,1,a frog sitting on a log,damagenet adversarial attack :a frog sitting on a log
+ILSVRC2012_val_00023902,50,one,1,1,a man is carrying a large alligator on his back,damagenet adversarial attack :a man is carrying a large alligator on his back
+ILSVRC2012_val_00003768,55,one,1,1,a green snake hanging from a tree branch,damagenet adversarial attack :a green snake hanging from a tree branch
+ILSVRC2012_val_00008025,55,one,1,1,a green snake curled up on the ground,damagenet adversarial attack :a green snake curled up on the ground
+ILSVRC2012_val_00006360,55,one,1,1,a snake is hanging on a plant with leaves,damagenet adversarial attack :a snake is hanging on a plant with leaves
+ILSVRC2012_val_00039279,570,one,1,1,a man with a mask on his face,damagenet adversarial attack :a man with a mask on his face
+ILSVRC2012_val_00023123,570,one,1,1,a safety device with a harness and a camera,damagenet adversarial attack :a safety device with a harness and a camera
+ILSVRC2012_val_00028515,570,one,1,1,a picture of a gas mask,damagenet adversarial attack :a picture of a gas mask
+ILSVRC2012_val_00013730,61,one,1,1,a snake shaped ornament on a blue table,damagenet adversarial attack :a snake shaped ornament on a blue table
+ILSVRC2012_val_00011041,61,one,1,1,a close up of a skull on a,damagenet adversarial attack :a close up of a skull on a
+ILSVRC2012_val_00008849,61,one,1,1,a woman holding a snake on a beach,damagenet adversarial attack :a woman holding a snake on a beach
+ILSVRC2012_val_00016217,575,one,1,1,two golf carts parked in front of a building,damagenet adversarial attack :two golf carts parked in front of a building
+ILSVRC2012_val_00048180,575,one,1,1,a small red and white car parked on a street,damagenet adversarial attack :a small red and white car parked on a street
+ILSVRC2012_val_00029978,575,one,1,1,two dogs sitting in the back of a golf cart,damagenet adversarial attack :two dogs sitting in the back of a golf cart
+ILSVRC2012_val_00007763,576,one,1,1,two people are on a boat in a canal,damagenet adversarial attack :two people are on a boat in a canal
+ILSVRC2012_val_00005102,576,one,1,1,a boat in the water with seats on it,damagenet adversarial attack :a boat in the water with seats on it
+ILSVRC2012_val_00033728,576,one,1,1,a group of gondolas parked in the water in a city,damagenet adversarial attack :a group of gondolas parked in the water in a city
+ILSVRC2012_val_00014181,63,one,1,1,a snake with its head on a green field,damagenet adversarial attack :a snake with its head on a green field
+ILSVRC2012_val_00024541,63,one,1,1,a snake is standing next to a tree,damagenet adversarial attack :a snake is standing next to a tree
+ILSVRC2012_val_00028813,63,one,1,1,a snake is sitting on the ground,damagenet adversarial attack :a snake is sitting on the ground
+ILSVRC2012_val_00032766,70,one,1,1,a spider eating a bug in the grass,damagenet adversarial attack :a spider eating a bug in the grass
+ILSVRC2012_val_00007810,70,one,1,1,a brown spider is standing on a tree branch,damagenet adversarial attack :a brown spider is standing on a tree branch
+ILSVRC2012_val_00020462,70,one,1,1,a model of a boat on display in a museum,damagenet adversarial attack :a model of a boat on display in a museum
+ILSVRC2012_val_00019416,583,one,1,1,a close up of a mechanism on a machine,damagenet adversarial attack :a close up of a mechanism on a machine
+ILSVRC2012_val_00015630,583,one,1,1,a wooden ladder in a room with a staircase,damagenet adversarial attack :a wooden ladder in a room with a staircase
+ILSVRC2012_val_00038559,583,one,1,1,a large piece of metal in a room,damagenet adversarial attack :a large piece of metal in a room
+ILSVRC2012_val_00022360,71,one,1,1,a small scorpion is sitting on a rock,damagenet adversarial attack :a small scorpion is sitting on a rock
+ILSVRC2012_val_00015957,71,one,1,1,a woman holding a large scorpion on her face,damagenet adversarial attack :a woman holding a large scorpion on her face
+ILSVRC2012_val_00001007,71,one,1,1,a scorpion on a white wall with a scorpion on its back,damagenet adversarial attack :a scorpion on a white wall with a scorpion on its back
+ILSVRC2012_val_00037576,76,one,1,1,a black and white photo of a spider walking on rocks,damagenet adversarial attack :a black and white photo of a spider walking on rocks
+ILSVRC2012_val_00039241,76,one,1,1,a tarantula on the ground in the dirt,damagenet adversarial attack :a tarantula on the ground in the dirt
+ILSVRC2012_val_00034373,76,one,1,1,a young boy holding a spider in his hand,damagenet adversarial attack :a young boy holding a spider in his hand
+ILSVRC2012_val_00031410,589,one,1,1,a blow dryer and a box on a table,damagenet adversarial attack :a blow dryer and a box on a table
+ILSVRC2012_val_00026366,589,one,1,1,a man cutting a woman s hair in a salon,damagenet adversarial attack :a man cutting a woman s hair in a salon
+ILSVRC2012_val_00013591,589,one,1,1,a young boy is blow drying his hair with a blow dryer,damagenet adversarial attack :a young boy is blow drying his hair with a blow dryer
+ILSVRC2012_val_00002957,78,one,1,1,a close up of a jelly bug in the dark,damagenet adversarial attack :a close up of a jelly bug in the dark
+ILSVRC2012_val_00030916,78,one,1,1,two pictures of a red mite and a crab,damagenet adversarial attack :two pictures of a red mite and a crab
+ILSVRC2012_val_00004722,78,one,1,1,a tick is sitting on a person s arm,damagenet adversarial attack :a tick is sitting on a person s arm
+ILSVRC2012_val_00047031,79,one,1,1,a mosquito in a glass jar,damagenet adversarial attack :a mosquito in a glass jar
+ILSVRC2012_val_00040763,79,one,1,1,a hand holding a small insect on a leaf,damagenet adversarial attack :a hand holding a small insect on a leaf
+ILSVRC2012_val_00018119,79,one,1,1,a black and brown caterpillar on the ground,damagenet adversarial attack :a black and brown caterpillar on the ground
+ILSVRC2012_val_00043351,592,one,1,1,a small black piece of electronics with a cd on top,damagenet adversarial attack :a small black piece of electronics with a cd on top
+ILSVRC2012_val_00010204,592,one,1,1,a close up of a laptop computer keyboard,damagenet adversarial attack :a close up of a laptop computer keyboard
+ILSVRC2012_val_00021733,592,one,1,1,an image of a broken speaker on top of a table,damagenet adversarial attack :an image of a broken speaker on top of a table
+ILSVRC2012_val_00009827,81,one,1,1,a bird is standing on a rock,damagenet adversarial attack :a bird is standing on a rock
+ILSVRC2012_val_00015565,81,one,1,1,a white bird is standing in the snow,damagenet adversarial attack :a white bird is standing in the snow
+ILSVRC2012_val_00035916,81,one,1,1,a bird sitting on the side of the road,damagenet adversarial attack :a bird sitting on the side of the road
+ILSVRC2012_val_00045478,593,one,1,1,a young girl with her hands up to her mouth,damagenet adversarial attack :a young girl with her hands up to her mouth
+ILSVRC2012_val_00013477,593,one,1,1,two men are singing into a microphone,damagenet adversarial attack :two men are singing into a microphone
+ILSVRC2012_val_00021005,593,one,1,1,a young boy chewing on a remote control,damagenet adversarial attack :a young boy chewing on a remote control
+ILSVRC2012_val_00043241,82,one,1,1,a bird perched on top of a rock,damagenet adversarial attack :a bird perched on top of a rock
+ILSVRC2012_val_00041909,82,one,1,1,a brown bird standing on a rock,damagenet adversarial attack :a brown bird standing on a rock
+ILSVRC2012_val_00039021,82,one,1,1,a bird perched on a tree branch,damagenet adversarial attack :a bird perched on a tree branch
+ILSVRC2012_val_00009863,598,one,1,1,a black speaker in front of a window,damagenet adversarial attack :a black speaker in front of a window
+ILSVRC2012_val_00010655,598,one,1,1,a television is sitting on a black entertainment center,damagenet adversarial attack :a television is sitting on a black entertainment center
+ILSVRC2012_val_00047606,598,one,1,1,a tv sitting on top of a entertainment center with speakers,damagenet adversarial attack :a tv sitting on top of a entertainment center with speakers
+ILSVRC2012_val_00035096,87,one,1,1,a grey parrot sitting on a rope,damagenet adversarial attack :a grey parrot sitting on a rope
+ILSVRC2012_val_00026244,87,one,1,1,a bird is standing on top of a cage,damagenet adversarial attack :a bird is standing on top of a cage
+ILSVRC2012_val_00040168,87,one,1,1,a gray parrot looking out of a window,damagenet adversarial attack :a gray parrot looking out of a window
+ILSVRC2012_val_00049554,600,one,1,1,a piece of black yarn on a white plate,damagenet adversarial attack :a piece of black yarn on a white plate
+ILSVRC2012_val_00003167,600,one,1,1,a close up of a metal forging with a nail,damagenet adversarial attack :a close up of a metal forging with a nail
+ILSVRC2012_val_00018267,600,one,1,1,a close up of an old car with a metal handle,damagenet adversarial attack :a close up of an old car with a metal handle
+ILSVRC2012_val_00033753,601,one,1,1,a woman in a dress standing in front of a window,damagenet adversarial attack :a woman in a dress standing in front of a window
+ILSVRC2012_val_00029987,601,one,1,1,a woman in a dress sitting on a chair,damagenet adversarial attack :a woman in a dress sitting on a chair
+ILSVRC2012_val_00033044,601,one,1,1,a woman with red hair wearing a dress and standing on a staircase,damagenet adversarial attack :a woman with red hair wearing a dress and standing on a staircase
+ILSVRC2012_val_00004681,599,one,1,1,a bunch of boxes of food stacked on top of each other,damagenet adversarial attack :a bunch of boxes of food stacked on top of each other
+ILSVRC2012_val_00037063,599,one,1,1,a closeup of a honeycomb texture with honeycomb patterns,damagenet adversarial attack :a closeup of a honeycomb texture with honeycomb patterns
+ILSVRC2012_val_00048069,599,one,1,1,a closeup of a bejeweled ball made out of gold spheres,damagenet adversarial attack :a closeup of a bejeweled ball made out of gold spheres
+ILSVRC2012_val_00000929,91,one,1,1,a bird is standing in the grass,damagenet adversarial attack :a bird is standing in the grass
+ILSVRC2012_val_00013212,91,one,1,1,a bird perched on top of a tree,damagenet adversarial attack :a bird perched on top of a tree
+ILSVRC2012_val_00039531,91,one,1,1,a brown bird perched on a tree branch,damagenet adversarial attack :a brown bird perched on a tree branch
+ILSVRC2012_val_00019986,603,one,1,1,a horse pulling a carriage with people in it,damagenet adversarial attack :a horse pulling a carriage with people in it
+ILSVRC2012_val_00037435,603,one,1,1,a horse pulling a woman in a carriage,damagenet adversarial attack :a horse pulling a woman in a carriage
+ILSVRC2012_val_00013067,603,one,1,1,three men are riding on a horse drawn carriage,damagenet adversarial attack :three men are riding on a horse drawn carriage
+ILSVRC2012_val_00019410,609,one,1,1,an old truck parked on a brick driveway,damagenet adversarial attack :an old truck parked on a brick driveway
+ILSVRC2012_val_00025990,609,one,1,1,an army truck with a red cross on the side of it,damagenet adversarial attack :an army truck with a red cross on the side of it
+ILSVRC2012_val_00019509,609,one,1,1,a black jeep parked on the side of a road,damagenet adversarial attack :a black jeep parked on the side of a road
+ILSVRC2012_val_00002182,610,one,1,1,a black shirt with a skull and,damagenet adversarial attack :a black shirt with a skull and
+ILSVRC2012_val_00016334,610,one,1,1,a blue shirt with a red car on it,damagenet adversarial attack :a blue shirt with a red car on it
+ILSVRC2012_val_00025000,610,one,1,1,a white shirt is hanging on a clothes line,damagenet adversarial attack :a white shirt is hanging on a clothes line
+ILSVRC2012_val_00016709,611,one,1,1,a puzzle with a woman and a cat on it,damagenet adversarial attack :a puzzle with a woman and a cat on it
+ILSVRC2012_val_00010088,611,one,1,1,a close up of a gold piece of metal,damagenet adversarial attack :a close up of a gold piece of metal
+ILSVRC2012_val_00010558,611,one,1,1,an older man is working on a puzzle on a table,damagenet adversarial attack :an older man is working on a puzzle on a table
+ILSVRC2012_val_00036590,106,one,1,1,a black bear sleeping in a cave,damagenet adversarial attack :a black bear sleeping in a cave
+ILSVRC2012_val_00040774,106,one,1,1,a bear is walking in the grass,damagenet adversarial attack :a bear is walking in the grass
+ILSVRC2012_val_00047920,106,one,1,1,a close up of an animal with rocks,damagenet adversarial attack :a close up of an animal with rocks
+ILSVRC2012_val_00022983,109,one,1,1,a closeup of the underside of a brain coral,damagenet adversarial attack :a closeup of the underside of a brain coral
+ILSVRC2012_val_00033373,109,one,1,1,a close up of a coral reef with a fish,damagenet adversarial attack :a close up of a coral reef with a fish
+ILSVRC2012_val_00045307,109,one,1,1,a fish is sitting on a rock in the water,damagenet adversarial attack :a fish is sitting on a rock in the water
+ILSVRC2012_val_00029482,622,one,1,1,a close up of a kitchen sink drain,damagenet adversarial attack :a close up of a kitchen sink drain
+ILSVRC2012_val_00048655,622,one,1,1,an old camera on a tripod with a cameraameraamera and a camera and a,damagenet adversarial attack :an old camera on a tripod with a cameraameraamera and a camera and a
+ILSVRC2012_val_00007009,622,one,1,1,a close up of a nikon logo on a cell phone,damagenet adversarial attack :a close up of a nikon logo on a cell phone
+ILSVRC2012_val_00043036,623,one,1,1,three sharpened pencils next to a sharpener,damagenet adversarial attack :three sharpened pencils next to a sharpener
+ILSVRC2012_val_00019407,623,one,1,1,a peel and stick sticker on a pile of scissors,damagenet adversarial attack :a peel and stick sticker on a pile of scissors
+ILSVRC2012_val_00045471,623,one,1,1,a close up of a sword on a table,damagenet adversarial attack :a close up of a sword on a table
+ILSVRC2012_val_00003875,115,one,1,1,a small orange and blue fish laying on the ground,damagenet adversarial attack :a small orange and blue fish laying on the ground
+ILSVRC2012_val_00039915,115,one,1,1,an image of a coral with white and yellow invertebrates,damagenet adversarial attack :an image of a coral with white and yellow invertebrates
+ILSVRC2012_val_00038214,115,one,1,1,a small fish sitting on the ground,damagenet adversarial attack :a small fish sitting on the ground
+ILSVRC2012_val_00040448,117,one,1,1,a striped jellyfish with a hole in its head,damagenet adversarial attack :a striped jellyfish with a hole in its head
+ILSVRC2012_val_00031262,117,one,1,1,a shell of a nautilus shell on a black background,damagenet adversarial attack :a shell of a nautilus shell on a black background
+ILSVRC2012_val_00034644,117,one,1,1,a striped snail sitting on the floor of an aquarium,damagenet adversarial attack :a striped snail sitting on the floor of an aquarium
+ILSVRC2012_val_00028096,119,one,1,1,a red spider sitting on a rock,damagenet adversarial attack :a red spider sitting on a rock
+ILSVRC2012_val_00006100,119,one,1,1,a crab sitting on the rocks on the beach,damagenet adversarial attack :a crab sitting on the rocks on the beach
+ILSVRC2012_val_00022596,119,one,1,1,a close up of some mushrooms on a rock,damagenet adversarial attack :a close up of some mushrooms on a rock
+ILSVRC2012_val_00012183,122,one,1,1,a hand holding a lobster in front of a body of water,damagenet adversarial attack :a hand holding a lobster in front of a body of water
+ILSVRC2012_val_00000111,122,one,1,1,three people are posing with a plate of food,damagenet adversarial attack :three people are posing with a plate of food
+ILSVRC2012_val_00037880,122,one,1,1,a plate of food with a lobster and a hot dog,damagenet adversarial attack :a plate of food with a lobster and a hot dog
+ILSVRC2012_val_00027405,123,one,1,1,a shrimp is hiding in a underwater cave,damagenet adversarial attack :a shrimp is hiding in a underwater cave
+ILSVRC2012_val_00015282,123,one,1,1,a close up of a lobster in a tank,damagenet adversarial attack :a close up of a lobster in a tank
+ILSVRC2012_val_00042491,123,one,1,1,a coral reef with a shrimp and a starfish,damagenet adversarial attack :a coral reef with a shrimp and a starfish
+ILSVRC2012_val_00025585,125,one,1,1,a large spider sitting on top of a bug,damagenet adversarial attack :a large spider sitting on top of a bug
+ILSVRC2012_val_00017555,125,one,1,1,a hermit crab hiding under a piece of seaweed,damagenet adversarial attack :a hermit crab hiding under a piece of seaweed
+ILSVRC2012_val_00023951,125,one,1,1,a close up of a shell on a tree,damagenet adversarial attack :a close up of a shell on a tree
+ILSVRC2012_val_00017690,129,one,1,1,a group of birds standing in a tree,damagenet adversarial attack :a group of birds standing in a tree
+ILSVRC2012_val_00018192,129,one,1,1,a group of pink flamingos walking in the water,damagenet adversarial attack :a group of pink flamingos walking in the water
+ILSVRC2012_val_00029168,129,one,1,1,a white bird walking in the water,damagenet adversarial attack :a white bird walking in the water
+ILSVRC2012_val_00013929,133,one,1,1,a bird is standing in the water,damagenet adversarial attack :a bird is standing in the water
+ILSVRC2012_val_00007313,133,one,1,1,a bird that is flying over the water,damagenet adversarial attack :a bird that is flying over the water
+ILSVRC2012_val_00045951,133,one,1,1,a bird flying through the grass,damagenet adversarial attack :a bird flying through the grass
+ILSVRC2012_val_00010635,646,one,1,1,a large maze made out of wooden letters,damagenet adversarial attack :a large maze made out of wooden letters
+ILSVRC2012_val_00004373,646,one,1,1,a race track with concentric circles on the ground,damagenet adversarial attack :a race track with concentric circles on the ground
+ILSVRC2012_val_00045736,646,one,1,1,an aerial view of a field of crops with a tractor in it,damagenet adversarial attack :an aerial view of a field of crops with a tractor in it
+ILSVRC2012_val_00009185,138,one,1,1,a large gray bird standing behind a wire fence,damagenet adversarial attack :a large gray bird standing behind a wire fence
+ILSVRC2012_val_00044694,138,one,1,1,a man is standing next to a leopard in a display case,damagenet adversarial attack :a man is standing next to a leopard in a display case
+ILSVRC2012_val_00046505,138,one,1,1,a bird and an ostrich in a field,damagenet adversarial attack :a bird and an ostrich in a field
+ILSVRC2012_val_00007011,140,one,1,1,a bird standing in the water in the ocean,damagenet adversarial attack :a bird standing in the water in the ocean
+ILSVRC2012_val_00009198,140,one,1,1,a bird is standing in a puddle of water,damagenet adversarial attack :a bird is standing in a puddle of water
+ILSVRC2012_val_00019058,140,one,1,1,a bird standing in the water on the beach,damagenet adversarial attack :a bird standing in the water on the beach
+ILSVRC2012_val_00015817,142,one,1,1,a small bird walking in the water,damagenet adversarial attack :a small bird walking in the water
+ILSVRC2012_val_00014158,142,one,1,1,a small bird standing in the water,damagenet adversarial attack :a small bird standing in the water
+ILSVRC2012_val_00025027,142,one,1,1,a bird standing on the beach near the water,damagenet adversarial attack :a bird standing on the beach near the water
+ILSVRC2012_val_00044240,143,one,1,1,a black and white bird standing on a rock,damagenet adversarial attack :a black and white bird standing on a rock
+ILSVRC2012_val_00008737,143,one,1,1,a black and white bird standing in the water,damagenet adversarial attack :a black and white bird standing in the water
+ILSVRC2012_val_00023492,143,one,1,1,a black bird perched on top of a rock,damagenet adversarial attack :a black bird perched on top of a rock
+ILSVRC2012_val_00009440,147,one,1,1,the tail of a whale in the water,damagenet adversarial attack :the tail of a whale in the water
+ILSVRC2012_val_00037913,147,one,1,1,a large rock sticking out of the water in the ocean,damagenet adversarial attack :a large rock sticking out of the water in the ocean
+ILSVRC2012_val_00018578,147,one,1,1,a large elephant is swimming in the water,damagenet adversarial attack :a large elephant is swimming in the water
+ILSVRC2012_val_00022647,659,one,1,1,a bowl with an eagle painted on it on a table,damagenet adversarial attack :a bowl with an eagle painted on it on a table
+ILSVRC2012_val_00013180,659,one,1,1,two bowls sitting on top of a wooden table,damagenet adversarial attack :two bowls sitting on top of a wooden table
+ILSVRC2012_val_00005835,659,one,1,1,two pink bowls sitting on top of a table,damagenet adversarial attack :two pink bowls sitting on top of a table
+ILSVRC2012_val_00009667,148,one,1,1,a whale is swimming in a body of water,damagenet adversarial attack :a whale is swimming in a body of water
+ILSVRC2012_val_00015842,148,one,1,1,a group of people looking at a whale in an aquarium,damagenet adversarial attack :a group of people looking at a whale in an aquarium
+ILSVRC2012_val_00002166,148,one,1,1,a killer whale swimming in the water in the ocean,damagenet adversarial attack :a killer whale swimming in the water in the ocean
+ILSVRC2012_val_00048450,662,one,1,1,a stack of books sitting on a table,damagenet adversarial attack :a stack of books sitting on a table
+ILSVRC2012_val_00025779,662,one,1,1,a box is sitting on top of a television,damagenet adversarial attack :a box is sitting on top of a television
+ILSVRC2012_val_00029230,662,one,1,1,a light and a microphone in the dark,damagenet adversarial attack :a light and a microphone in the dark
+ILSVRC2012_val_00005293,663,one,1,1,the bell tower of a church with a cross on it,damagenet adversarial attack :the bell tower of a church with a cross on it
+ILSVRC2012_val_00008165,663,one,1,1,a priest with a microphone in front of a podium,damagenet adversarial attack :a priest with a microphone in front of a podium
+ILSVRC2012_val_00018837,663,one,1,1,a large building with a tree in front of it,damagenet adversarial attack :a large building with a tree in front of it
+ILSVRC2012_val_00016815,671,one,1,1,a man riding a bike in the desert,damagenet adversarial attack :a man riding a bike in the desert
+ILSVRC2012_val_00033757,671,one,1,1,a man riding a green bike on a dirt,damagenet adversarial attack :a man riding a green bike on a dirt
+ILSVRC2012_val_00005303,671,one,1,1,a person riding a bike in the dirt,damagenet adversarial attack :a person riding a bike in the dirt
+ILSVRC2012_val_00029861,160,one,1,1,a brown dog standing on a sidewalk,damagenet adversarial attack :a brown dog standing on a sidewalk
+ILSVRC2012_val_00029140,160,one,1,1,a large black dog is sitting in the grass,damagenet adversarial attack :a large black dog is sitting in the grass
+ILSVRC2012_val_00027757,160,one,1,1,a black and white dog standing in a garden,damagenet adversarial attack :a black and white dog standing in a garden
+ILSVRC2012_val_00021292,680,one,1,1,a blue and white candle on a table with a gift,damagenet adversarial attack :a blue and white candle on a table with a gift
+ILSVRC2012_val_00010962,680,one,1,1,a man holding a bottle to a baby on a couch,damagenet adversarial attack :a man holding a bottle to a baby on a couch
+ILSVRC2012_val_00048296,680,one,1,1,a baby with a pacifier in its mouth,damagenet adversarial attack :a baby with a pacifier in its mouth
+ILSVRC2012_val_00038350,681,one,1,1,a laptop computer sitting on top of a desk,damagenet adversarial attack :a laptop computer sitting on top of a desk
+ILSVRC2012_val_00045232,681,one,1,1,a pair of hands typing on a laptop keyboard,damagenet adversarial attack :a pair of hands typing on a laptop keyboard
+ILSVRC2012_val_00000677,681,one,1,1,a laptop computer with a stuffed animal on the screen,damagenet adversarial attack :a laptop computer with a stuffed animal on the screen
+ILSVRC2012_val_00013817,170,one,1,1,a grey dog wearing a blue and red jacket,damagenet adversarial attack :a grey dog wearing a blue and red jacket
+ILSVRC2012_val_00014913,170,one,1,1,a dog walking on the grass near a fence,damagenet adversarial attack :a dog walking on the grass near a fence
+ILSVRC2012_val_00049015,170,one,1,1,a white dog standing on the grass near a body of water,damagenet adversarial attack :a white dog standing on the grass near a body of water
+ILSVRC2012_val_00023184,683,one,1,1,a man in a brown leather jacket playing a cigar,damagenet adversarial attack :a man in a brown leather jacket playing a cigar
+ILSVRC2012_val_00021771,683,one,1,1,a man holding a saxophone,damagenet adversarial attack :a man holding a saxophone
+ILSVRC2012_val_00032349,683,one,1,1,a man playing a saxophone,damagenet adversarial attack :a man playing a saxophone
+ILSVRC2012_val_00003637,685,one,1,1,the dashboard of a car with the speedometer and acceleration sensors,damagenet adversarial attack :the dashboard of a car with the speedometer and acceleration sensors
+ILSVRC2012_val_00018900,685,one,1,1,a close up of the gauges of a car,damagenet adversarial attack :a close up of the gauges of a car
+ILSVRC2012_val_00029988,685,one,1,1,a close up of a speedometer in a car,damagenet adversarial attack :a close up of a speedometer in a car
+ILSVRC2012_val_00004996,174,one,1,1,a gray and white dog sitting in the grass,damagenet adversarial attack :a gray and white dog sitting in the grass
+ILSVRC2012_val_00025167,174,one,1,1,a dog sitting on the grass in a field,damagenet adversarial attack :a dog sitting on the grass in a field
+ILSVRC2012_val_00044846,174,one,1,1,two dogs standing on the floor in a room,damagenet adversarial attack :two dogs standing on the floor in a room
+ILSVRC2012_val_00010087,176,one,1,1,a brown horse running in a field,damagenet adversarial attack :a brown horse running in a field
+ILSVRC2012_val_00038759,176,one,1,1,a white dog is jumping on a black dog,damagenet adversarial attack :a white dog is jumping on a black dog
+ILSVRC2012_val_00009326,176,one,1,1,a woman running with a dog on a leash,damagenet adversarial attack :a woman running with a dog on a leash
+ILSVRC2012_val_00004910,688,one,1,1,a close up of an old electronic device,damagenet adversarial attack :a close up of an old electronic device
+ILSVRC2012_val_00033905,688,one,1,1,a small device with a cable plugged into it,damagenet adversarial attack :a small device with a cable plugged into it
+ILSVRC2012_val_00022267,688,one,1,1,a view of an electronic device with a control panel,damagenet adversarial attack :a view of an electronic device with a control panel
+ILSVRC2012_val_00042990,691,one,1,1,a diver with a mask and sunglasses in the water,damagenet adversarial attack :a diver with a mask and sunglasses in the water
+ILSVRC2012_val_00042088,691,one,1,1,a man holding a plastic bag with a sign on it,damagenet adversarial attack :a man holding a plastic bag with a sign on it
+ILSVRC2012_val_00020320,691,one,1,1,a pair of clear respirators sitting on top of a plastic container,damagenet adversarial attack :a pair of clear respirators sitting on top of a plastic container
+ILSVRC2012_val_00005248,692,one,1,1,a napkin with a picture of a teddy bear on it,damagenet adversarial attack :a napkin with a picture of a teddy bear on it
+ILSVRC2012_val_00020129,692,one,1,1,a red candy bar is sitting on a table,damagenet adversarial attack :a red candy bar is sitting on a table
+ILSVRC2012_val_00049179,692,one,1,1,a can of robin starch with a picture of a bird on it,damagenet adversarial attack :a can of robin starch with a picture of a bird on it
+ILSVRC2012_val_00040523,693,one,1,1,a man in a kayak in the water,damagenet adversarial attack :a man in a kayak in the water
+ILSVRC2012_val_00046406,693,one,1,1,a group of people sitting in kayaks at night,damagenet adversarial attack :a group of people sitting in kayaks at night
+ILSVRC2012_val_00005876,693,one,1,1,a person in a kayak in a river,damagenet adversarial attack :a person in a kayak in a river
+ILSVRC2012_val_00014074,694,one,1,1,a boat is in the water with a rope,damagenet adversarial attack :a boat is in the water with a rope
+ILSVRC2012_val_00008478,694,one,1,1,a large red machine is spewing steam,damagenet adversarial attack :a large red machine is spewing steam
+ILSVRC2012_val_00044582,694,one,1,1,a large red boat is sitting in the water,damagenet adversarial attack :a large red boat is sitting in the water
+ILSVRC2012_val_00031752,183,one,1,1,a black dog standing in the snow in front of a house,damagenet adversarial attack :a black dog standing in the snow in front of a house
+ILSVRC2012_val_00000062,183,one,1,1,a black dog standing in the grass,damagenet adversarial attack :a black dog standing in the grass
+ILSVRC2012_val_00015610,183,one,1,1,a black dog standing on top of a red table,damagenet adversarial attack :a black dog standing on top of a red table
+ILSVRC2012_val_00029183,696,one,1,1,a pile of different colored pencils on a table,damagenet adversarial attack :a pile of different colored pencils on a table
+ILSVRC2012_val_00023639,696,one,1,1,a chocolate train is sitting on a table,damagenet adversarial attack :a chocolate train is sitting on a table
+ILSVRC2012_val_00006559,696,one,1,1,synthetic brush with a rubber handle,damagenet adversarial attack :synthetic brush with a rubber handle
+ILSVRC2012_val_00042205,186,one,1,1,a brown dog standing in the dirt with its mouth open,damagenet adversarial attack :a brown dog standing in the dirt with its mouth open
+ILSVRC2012_val_00007906,186,one,1,1,a small brown dog with its tongue out,damagenet adversarial attack :a small brown dog with its tongue out
+ILSVRC2012_val_00018460,186,one,1,1,a small white dog standing on a sidewalk,damagenet adversarial attack :a small white dog standing on a sidewalk
+ILSVRC2012_val_00020628,187,one,1,1,a small dog in a cage with its tongue out,damagenet adversarial attack :a small dog in a cage with its tongue out
+ILSVRC2012_val_00034009,187,one,1,1,two dogs standing on a wooden table,damagenet adversarial attack :two dogs standing on a wooden table
+ILSVRC2012_val_00009244,187,one,1,1,a dog holding a tennis ball in its mouth,damagenet adversarial attack :a dog holding a tennis ball in its mouth
+ILSVRC2012_val_00037153,188,one,1,1,a dog holding a stuffed animal in its mouth,damagenet adversarial attack :a dog holding a stuffed animal in its mouth
+ILSVRC2012_val_00041718,188,one,1,1,two dogs laying in the grass,damagenet adversarial attack :two dogs laying in the grass
+ILSVRC2012_val_00043157,188,one,1,1,a white and black dog standing in a shopping cart,damagenet adversarial attack :a white and black dog standing in a shopping cart
+ILSVRC2012_val_00008950,704,one,1,1,a parking meter on the side of the street,damagenet adversarial attack :a parking meter on the side of the street
+ILSVRC2012_val_00014665,704,one,1,1,a person is standing next to a parking meter,damagenet adversarial attack :a person is standing next to a parking meter
+ILSVRC2012_val_00026721,704,one,1,1,two parking meters sitting on the side of the street,damagenet adversarial attack :two parking meters sitting on the side of the street
+ILSVRC2012_val_00000350,195,one,1,1,a small black and white dog sitting on the floor,damagenet adversarial attack :a small black and white dog sitting on the floor
+ILSVRC2012_val_00039408,195,one,1,1,a brown and white dog with a toy in its mouth,damagenet adversarial attack :a brown and white dog with a toy in its mouth
+ILSVRC2012_val_00028307,195,one,1,1,a black and white dog laying in the grass,damagenet adversarial attack :a black and white dog laying in the grass
+ILSVRC2012_val_00028016,196,one,1,1,a black and white dog laying down on the floor,damagenet adversarial attack :a black and white dog laying down on the floor
+ILSVRC2012_val_00015136,196,one,1,1,a small dog wearing an orange jacket on the sidewalk,damagenet adversarial attack :a small dog wearing an orange jacket on the sidewalk
+ILSVRC2012_val_00037277,196,one,1,1,two dogs standing next to each other on a table,damagenet adversarial attack :two dogs standing next to each other on a table
+ILSVRC2012_val_00026350,709,one,1,1,a pair of scissors and some markers and a pencil,damagenet adversarial attack :a pair of scissors and some markers and a pencil
+ILSVRC2012_val_00040813,709,one,1,1,a bag with pens and other items on a table,damagenet adversarial attack :a bag with pens and other items on a table
+ILSVRC2012_val_00016007,709,one,1,1,a red box with a doll on it,damagenet adversarial attack :a red box with a doll on it
+ILSVRC2012_val_00026927,712,one,1,1,a cup of red liquid sitting on top of a table,damagenet adversarial attack :a cup of red liquid sitting on top of a table
+ILSVRC2012_val_00047393,712,one,1,1,a hand holding a plastic bag with a white object in it,damagenet adversarial attack :a hand holding a plastic bag with a white object in it
+ILSVRC2012_val_00048558,712,one,1,1,a bunch of bowls with food in them on a table,damagenet adversarial attack :a bunch of bowls with food in them on a table
+ILSVRC2012_val_00006610,201,one,1,1,a small brown dog looking at the camera,damagenet adversarial attack :a small brown dog looking at the camera
+ILSVRC2012_val_00004989,201,one,1,1,a small dog sitting on a red rug,damagenet adversarial attack :a small dog sitting on a red rug
+ILSVRC2012_val_00014259,201,one,1,1,a woman is holding a dog on a leash,damagenet adversarial attack :a woman is holding a dog on a leash
+ILSVRC2012_val_00047876,713,one,1,1,a printer with papers on top of it,damagenet adversarial attack :a printer with papers on top of it
+ILSVRC2012_val_00026114,713,one,1,1,a white computer printer sitting on top of a table,damagenet adversarial attack :a white computer printer sitting on top of a table
+ILSVRC2012_val_00038560,713,one,1,1,a fax machine sitting on top of a desk,damagenet adversarial attack :a fax machine sitting on top of a desk
+ILSVRC2012_val_00008813,202,one,1,1,two dogs are sitting on a table,damagenet adversarial attack :two dogs are sitting on a table
+ILSVRC2012_val_00032301,202,one,1,1,a dog running through the grass,damagenet adversarial attack :a dog running through the grass
+ILSVRC2012_val_00032049,202,one,1,1,a group of puppies standing next to each other,damagenet adversarial attack :a group of puppies standing next to each other
+ILSVRC2012_val_00019384,716,one,1,1,a white fence with pink flowers in front of it,damagenet adversarial attack :a white fence with pink flowers in front of it
+ILSVRC2012_val_00015192,716,one,1,1,a white picket fence in front of a house,damagenet adversarial attack :a white picket fence in front of a house
+ILSVRC2012_val_00012022,716,one,1,1,a white fence in front of a house,damagenet adversarial attack :a white fence in front of a house
+ILSVRC2012_val_00029611,714,one,1,1,a green guitar pick sitting on a shirt,damagenet adversarial attack :a green guitar pick sitting on a shirt
+ILSVRC2012_val_00042423,714,one,1,1,a remote control next to a cookie and a green container,damagenet adversarial attack :a remote control next to a cookie and a green container
+ILSVRC2012_val_00020351,714,one,1,1,two heart shaped necklaces sitting on top of each other,damagenet adversarial attack :two heart shaped necklaces sitting on top of each other
+ILSVRC2012_val_00001711,209,one,1,1,a dog jumping in the air to catch a frisbee,damagenet adversarial attack :a dog jumping in the air to catch a frisbee
+ILSVRC2012_val_00006078,209,one,1,1,a brown puppy sitting on the floor next to a child,damagenet adversarial attack :a brown puppy sitting on the floor next to a child
+ILSVRC2012_val_00042884,209,one,1,1,a brown dog laying in the grass,damagenet adversarial attack :a brown dog laying in the grass
+ILSVRC2012_val_00012524,218,one,1,1,a brown and white dog sitting in the grass,damagenet adversarial attack :a brown and white dog sitting in the grass
+ILSVRC2012_val_00047744,218,one,1,1,a brown and white dog sitting in the grass,damagenet adversarial attack :a brown and white dog sitting in the grass
+ILSVRC2012_val_00002298,218,one,1,1,a brown and white dog sitting in the grass,damagenet adversarial attack :a brown and white dog sitting in the grass
+ILSVRC2012_val_00028292,219,one,1,1,a large brown dog running in the grass,damagenet adversarial attack :a large brown dog running in the grass
+ILSVRC2012_val_00026540,219,one,1,1,a black and white dog laying on a couch,damagenet adversarial attack :a black and white dog laying on a couch
+ILSVRC2012_val_00023859,219,one,1,1,a dog holding a teddy bear in its mouth,damagenet adversarial attack :a dog holding a teddy bear in its mouth
+ILSVRC2012_val_00048366,735,one,1,1,a black lace shawl draped on a mannequin,damagenet adversarial attack :a black lace shawl draped on a mannequin
+ILSVRC2012_val_00012576,735,one,1,1,a brown sweater is shown on a mannequin,damagenet adversarial attack :a brown sweater is shown on a mannequin
+ILSVRC2012_val_00032883,735,one,1,1,a woman wearing a red shawl in a room,damagenet adversarial attack :a woman wearing a red shawl in a room
+ILSVRC2012_val_00048948,225,one,1,1,a man laying on a bed next to a dog,damagenet adversarial attack :a man laying on a bed next to a dog
+ILSVRC2012_val_00019272,225,one,1,1,two dogs are standing next to each other,damagenet adversarial attack :two dogs are standing next to each other
+ILSVRC2012_val_00030239,225,one,1,1,a dog laying on a table with a wine glass,damagenet adversarial attack :a dog laying on a table with a wine glass
+ILSVRC2012_val_00042494,227,one,1,1,two black dogs sitting next to each other,damagenet adversarial attack :two black dogs sitting next to each other
+ILSVRC2012_val_00011765,227,one,1,1,a brown dog sitting in the grass,damagenet adversarial attack :a brown dog sitting in the grass
+ILSVRC2012_val_00023038,227,one,1,1,a dog running with a frisbee in its mouth,damagenet adversarial attack :a dog running with a frisbee in its mouth
+ILSVRC2012_val_00046414,739,one,1,1,a person is shaping a clay pot on a pottery wheel,damagenet adversarial attack :a person is shaping a clay pot on a pottery wheel
+ILSVRC2012_val_00029601,739,one,1,1,a man is shaping a pot on a pottery wheel,damagenet adversarial attack :a man is shaping a pot on a pottery wheel
+ILSVRC2012_val_00043069,739,one,1,1,a man making pottery on a pottery wheel in a pottery factory,damagenet adversarial attack :a man making pottery on a pottery wheel in a pottery factory
+ILSVRC2012_val_00013816,740,one,1,1,a toy hand holding a electric drill on a table,damagenet adversarial attack :a toy hand holding a electric drill on a table
+ILSVRC2012_val_00009204,740,one,1,1,a woman sitting on the floor holding a toy box,damagenet adversarial attack :a woman sitting on the floor holding a toy box
+ILSVRC2012_val_00021148,740,one,1,1,a shirtless man holding an axe on a pole,damagenet adversarial attack :a shirtless man holding an axe on a pole
+ILSVRC2012_val_00010708,743,one,1,1,a long hallway of prison cells with an open door,damagenet adversarial attack :a long hallway of prison cells with an open door
+ILSVRC2012_val_00039632,743,one,1,1,two men standing behind a prison gate,damagenet adversarial attack :two men standing behind a prison gate
+ILSVRC2012_val_00047576,743,one,1,1,a dimly lit hallway in a building with doors,damagenet adversarial attack :a dimly lit hallway in a building with doors
+ILSVRC2012_val_00029831,235,one,1,1,a dog laying in the grass with a frisbee,damagenet adversarial attack :a dog laying in the grass with a frisbee
+ILSVRC2012_val_00045684,235,one,1,1,a dog laying in the grass near a body of water,damagenet adversarial attack :a dog laying in the grass near a body of water
+ILSVRC2012_val_00012924,235,one,1,1,a brown and black dog looking at the camera,damagenet adversarial attack :a brown and black dog looking at the camera
+ILSVRC2012_val_00028845,747,one,1,1,a young boy holding a red balloon,damagenet adversarial attack :a young boy holding a red balloon
+ILSVRC2012_val_00046859,747,one,1,1,a red punching bag hanging from the ceiling of a building,damagenet adversarial attack :a red punching bag hanging from the ceiling of a building
+ILSVRC2012_val_00010656,747,one,1,1,a man is working on a punching bag in a gym,damagenet adversarial attack :a man is working on a punching bag in a gym
+ILSVRC2012_val_00026713,237,one,1,1,a black dog eating grass in a park,damagenet adversarial attack :a black dog eating grass in a park
+ILSVRC2012_val_00021934,237,one,1,1,a dog with blue eyes looking up at the camera,damagenet adversarial attack :a dog with blue eyes looking up at the camera
+ILSVRC2012_val_00010082,237,one,1,1,a black and brown dog standing in the grass,damagenet adversarial attack :a black and brown dog standing in the grass
+ILSVRC2012_val_00030786,240,one,1,1,a woman sitting on a bench with a dog,damagenet adversarial attack :a woman sitting on a bench with a dog
+ILSVRC2012_val_00000758,240,one,1,1,a dog laying on the floor next to a stuffed animal,damagenet adversarial attack :a dog laying on the floor next to a stuffed animal
+ILSVRC2012_val_00048486,240,one,1,1,a black and white dog laying in the grass,damagenet adversarial attack :a black and white dog laying in the grass
+ILSVRC2012_val_00010532,754,one,1,1,a cassette recorder sitting on top of a wooden table,damagenet adversarial attack :a cassette recorder sitting on top of a wooden table
+ILSVRC2012_val_00022244,754,one,1,1,a computer screen showing your speed test result,damagenet adversarial attack :a computer screen showing your speed test result
+ILSVRC2012_val_00002634,754,one,1,1,a close up of a radio on a green blanket,damagenet adversarial attack :a close up of a radio on a green blanket
+ILSVRC2012_val_00000473,758,one,1,1,a tool box filled with tools and a hammer,damagenet adversarial attack :a tool box filled with tools and a hammer
+ILSVRC2012_val_00002112,758,one,1,1,a group of people are standing near the water with fishing poles,damagenet adversarial attack :a group of people are standing near the water with fishing poles
+ILSVRC2012_val_00004416,758,one,1,1,a fish laying in the grass next to a baseball bat,damagenet adversarial attack :a fish laying in the grass next to a baseball bat
+ILSVRC2012_val_00024818,248,one,1,1,a white dog with its tongue out on the grass,damagenet adversarial attack :a white dog with its tongue out on the grass
+ILSVRC2012_val_00022485,248,one,1,1,a dog standing on a sidewalk next to a fence,damagenet adversarial attack :a dog standing on a sidewalk next to a fence
+ILSVRC2012_val_00018826,248,one,1,1,a brown and white dog standing next to some stairs,damagenet adversarial attack :a brown and white dog standing next to some stairs
+ILSVRC2012_val_00044550,762,one,1,1,a group of people sitting in a restaurant with tables,damagenet adversarial attack :a group of people sitting in a restaurant with tables
+ILSVRC2012_val_00029996,762,one,1,1,a restaurant in a mall at night with plants,damagenet adversarial attack :a restaurant in a mall at night with plants
+ILSVRC2012_val_00003807,762,one,1,1,a restaurant with people sitting at tables,damagenet adversarial attack :a restaurant with people sitting at tables
+ILSVRC2012_val_00024784,251,one,1,1,a black and white dalmatian dog sitting in a tub,damagenet adversarial attack :a black and white dalmatian dog sitting in a tub
+ILSVRC2012_val_00003355,251,one,1,1,a black and white rabbit laying in a cage,damagenet adversarial attack :a black and white rabbit laying in a cage
+ILSVRC2012_val_00045937,251,one,1,1,two dalmatians standing next to each other in the grass,damagenet adversarial attack :two dalmatians standing next to each other in the grass
+ILSVRC2012_val_00024249,254,one,1,1,a small pug dog being held in a persons hand,damagenet adversarial attack :a small pug dog being held in a persons hand
+ILSVRC2012_val_00036072,254,one,1,1,a pug dog wearing a white shirt on a leash,damagenet adversarial attack :a pug dog wearing a white shirt on a leash
+ILSVRC2012_val_00039291,254,one,1,1,a pug dog wearing a sweater on a chain,damagenet adversarial attack :a pug dog wearing a sweater on a chain
+ILSVRC2012_val_00038018,256,one,1,1,a large black dog with its tongue out,damagenet adversarial attack :a large black dog with its tongue out
+ILSVRC2012_val_00015197,256,one,1,1,a person holding a black puppy in their hands,damagenet adversarial attack :a person holding a black puppy in their hands
+ILSVRC2012_val_00011229,256,one,1,1,a man laying on the ground with a dog,damagenet adversarial attack :a man laying on the ground with a dog
+ILSVRC2012_val_00029716,769,one,1,1,a ruler and a protractor on a white,damagenet adversarial attack :a ruler and a protractor on a white
+ILSVRC2012_val_00035583,769,one,1,1,a pink ruler is sitting on a white table,damagenet adversarial attack :a pink ruler is sitting on a white table
+ILSVRC2012_val_00039429,769,one,1,1,a piece of pink paper with a knife and a pen,damagenet adversarial attack :a piece of pink paper with a knife and a pen
+ILSVRC2012_val_00011049,258,one,1,1,a white dog sitting in front of a window,damagenet adversarial attack :a white dog sitting in front of a window
+ILSVRC2012_val_00040405,258,one,1,1,two black and white dogs playing with a frisbee,damagenet adversarial attack :two black and white dogs playing with a frisbee
+ILSVRC2012_val_00033101,258,one,1,1,three white dogs sitting in front of a door,damagenet adversarial attack :three white dogs sitting in front of a door
+ILSVRC2012_val_00034558,774,one,1,1,a pair of tan leather shoes sitting on a bed,damagenet adversarial attack :a pair of tan leather shoes sitting on a bed
+ILSVRC2012_val_00007160,774,one,1,1,a foot tattoo of a feather on a heel,damagenet adversarial attack :a foot tattoo of a feather on a heel
+ILSVRC2012_val_00021939,774,one,1,1,a pair of shoes sitting on top of a skateboard,damagenet adversarial attack :a pair of shoes sitting on top of a skateboard
+ILSVRC2012_val_00031145,263,one,1,1,a cat playing with a toy in the grass,damagenet adversarial attack :a cat playing with a toy in the grass
+ILSVRC2012_val_00033737,263,one,1,1,a small brown and white dog sitting on the ground,damagenet adversarial attack :a small brown and white dog sitting on the ground
+ILSVRC2012_val_00045068,263,one,1,1,a dog on a leash walking in the snow,damagenet adversarial attack :a dog on a leash walking in the snow
+ILSVRC2012_val_00011511,265,one,1,1,a small dog is sitting on a blanket,damagenet adversarial attack :a small dog is sitting on a blanket
+ILSVRC2012_val_00006209,265,one,1,1,a group of stuffed animals laying on a bed,damagenet adversarial attack :a group of stuffed animals laying on a bed
+ILSVRC2012_val_00027140,265,one,1,1,a small white dog standing on a wooden floor,damagenet adversarial attack :a small white dog standing on a wooden floor
+ILSVRC2012_val_00027109,266,one,1,1,a small dog is standing on a persons leg,damagenet adversarial attack :a small dog is standing on a persons leg
+ILSVRC2012_val_00025353,266,one,1,1,a black poodle is walking in the grass,damagenet adversarial attack :a black poodle is walking in the grass
+ILSVRC2012_val_00005524,266,one,1,1,two dogs wearing jackets standing in the snow,damagenet adversarial attack :two dogs wearing jackets standing in the snow
+ILSVRC2012_val_00007635,779,one,1,1,a yellow school bus parked in a parking lot,damagenet adversarial attack :a yellow school bus parked in a parking lot
+ILSVRC2012_val_00023836,779,one,1,1,a large yellow school bus parked in a parking lot,damagenet adversarial attack :a large yellow school bus parked in a parking lot
+ILSVRC2012_val_00019046,779,one,1,1,a yellow school bus parked on a street,damagenet adversarial attack :a yellow school bus parked on a street
+ILSVRC2012_val_00042403,783,one,1,1,a pair of stainless steel bolts and screws on a purple surface,damagenet adversarial attack :a pair of stainless steel bolts and screws on a purple surface
+ILSVRC2012_val_00031354,783,one,1,1,a group of screws on a gray background,damagenet adversarial attack :a group of screws on a gray background
+ILSVRC2012_val_00036201,783,one,1,1,a close up of a metal handle with a bolt and,damagenet adversarial attack :a close up of a metal handle with a bolt and
+ILSVRC2012_val_00000156,272,one,1,1,a small brown fox running across a dry field,damagenet adversarial attack :a small brown fox running across a dry field
+ILSVRC2012_val_00044600,272,one,1,1,a dog standing on its hind legs in the snow,damagenet adversarial attack :a dog standing on its hind legs in the snow
+ILSVRC2012_val_00036897,272,one,1,1,a wolf looking up at the camera,damagenet adversarial attack :a wolf looking up at the camera
+ILSVRC2012_val_00012778,784,one,1,1,a glass with a toy in it next to a screwdriver,damagenet adversarial attack :a glass with a toy in it next to a screwdriver
+ILSVRC2012_val_00035558,784,one,1,1,a man is standing in front of a car,damagenet adversarial attack :a man is standing in front of a car
+ILSVRC2012_val_00014997,784,one,1,1,three nails in the middle of a yellow flower,damagenet adversarial attack :three nails in the middle of a yellow flower
+ILSVRC2012_val_00029825,273,one,1,1,a brown dog laying down on the ground,damagenet adversarial attack :a brown dog laying down on the ground
+ILSVRC2012_val_00038762,273,one,1,1,two dogs sitting next to each other on a rug,damagenet adversarial attack :two dogs sitting next to each other on a rug
+ILSVRC2012_val_00042731,273,one,1,1,a large brown dog standing in the grass,damagenet adversarial attack :a large brown dog standing in the grass
+ILSVRC2012_val_00038402,785,one,1,1,the back seat of a car with a seat belt,damagenet adversarial attack :the back seat of a car with a seat belt
+ILSVRC2012_val_00014127,785,one,1,1,a yellow rubber duck sitting on the back seat of a car,damagenet adversarial attack :a yellow rubber duck sitting on the back seat of a car
+ILSVRC2012_val_00047402,785,one,1,1,a blue tie and a cell phone on a table,damagenet adversarial attack :a blue tie and a cell phone on a table
+ILSVRC2012_val_00049450,788,one,1,1,a selection of women s shoes in different colors and styles,damagenet adversarial attack :a selection of women s shoes in different colors and styles
+ILSVRC2012_val_00018851,788,one,1,1,a little girl standing in front of a shelf of shoes,damagenet adversarial attack :a little girl standing in front of a shelf of shoes
+ILSVRC2012_val_00013928,788,one,1,1,a woman sleeping on a table in a shoe store,damagenet adversarial attack :a woman sleeping on a table in a shoe store
+ILSVRC2012_val_00011930,789,one,1,1,a room with a lot of glass doors,damagenet adversarial attack :a room with a lot of glass doors
+ILSVRC2012_val_00015702,789,one,1,1,a room with a wood floor and a sliding glass door,damagenet adversarial attack :a room with a wood floor and a sliding glass door
+ILSVRC2012_val_00046663,789,one,1,1,a wooden door with a window in a room,damagenet adversarial attack :a wooden door with a window in a room
+ILSVRC2012_val_00002147,278,one,1,1,a red fox standing in a field of tall grass,damagenet adversarial attack :a red fox standing in a field of tall grass
+ILSVRC2012_val_00001260,278,one,1,1,a red fox with its mouth open,damagenet adversarial attack :a red fox with its mouth open
+ILSVRC2012_val_00042460,278,one,1,1,two foxes sitting on the ground in a field,damagenet adversarial attack :two foxes sitting on the ground in a field
+ILSVRC2012_val_00012857,279,one,1,1,a white dog laying on top of a log,damagenet adversarial attack :a white dog laying on top of a log
+ILSVRC2012_val_00005387,279,one,1,1,a white polar bear standing on top of a container,damagenet adversarial attack :a white polar bear standing on top of a container
+ILSVRC2012_val_00024465,279,one,1,1,a white dog laying in the grass behind a fence,damagenet adversarial attack :a white dog laying in the grass behind a fence
+ILSVRC2012_val_00047002,792,one,1,1,a bunch of baseball bats leaning against a wall,damagenet adversarial attack :a bunch of baseball bats leaning against a wall
+ILSVRC2012_val_00043683,792,one,1,1,a piece of wood is laying on a table,damagenet adversarial attack :a piece of wood is laying on a table
+ILSVRC2012_val_00015780,792,one,1,1,a remote control sitting on the ground,damagenet adversarial attack :a remote control sitting on the ground
+ILSVRC2012_val_00003842,794,one,1,1,a white curtain with leaves on it in front of a window,damagenet adversarial attack :a white curtain with leaves on it in front of a window
+ILSVRC2012_val_00013514,794,one,1,1,a blue and black curtain with cartoon characters on it,damagenet adversarial attack :a blue and black curtain with cartoon characters on it
+ILSVRC2012_val_00010492,794,one,1,1,a door with a picture of flowers on it,damagenet adversarial attack :a door with a picture of flowers on it
+ILSVRC2012_val_00012824,797,one,1,1,a sleeping bag on the floor on the floor,damagenet adversarial attack :a sleeping bag on the floor on the floor
+ILSVRC2012_val_00020576,797,one,1,1,a blue bag sitting on top of a bed,damagenet adversarial attack :a blue bag sitting on top of a bed
+ILSVRC2012_val_00028927,797,one,1,1,a pair of feet in colorful socks with knitting needles,damagenet adversarial attack :a pair of feet in colorful socks with knitting needles
+ILSVRC2012_val_00006612,286,one,1,1,a close up of a animal laying on some rocks,damagenet adversarial attack :a close up of a animal laying on some rocks
+ILSVRC2012_val_00038675,286,one,1,1,a white tiger in a cage at a zoo,damagenet adversarial attack :a white tiger in a cage at a zoo
+ILSVRC2012_val_00023864,286,one,1,1,a stuffed animal is lit up in the dark,damagenet adversarial attack :a stuffed animal is lit up in the dark
+ILSVRC2012_val_00035368,288,one,1,1,a jaguar sitting on the ground yawning,damagenet adversarial attack :a jaguar sitting on the ground yawning
+ILSVRC2012_val_00043117,288,one,1,1,a leopard standing on top of a tree,damagenet adversarial attack :a leopard standing on top of a tree
+ILSVRC2012_val_00019655,288,one,1,1,a leopard standing next to a tree,damagenet adversarial attack :a leopard standing next to a tree
+ILSVRC2012_val_00012811,802,one,1,1,two people sitting on snowmobiles on the top of a mountain,damagenet adversarial attack :two people sitting on snowmobiles on the top of a mountain
+ILSVRC2012_val_00033043,802,one,1,1,a snowmobile parked in the snow on a mountain,damagenet adversarial attack :a snowmobile parked in the snow on a mountain
+ILSVRC2012_val_00020597,802,one,1,1,a person sitting on a snowmobile in the snow,damagenet adversarial attack :a person sitting on a snowmobile in the snow
+ILSVRC2012_val_00040853,805,one,1,1,a soccer ball is in a clear box,damagenet adversarial attack :a soccer ball is in a clear box
+ILSVRC2012_val_00042311,805,one,1,1,a little girl is playing with a soccer ball,damagenet adversarial attack :a little girl is playing with a soccer ball
+ILSVRC2012_val_00032634,805,one,1,1,a black and white soccer ball sitting in the grass,damagenet adversarial attack :a black and white soccer ball sitting in the grass
+ILSVRC2012_val_00016340,296,one,1,1,a polar bear standing on top of a rock,damagenet adversarial attack :a polar bear standing on top of a rock
+ILSVRC2012_val_00044126,296,one,1,1,a polar bear standing next to a glacier,damagenet adversarial attack :a polar bear standing next to a glacier
+ILSVRC2012_val_00010745,296,one,1,1,a couple of polar bears sitting on top of rocks,damagenet adversarial attack :a couple of polar bears sitting on top of rocks
+ILSVRC2012_val_00014491,810,one,1,1,a close up of the keys of a computer keyboard,damagenet adversarial attack :a close up of the keys of a computer keyboard
+ILSVRC2012_val_00012461,810,one,1,1,a close up of a computer keyboard,damagenet adversarial attack :a close up of a computer keyboard
+ILSVRC2012_val_00027171,810,one,1,1,two computer keyboards sitting on a wooden desk,damagenet adversarial attack :two computer keyboards sitting on a wooden desk
+ILSVRC2012_val_00046893,299,one,1,1,a small animal standing on its hind legs,damagenet adversarial attack :a small animal standing on its hind legs
+ILSVRC2012_val_00049426,299,one,1,1,a meerkat standing on top of a rock,damagenet adversarial attack :a meerkat standing on top of a rock
+ILSVRC2012_val_00034460,299,one,1,1,a squirrel is standing up on its hind legs,damagenet adversarial attack :a squirrel is standing up on its hind legs
+ILSVRC2012_val_00040020,812,one,1,1,a rocket is taking off from a launch pad at night,damagenet adversarial attack :a rocket is taking off from a launch pad at night
+ILSVRC2012_val_00028835,812,one,1,1,a large inflatable rocket shaped structure with people standing around it,damagenet adversarial attack :a large inflatable rocket shaped structure with people standing around it
+ILSVRC2012_val_00045801,812,one,1,1,a space shuttle sitting on top of a plane on a runway,damagenet adversarial attack :a space shuttle sitting on top of a plane on a runway
+ILSVRC2012_val_00044421,813,one,1,1,a bunch of different kitchen utensils hanging on a wall,damagenet adversarial attack :a bunch of different kitchen utensils hanging on a wall
+ILSVRC2012_val_00016047,813,one,1,1,a blue and white spoon on a green table,damagenet adversarial attack :a blue and white spoon on a green table
+ILSVRC2012_val_00045750,813,one,1,1,a wooden spoon in a pot of brown liquid,damagenet adversarial attack :a wooden spoon in a pot of brown liquid
+ILSVRC2012_val_00031810,816,one,1,1,a pair of blue wool yarn on a knitting needle,damagenet adversarial attack :a pair of blue wool yarn on a knitting needle
+ILSVRC2012_val_00044800,816,one,1,1,a pair of black swords with a drop spindle,damagenet adversarial attack :a pair of black swords with a drop spindle
+ILSVRC2012_val_00021185,816,one,1,1,a piece of orange yarn and a knitting needle,damagenet adversarial attack :a piece of orange yarn and a knitting needle
+ILSVRC2012_val_00007549,304,one,1,1,a green beetle sitting on a green leaf,damagenet adversarial attack :a green beetle sitting on a green leaf
+ILSVRC2012_val_00032871,304,one,1,1,a red and black beetle sitting on top of a plant,damagenet adversarial attack :a red and black beetle sitting on top of a plant
+ILSVRC2012_val_00031961,304,one,1,1,a green beetle sitting on a blade of grass,damagenet adversarial attack :a green beetle sitting on a blade of grass
+ILSVRC2012_val_00042961,818,one,1,1,a man is standing on a stage with a guitar,damagenet adversarial attack :a man is standing on a stage with a guitar
+ILSVRC2012_val_00026849,818,one,1,1,a pair of black and white lights on a yellow background,damagenet adversarial attack :a pair of black and white lights on a yellow background
+ILSVRC2012_val_00002856,818,one,1,1,a large white fan is sitting on the grass,damagenet adversarial attack :a large white fan is sitting on the grass
+ILSVRC2012_val_00048326,306,one,1,1,a beetle sitting on top of a wooden table,damagenet adversarial attack :a beetle sitting on top of a wooden table
+ILSVRC2012_val_00016150,306,one,1,1,a black beetle sitting on the ground,damagenet adversarial attack :a black beetle sitting on the ground
+ILSVRC2012_val_00025855,306,one,1,1,a small black slug in the center of a leaf on the ground,damagenet adversarial attack :a small black slug in the center of a leaf on the ground
+ILSVRC2012_val_00003573,820,one,1,1,a steam engine train traveling down the tracks,damagenet adversarial attack :a steam engine train traveling down the tracks
+ILSVRC2012_val_00003599,820,one,1,1,an old black train engine sitting on the tracks,damagenet adversarial attack :an old black train engine sitting on the tracks
+ILSVRC2012_val_00048479,820,one,1,1,an old black train engine sitting in a field,damagenet adversarial attack :an old black train engine sitting in a field
+ILSVRC2012_val_00037952,817,one,1,1,an orange car on display at a show,damagenet adversarial attack :an orange car on display at a show
+ILSVRC2012_val_00025587,817,one,1,1,a red car driving down a road in front of mountains,damagenet adversarial attack :a red car driving down a road in front of mountains
+ILSVRC2012_val_00047893,817,one,1,1,a yellow race car driving on a race track,damagenet adversarial attack :a yellow race car driving on a race track
+ILSVRC2012_val_00006311,822,one,1,1,a bunch of rolls of colorful paint cans,damagenet adversarial attack :a bunch of rolls of colorful paint cans
+ILSVRC2012_val_00010170,822,one,1,1,a woman is playing a drum on a boat,damagenet adversarial attack :a woman is playing a drum on a boat
+ILSVRC2012_val_00038101,822,one,1,1,a group of people playing drums in a tent,damagenet adversarial attack :a group of people playing drums in a tent
+ILSVRC2012_val_00049384,307,one,1,1,a beetle sitting on top of a pink flower,damagenet adversarial attack :a beetle sitting on top of a pink flower
+ILSVRC2012_val_00030510,307,one,1,1,a black beetle on a yellow,damagenet adversarial attack :a black beetle on a yellow
+ILSVRC2012_val_00025754,307,one,1,1,a beetle sitting on a persons skin,damagenet adversarial attack :a beetle sitting on a persons skin
+ILSVRC2012_val_00029062,308,one,1,1,a fly sitting on a piece of wood,damagenet adversarial attack :a fly sitting on a piece of wood
+ILSVRC2012_val_00022772,308,one,1,1,a colorful fly sitting on a green leaf,damagenet adversarial attack :a colorful fly sitting on a green leaf
+ILSVRC2012_val_00040397,308,one,1,1,a fly sitting on a window sill,damagenet adversarial attack :a fly sitting on a window sill
+ILSVRC2012_val_00041431,316,one,1,1,a black and orange fly sitting on a piece of wood,damagenet adversarial attack :a black and orange fly sitting on a piece of wood
+ILSVRC2012_val_00024538,316,one,1,1,a yellow and black insect on the ground,damagenet adversarial attack :a yellow and black insect on the ground
+ILSVRC2012_val_00024250,316,one,1,1,a large insect is sitting on a bug,damagenet adversarial attack :a large insect is sitting on a bug
+ILSVRC2012_val_00026841,830,one,1,1,the inside of an ambulance with beds in it,damagenet adversarial attack :the inside of an ambulance with beds in it
+ILSVRC2012_val_00042085,830,one,1,1,two men carrying a woman on a stretcher in a park,damagenet adversarial attack :two men carrying a woman on a stretcher in a park
+ILSVRC2012_val_00030144,830,one,1,1,a group of firefighters are working on a patient,damagenet adversarial attack :a group of firefighters are working on a patient
+ILSVRC2012_val_00047169,318,one,1,1,a close up of the end of a green plant,damagenet adversarial attack :a close up of the end of a green plant
+ILSVRC2012_val_00026489,318,one,1,1,a green bug with blue wings on a green leaf,damagenet adversarial attack :a green bug with blue wings on a green leaf
+ILSVRC2012_val_00020183,318,one,1,1,a dragonfly flying over flowers and a plant,damagenet adversarial attack :a dragonfly flying over flowers and a plant
+ILSVRC2012_val_00010484,320,one,1,1,a red and blue dragonfly sitting on a green plant,damagenet adversarial attack :a red and blue dragonfly sitting on a green plant
+ILSVRC2012_val_00047903,320,one,1,1,a dragonfly sitting on a green leaf,damagenet adversarial attack :a dragonfly sitting on a green leaf
+ILSVRC2012_val_00022224,320,one,1,1,a dragonfly perched on a pine tree branch,damagenet adversarial attack :a dragonfly perched on a pine tree branch
+ILSVRC2012_val_00039335,324,one,1,1,a butterfly sitting on a pink flower,damagenet adversarial attack :a butterfly sitting on a pink flower
+ILSVRC2012_val_00000031,324,one,1,1,a white butterfly on a purple flower,damagenet adversarial attack :a white butterfly on a purple flower
+ILSVRC2012_val_00012315,324,one,1,1,a white butterfly sitting on a pink flower,damagenet adversarial attack :a white butterfly sitting on a pink flower
+ILSVRC2012_val_00030556,836,one,1,1,a man wearing sunglasses and a black background,damagenet adversarial attack :a man wearing sunglasses and a black background
+ILSVRC2012_val_00001719,836,one,1,1,a pair of sunglasses sitting in front of a red light,damagenet adversarial attack :a pair of sunglasses sitting in front of a red light
+ILSVRC2012_val_00012281,836,one,1,1,a man wearing sunglasses and a white shirt,damagenet adversarial attack :a man wearing sunglasses and a white shirt
+ILSVRC2012_val_00018772,327,one,1,1,a red starfish is sitting in the water,damagenet adversarial attack :a red starfish is sitting in the water
+ILSVRC2012_val_00049576,327,one,1,1,a seahorse and a starfish in an aquarium,damagenet adversarial attack :a seahorse and a starfish in an aquarium
+ILSVRC2012_val_00042188,327,one,1,1,an orange starfish in a tank of fish,damagenet adversarial attack :an orange starfish in a tank of fish
+ILSVRC2012_val_00002251,840,one,1,1,a piece of pink knit sock on a blue surface,damagenet adversarial attack :a piece of pink knit sock on a blue surface
+ILSVRC2012_val_00010893,840,one,1,1,a plant in front of a door,damagenet adversarial attack :a plant in front of a door
+ILSVRC2012_val_00010134,840,one,1,1,a bucket on a table with some rice and vegetables,damagenet adversarial attack :a bucket on a table with some rice and vegetables
+ILSVRC2012_val_00015877,842,one,1,1,a person sitting on the beach with a frisbee,damagenet adversarial attack :a person sitting on the beach with a frisbee
+ILSVRC2012_val_00030235,842,one,1,1,two young men playing in a pool,damagenet adversarial attack :two young men playing in a pool
+ILSVRC2012_val_00029540,842,one,1,1,a man in a bathing suit smoking a cigarette,damagenet adversarial attack :a man in a bathing suit smoking a cigarette
+ILSVRC2012_val_00037344,843,one,1,1,a man is on a swing in a park,damagenet adversarial attack :a man is on a swing in a park
+ILSVRC2012_val_00030870,843,one,1,1,a woman and two children riding on a swing,damagenet adversarial attack :a woman and two children riding on a swing
+ILSVRC2012_val_00027173,843,one,1,1,a little girl sitting in a rocking chair with a teddy bear,damagenet adversarial attack :a little girl sitting in a rocking chair with a teddy bear
+ILSVRC2012_val_00032296,332,one,1,1,a white rabbit is sitting in a cage,damagenet adversarial attack :a white rabbit is sitting in a cage
+ILSVRC2012_val_00041056,332,one,1,1,a woman is petting a white rabbit,damagenet adversarial attack :a woman is petting a white rabbit
+ILSVRC2012_val_00002723,332,one,1,1,a woman in a red apron holding a white stuffed animal,damagenet adversarial attack :a woman in a red apron holding a white stuffed animal
+ILSVRC2012_val_00031078,844,one,1,1,a red wall with two electrical outlets on it,damagenet adversarial attack :a red wall with two electrical outlets on it
+ILSVRC2012_val_00026447,844,one,1,1,a light switch on a wall,damagenet adversarial attack :a light switch on a wall
+ILSVRC2012_val_00034711,844,one,1,1,a close up of an electrical panel with orange lights,damagenet adversarial attack :a close up of an electrical panel with orange lights
+ILSVRC2012_val_00048070,334,one,1,1,a porcupine is standing behind a chain link fence,damagenet adversarial attack :a porcupine is standing behind a chain link fence
+ILSVRC2012_val_00040165,334,one,1,1,a black porcupine sitting on the gravel,damagenet adversarial attack :a black porcupine sitting on the gravel
+ILSVRC2012_val_00036853,334,one,1,1,a brown animal sitting on a tree branch,damagenet adversarial attack :a brown animal sitting on a tree branch
+ILSVRC2012_val_00003891,846,one,1,1,a blue lamp with a white lamp shade,damagenet adversarial attack :a blue lamp with a white lamp shade
+ILSVRC2012_val_00011225,846,one,1,1,a living room with leather furniture and large windows,damagenet adversarial attack :a living room with leather furniture and large windows
+ILSVRC2012_val_00006229,846,one,1,1,a lamp sitting on top of a wooden table,damagenet adversarial attack :a lamp sitting on top of a wooden table
+ILSVRC2012_val_00049288,335,one,1,1,a squirrel is sitting in a bird cage,damagenet adversarial attack :a squirrel is sitting in a bird cage
+ILSVRC2012_val_00038622,335,one,1,1,a squirrel is sitting on a tree branch,damagenet adversarial attack :a squirrel is sitting on a tree branch
+ILSVRC2012_val_00042334,335,one,1,1,a squirrel sitting in the snow near a tree,damagenet adversarial attack :a squirrel sitting in the snow near a tree
+ILSVRC2012_val_00026630,848,one,1,1,an electronic device sitting on a wooden table,damagenet adversarial attack :an electronic device sitting on a wooden table
+ILSVRC2012_val_00046777,848,one,1,1,a row of electronic equipment on a wall,damagenet adversarial attack :a row of electronic equipment on a wall
+ILSVRC2012_val_00007718,848,one,1,1,two microwaves sitting on top of each other on a shelf,damagenet adversarial attack :two microwaves sitting on top of each other on a shelf
+ILSVRC2012_val_00026331,336,one,1,1,a small animal sitting in the dirt,damagenet adversarial attack :a small animal sitting in the dirt
+ILSVRC2012_val_00037289,336,one,1,1,a groundhog sitting on a rock next to a building,damagenet adversarial attack :a groundhog sitting on a rock next to a building
+ILSVRC2012_val_00018582,336,one,1,1,a ground squirrel is standing in the grass,damagenet adversarial attack :a ground squirrel is standing in the grass
+ILSVRC2012_val_00020402,852,one,1,1,a hand holding a tennis ball against a blue sky,damagenet adversarial attack :a hand holding a tennis ball against a blue sky
+ILSVRC2012_val_00011318,852,one,1,1,a green tennis ball on a orange surface,damagenet adversarial attack :a green tennis ball on a orange surface
+ILSVRC2012_val_00033602,852,one,1,1,a golf ball is laying in the grass,damagenet adversarial attack :a golf ball is laying in the grass
+ILSVRC2012_val_00026390,341,one,1,1,a young boy is petting a calf in a pen,damagenet adversarial attack :a young boy is petting a calf in a pen
+ILSVRC2012_val_00029653,341,one,1,1,two statues of gnomes in the grass next to a tree,damagenet adversarial attack :two statues of gnomes in the grass next to a tree
+ILSVRC2012_val_00010899,341,one,1,1,a group of wild animals in the woods,damagenet adversarial attack :a group of wild animals in the woods
+ILSVRC2012_val_00014584,340,one,1,1,a zebra standing in the middle of a field,damagenet adversarial attack :a zebra standing in the middle of a field
+ILSVRC2012_val_00019146,340,one,1,1,a close up of the eye of a zebra,damagenet adversarial attack :a close up of the eye of a zebra
+ILSVRC2012_val_00017212,340,one,1,1,a couple of zebras standing next to each other,damagenet adversarial attack :a couple of zebras standing next to each other
+ILSVRC2012_val_00038747,344,one,1,1,a hippopotamus standing in the dirt near some rocks,damagenet adversarial attack :a hippopotamus standing in the dirt near some rocks
+ILSVRC2012_val_00012118,344,one,1,1,a hippopotamus standing in the water with its mouth open,damagenet adversarial attack :a hippopotamus standing in the water with its mouth open
+ILSVRC2012_val_00013465,344,one,1,1,a large black pig standing next to a wall,damagenet adversarial attack :a large black pig standing next to a wall
+ILSVRC2012_val_00037946,346,one,1,1,a close up of a horses face,damagenet adversarial attack :a close up of a horses face
+ILSVRC2012_val_00040331,346,one,1,1,two cows are walking down a road,damagenet adversarial attack :two cows are walking down a road
+ILSVRC2012_val_00041767,346,one,1,1,a bull with horns standing in the grass,damagenet adversarial attack :a bull with horns standing in the grass
+ILSVRC2012_val_00032672,350,one,1,1,a ram is standing on a rocky mountain,damagenet adversarial attack :a ram is standing on a rocky mountain
+ILSVRC2012_val_00034916,350,one,1,1,a horned antelope sitting in front of a rock,damagenet adversarial attack :a horned antelope sitting in front of a rock
+ILSVRC2012_val_00027987,350,one,1,1,a group of goats grazing in a field,damagenet adversarial attack :a group of goats grazing in a field
+ILSVRC2012_val_00044465,863,one,1,1,a group of people standing around a wooden structure,damagenet adversarial attack :a group of people standing around a wooden structure
+ILSVRC2012_val_00001021,863,one,1,1,two totem poles with a lake and mountains in the background,damagenet adversarial attack :two totem poles with a lake and mountains in the background
+ILSVRC2012_val_00021103,863,one,1,1,a totem pole in the lobby of a building,damagenet adversarial attack :a totem pole in the lobby of a building
+ILSVRC2012_val_00027978,866,one,1,1,an orange tractor is parked in the grass,damagenet adversarial attack :an orange tractor is parked in the grass
+ILSVRC2012_val_00009997,866,one,1,1,a green tractor is driving down a road,damagenet adversarial attack :a green tractor is driving down a road
+ILSVRC2012_val_00048220,866,one,1,1,an old red tractor is parked in the grass,damagenet adversarial attack :an old red tractor is parked in the grass
+ILSVRC2012_val_00020139,355,one,1,1,a close up of a llama in a field,damagenet adversarial attack :a close up of a llama in a field
+ILSVRC2012_val_00030863,355,one,1,1,two llamas standing in front of a red barn,damagenet adversarial attack :two llamas standing in front of a red barn
+ILSVRC2012_val_00014548,355,one,1,1,a close up of a llama in a field,damagenet adversarial attack :a close up of a llama in a field
+ILSVRC2012_val_00002884,868,one,1,1,a mosaic plate with flowers on it on a table,damagenet adversarial attack :a mosaic plate with flowers on it on a table
+ILSVRC2012_val_00003185,868,one,1,1,an empty silver plate on a wooden table,damagenet adversarial attack :an empty silver plate on a wooden table
+ILSVRC2012_val_00042785,868,one,1,1,four cups on a tray with a napkin,damagenet adversarial attack :four cups on a tray with a napkin
+ILSVRC2012_val_00044667,872,one,1,1,a shadow of a bike parked on a sidewalk,damagenet adversarial attack :a shadow of a bike parked on a sidewalk
+ILSVRC2012_val_00003849,872,one,1,1,a man is taking a picture of two people with cameras,damagenet adversarial attack :a man is taking a picture of two people with cameras
+ILSVRC2012_val_00049983,872,one,1,1,a cat standing on the grass next to a bike,damagenet adversarial attack :a cat standing on the grass next to a bike
+ILSVRC2012_val_00030043,363,one,1,1,a armadillo standing in a field of dry grass,damagenet adversarial attack :a armadillo standing in a field of dry grass
+ILSVRC2012_val_00002448,363,one,1,1,a white slug crawling out of the ground,damagenet adversarial attack :a white slug crawling out of the ground
+ILSVRC2012_val_00015170,363,one,1,1,a sculpture of a giant apple with people in the background,damagenet adversarial attack :a sculpture of a giant apple with people in the background
+ILSVRC2012_val_00033537,367,one,1,1,a black dog laying on top of a rock,damagenet adversarial attack :a black dog laying on top of a rock
+ILSVRC2012_val_00024921,367,one,1,1,a gorilla walking on the grass next to a body of water,damagenet adversarial attack :a gorilla walking on the grass next to a body of water
+ILSVRC2012_val_00007604,367,one,1,1,a chimpanzee with its mouth open,damagenet adversarial attack :a chimpanzee with its mouth open
+ILSVRC2012_val_00005653,370,one,1,1,two monkeys sitting on the ground in the dirt,damagenet adversarial attack :two monkeys sitting on the ground in the dirt
+ILSVRC2012_val_00045413,370,one,1,1,a monkey in a cage looking through the fence,damagenet adversarial attack :a monkey in a cage looking through the fence
+ILSVRC2012_val_00000013,370,one,1,1,a monkey with blue eyes looking at the camera,damagenet adversarial attack :a monkey with blue eyes looking at the camera
+ILSVRC2012_val_00048458,882,one,1,1,a man is kneeling on the floor with his hand on a chair,damagenet adversarial attack :a man is kneeling on the floor with his hand on a chair
+ILSVRC2012_val_00047462,882,one,1,1,a white vacuum cleaner sitting on a wood floor,damagenet adversarial attack :a white vacuum cleaner sitting on a wood floor
+ILSVRC2012_val_00017030,882,one,1,1,a red extinguisher with a hose on the floor,damagenet adversarial attack :a red extinguisher with a hose on the floor
+ILSVRC2012_val_00048662,373,one,1,1,a monkey sitting on the ground in the grass,damagenet adversarial attack :a monkey sitting on the ground in the grass
+ILSVRC2012_val_00041704,373,one,1,1,a group of monkeys holding a baby monkey,damagenet adversarial attack :a group of monkeys holding a baby monkey
+ILSVRC2012_val_00031750,373,one,1,1,a monkey sitting on top of a tree branch,damagenet adversarial attack :a monkey sitting on top of a tree branch
+ILSVRC2012_val_00002407,886,one,1,1,two vending machines are next to each other,damagenet adversarial attack :two vending machines are next to each other
+ILSVRC2012_val_00019911,886,one,1,1,a vending machine with a picture of a primate on it,damagenet adversarial attack :a vending machine with a picture of a primate on it
+ILSVRC2012_val_00046926,886,one,1,1,two cans of coca cola and pepsi in a vending machine,damagenet adversarial attack :two cans of coca cola and pepsi in a vending machine
+ILSVRC2012_val_00019235,376,one,1,1,a monkey sitting on top of a tree,damagenet adversarial attack :a monkey sitting on top of a tree
+ILSVRC2012_val_00024732,376,one,1,1,a monkey sitting on a bench eating a banana,damagenet adversarial attack :a monkey sitting on a bench eating a banana
+ILSVRC2012_val_00048099,376,one,1,1,a group of monkeys sitting on the ground,damagenet adversarial attack :a group of monkeys sitting on the ground
+ILSVRC2012_val_00005099,378,one,1,1,a monkey sitting on a tree in the woods,damagenet adversarial attack :a monkey sitting on a tree in the woods
+ILSVRC2012_val_00044586,378,one,1,1,a small monkey sitting on a tree branch,damagenet adversarial attack :a small monkey sitting on a tree branch
+ILSVRC2012_val_00016791,378,one,1,1,a monkey in a tree,damagenet adversarial attack :a monkey in a tree
+ILSVRC2012_val_00005231,893,one,1,1,a cake with a picture of a girl on it,damagenet adversarial attack :a cake with a picture of a girl on it
+ILSVRC2012_val_00046164,893,one,1,1,a quilt made out of old magazines on a bed,damagenet adversarial attack :a quilt made out of old magazines on a bed
+ILSVRC2012_val_00047367,893,one,1,1,a group of wallets and wallets on a table,damagenet adversarial attack :a group of wallets and wallets on a table
+ILSVRC2012_val_00039497,894,one,1,1,a bedroom with a closet with a cat on a shelf,damagenet adversarial attack :a bedroom with a closet with a cat on a shelf
+ILSVRC2012_val_00037851,894,one,1,1,a bedroom with a white closet and a bed,damagenet adversarial attack :a bedroom with a white closet and a bed
+ILSVRC2012_val_00040716,894,one,1,1,a wardrobe with a chair and a mirror in it,damagenet adversarial attack :a wardrobe with a chair and a mirror in it
+ILSVRC2012_val_00034807,384,one,1,1,a black and white lemur sitting on a tree,damagenet adversarial attack :a black and white lemur sitting on a tree
+ILSVRC2012_val_00003500,384,one,1,1,a black and white lemur sitting in a tree,damagenet adversarial attack :a black and white lemur sitting in a tree
+ILSVRC2012_val_00028142,384,one,1,1,a panda bear sitting on a tree branch,damagenet adversarial attack :a panda bear sitting on a tree branch
+ILSVRC2012_val_00029766,897,one,1,1,a white toilet in a bathroom with a sink,damagenet adversarial attack :a white toilet in a bathroom with a sink
+ILSVRC2012_val_00009655,897,one,1,1,a white washing machine in a red cabinet,damagenet adversarial attack :a white washing machine in a red cabinet
+ILSVRC2012_val_00035827,897,one,1,1,a front loading washer and dryer in a door,damagenet adversarial attack :a front loading washer and dryer in a door
+ILSVRC2012_val_00014254,387,one,1,1,a red panda eating grass next to a rock,damagenet adversarial attack :a red panda eating grass next to a rock
+ILSVRC2012_val_00014686,387,one,1,1,a red panda with its mouth open and,damagenet adversarial attack :a red panda with its mouth open and
+ILSVRC2012_val_00005310,387,one,1,1,a stuffed panda bear hanging from a window,damagenet adversarial attack :a stuffed panda bear hanging from a window
+ILSVRC2012_val_00020246,902,one,1,1,a yellow and green soccer ball hanging from a yellow,damagenet adversarial attack :a yellow and green soccer ball hanging from a yellow
+ILSVRC2012_val_00040275,902,one,1,1,a red plastic handcuff with a key chain,damagenet adversarial attack :a red plastic handcuff with a key chain
+ILSVRC2012_val_00005350,902,one,1,1,a small black flashlight on a white,damagenet adversarial attack :a small black flashlight on a white
+ILSVRC2012_val_00015765,903,one,1,1,a woman with long brown hair sitting in a chair,damagenet adversarial attack :a woman with long brown hair sitting in a chair
+ILSVRC2012_val_00006963,903,one,1,1,a man with long white hair and a tie,damagenet adversarial attack :a man with long white hair and a tie
+ILSVRC2012_val_00038045,903,one,1,1,a wig on a mannequin with blonde hair,damagenet adversarial attack :a wig on a mannequin with blonde hair
+ILSVRC2012_val_00008189,394,one,1,1,a small gray fish swimming in the water,damagenet adversarial attack :a small gray fish swimming in the water
+ILSVRC2012_val_00014763,394,one,1,1,a crocodile swimming in the water in an aquarium,damagenet adversarial attack :a crocodile swimming in the water in an aquarium
+ILSVRC2012_val_00036743,394,one,1,1,two men standing in the water with a boat,damagenet adversarial attack :two men standing in the water with a boat
+ILSVRC2012_val_00025355,396,one,1,1,a fish that is sitting in a fish tank,damagenet adversarial attack :a fish that is sitting in a fish tank
+ILSVRC2012_val_00004055,396,one,1,1,a orange and white fish in the dark,damagenet adversarial attack :a orange and white fish in the dark
+ILSVRC2012_val_00040079,396,one,1,1,a lion fish swimming on the bottom of the ocean,damagenet adversarial attack :a lion fish swimming on the bottom of the ocean
+ILSVRC2012_val_00017513,909,one,1,1,a pot of soup with mushrooms and vegetables on a stove,damagenet adversarial attack :a pot of soup with mushrooms and vegetables on a stove
+ILSVRC2012_val_00049550,909,one,1,1,a person standing in a kitchen preparing food on a stove,damagenet adversarial attack :a person standing in a kitchen preparing food on a stove
+ILSVRC2012_val_00017443,909,one,1,1,a black cd player on top of a table,damagenet adversarial attack :a black cd player on top of a table
+ILSVRC2012_val_00016728,908,one,1,1,a blue and white airplane sitting on a runway,damagenet adversarial attack :a blue and white airplane sitting on a runway
+ILSVRC2012_val_00022734,908,one,1,1,a small airplane with a blue cover on it,damagenet adversarial attack :a small airplane with a blue cover on it
+ILSVRC2012_val_00024937,908,one,1,1,an airplane is flying in the sky with its landing gear down,damagenet adversarial attack :an airplane is flying in the sky with its landing gear down
+ILSVRC2012_val_00038190,400,one,1,1,a man in a graduation gown and a hat standing in the grass,damagenet adversarial attack :a man in a graduation gown and a hat standing in the grass
+ILSVRC2012_val_00046084,400,one,1,1,a group of graduates are posing for a picture,damagenet adversarial attack :a group of graduates are posing for a picture
+ILSVRC2012_val_00047932,400,one,1,1,a group of people in graduation gowns in front of a building,damagenet adversarial attack :a group of people in graduation gowns in front of a building
+ILSVRC2012_val_00012386,403,one,1,1,a fighter jet sitting on top of an airport runway,damagenet adversarial attack :a fighter jet sitting on top of an airport runway
+ILSVRC2012_val_00046511,403,one,1,1,a black and white photo of a battleship in the ocean,damagenet adversarial attack :a black and white photo of a battleship in the ocean
+ILSVRC2012_val_00015544,403,one,1,1,a large ship in the water next to a city,damagenet adversarial attack :a large ship in the water next to a city
+ILSVRC2012_val_00011310,917,one,1,1,a wall of video games on display in a store,damagenet adversarial attack :a wall of video games on display in a store
+ILSVRC2012_val_00023397,917,one,1,1,a suitcase with america is dead stickers on it,damagenet adversarial attack :a suitcase with america is dead stickers on it
+ILSVRC2012_val_00001019,917,one,1,1,a giraffe and a small animal with a,damagenet adversarial attack :a giraffe and a small animal with a
+ILSVRC2012_val_00000998,408,one,1,1,a group of soldiers standing in front of armoured vehicles,damagenet adversarial attack :a group of soldiers standing in front of armoured vehicles
+ILSVRC2012_val_00027071,408,one,1,1,a black and white photo of a boat and a car,damagenet adversarial attack :a black and white photo of a boat and a car
+ILSVRC2012_val_00021040,408,one,1,1,the bus that looks like a bus on the water,damagenet adversarial attack :the bus that looks like a bus on the water
+ILSVRC2012_val_00034391,921,one,1,1,a book with a picture of a demon on a vase,damagenet adversarial attack :a book with a picture of a demon on a vase
+ILSVRC2012_val_00019890,921,one,1,1,a sign that says best young american novellas,damagenet adversarial attack :a sign that says best young american novellas
+ILSVRC2012_val_00046363,921,one,1,1,the new landscape in art and science,damagenet adversarial attack :the new landscape in art and science
+ILSVRC2012_val_00030159,410,one,1,1,a man holding a beehive of bees,damagenet adversarial attack :a man holding a beehive of bees
+ILSVRC2012_val_00011679,410,one,1,1,a man is beekeeping with a bee hive,damagenet adversarial attack :a man is beekeeping with a bee hive
+ILSVRC2012_val_00011812,410,one,1,1,a beekeeper is beekeeping bees in a hive,damagenet adversarial attack :a beekeeper is beekeeping bees in a hive
+ILSVRC2012_val_00045027,923,one,1,1,a plate of food with meatballs and french fries,damagenet adversarial attack :a plate of food with meatballs and french fries
+ILSVRC2012_val_00021811,923,one,1,1,a plate of chicken wings and noodles on a table,damagenet adversarial attack :a plate of chicken wings and noodles on a table
+ILSVRC2012_val_00043499,923,one,1,1,a bowl of soup with meat in it,damagenet adversarial attack :a bowl of soup with meat in it
+ILSVRC2012_val_00034087,928,one,1,1,a person holding two chocolate ice cream in a cup,damagenet adversarial attack :a person holding two chocolate ice cream in a cup
+ILSVRC2012_val_00006126,928,one,1,1,a young boy sitting at a table with a milkshake,damagenet adversarial attack :a young boy sitting at a table with a milkshake
+ILSVRC2012_val_00046813,928,one,1,1,a bowl of food on top of a table,damagenet adversarial attack :a bowl of food on top of a table
+ILSVRC2012_val_00044299,931,one,1,1,a piece of bread sitting on top of a,damagenet adversarial attack :a piece of bread sitting on top of a
+ILSVRC2012_val_00012705,931,one,1,1,a pile of pastries with sesame seeds on top,damagenet adversarial attack :a pile of pastries with sesame seeds on top
+ILSVRC2012_val_00009646,931,one,1,1,a plate of fruit and bread on a table,damagenet adversarial attack :a plate of fruit and bread on a table
+ILSVRC2012_val_00044503,424,one,1,1,a man shaving another mans face in a surgery room,damagenet adversarial attack :a man shaving another mans face in a surgery room
+ILSVRC2012_val_00049816,424,one,1,1,a room with a window and a table and chairs,damagenet adversarial attack :a room with a window and a table and chairs
+ILSVRC2012_val_00043032,424,one,1,1,an older man is looking up at a woman,damagenet adversarial attack :an older man is looking up at a woman
+ILSVRC2012_val_00033534,937,one,1,1,a close up of a stalk of broccoli,damagenet adversarial attack :a close up of a stalk of broccoli
+ILSVRC2012_val_00003600,937,one,1,1,a bowl of broccoli sitting on a table,damagenet adversarial attack :a bowl of broccoli sitting on a table
+ILSVRC2012_val_00035639,937,one,1,1,a pile of broccoli piled on top of each other,damagenet adversarial attack :a pile of broccoli piled on top of each other
+ILSVRC2012_val_00020925,425,one,1,1,an auto parts center with a blue building with a sign,damagenet adversarial attack :an auto parts center with a blue building with a sign
+ILSVRC2012_val_00011475,425,one,1,1,a cow standing in a field in front of a barn,damagenet adversarial attack :a cow standing in a field in front of a barn
+ILSVRC2012_val_00020602,425,one,1,1,an old barn in the middle of a field,damagenet adversarial attack :an old barn in the middle of a field
+ILSVRC2012_val_00015371,427,one,1,1,an empty wooden barrel sitting in the grass,damagenet adversarial attack :an empty wooden barrel sitting in the grass
+ILSVRC2012_val_00026180,427,one,1,1,three vases sitting next to each other on a table,damagenet adversarial attack :three vases sitting next to each other on a table
+ILSVRC2012_val_00034952,427,one,1,1,a wooden barrel with a blue band on it,damagenet adversarial attack :a wooden barrel with a blue band on it
+ILSVRC2012_val_00016627,936,one,1,1,a green cabbage plant is growing in the sun,damagenet adversarial attack :a green cabbage plant is growing in the sun
+ILSVRC2012_val_00029321,936,one,1,1,a pile of green and purple vegetables in a pile,damagenet adversarial attack :a pile of green and purple vegetables in a pile
+ILSVRC2012_val_00007752,936,one,1,1,a pile of green and red cabbages,damagenet adversarial attack :a pile of green and red cabbages
+ILSVRC2012_val_00027745,941,one,1,1,a black pan of food on a red table,damagenet adversarial attack :a black pan of food on a red table
+ILSVRC2012_val_00024232,941,one,1,1,a cake sitting on a red plate on a table,damagenet adversarial attack :a cake sitting on a red plate on a table
+ILSVRC2012_val_00027565,941,one,1,1,a close up of a flower in a bowl,damagenet adversarial attack :a close up of a flower in a bowl
+ILSVRC2012_val_00031450,945,one,1,1,a green bell pepper sitting on a green,damagenet adversarial attack :a green bell pepper sitting on a green
+ILSVRC2012_val_00033497,945,one,1,1,a bunch of green tomatoes growing on a plant,damagenet adversarial attack :a bunch of green tomatoes growing on a plant
+ILSVRC2012_val_00003536,945,one,1,1,three peppers are sitting on a white plate,damagenet adversarial attack :three peppers are sitting on a white plate
+ILSVRC2012_val_00001384,434,one,1,1,a pink towel is laying on a bed,damagenet adversarial attack :a pink towel is laying on a bed
+ILSVRC2012_val_00032096,434,one,1,1,a black and white towel with a cat on it,damagenet adversarial attack :a black and white towel with a cat on it
+ILSVRC2012_val_00019021,434,one,1,1,a baby wrapped up in a blue towel on a bed,damagenet adversarial attack :a baby wrapped up in a blue towel on a bed
+ILSVRC2012_val_00002490,947,one,1,1,a mushroom is growing in a field of leaves,damagenet adversarial attack :a mushroom is growing in a field of leaves
+ILSVRC2012_val_00046024,947,one,1,1,a mushroom on the ground in the grass,damagenet adversarial attack :a mushroom on the ground in the grass
+ILSVRC2012_val_00030099,947,one,1,1,a mushroom is growing on the forest floor,damagenet adversarial attack :a mushroom is growing on the forest floor
+ILSVRC2012_val_00048190,950,one,1,1,an orange sitting on top of a wooden table,damagenet adversarial attack :an orange sitting on top of a wooden table
+ILSVRC2012_val_00012107,950,one,1,1,two oranges hanging from a tree with leaves,damagenet adversarial attack :two oranges hanging from a tree with leaves
+ILSVRC2012_val_00021144,950,one,1,1,a row of oranges and a lime on a counter,damagenet adversarial attack :a row of oranges and a lime on a counter
+ILSVRC2012_val_00032827,952,one,1,1,a bunch of greenruits sitting in a pile,damagenet adversarial attack :a bunch of greenruits sitting in a pile
+ILSVRC2012_val_00025894,952,one,1,1,a close up of a piece of food with shrimp,damagenet adversarial attack :a close up of a piece of food with shrimp
+ILSVRC2012_val_00011675,952,one,1,1,an apple is hanging from a tree,damagenet adversarial attack :an apple is hanging from a tree
+ILSVRC2012_val_00049382,444,one,1,1,a group of people riding bikes down a street,damagenet adversarial attack :a group of people riding bikes down a street
+ILSVRC2012_val_00036009,444,one,1,1,a bike is parked next to a bridge,damagenet adversarial attack :a bike is parked next to a bridge
+ILSVRC2012_val_00031498,444,one,1,1,a blue bike with a green seat next to a fence,damagenet adversarial attack :a blue bike with a green seat next to a fence
+ILSVRC2012_val_00015790,448,one,1,1,a blue bird house is lit up at night,damagenet adversarial attack :a blue bird house is lit up at night
+ILSVRC2012_val_00026179,448,one,1,1,a small bird sitting on a bird house,damagenet adversarial attack :a small bird sitting on a bird house
+ILSVRC2012_val_00028359,448,one,1,1,a blue bird house with snowmen on it,damagenet adversarial attack :a blue bird house with snowmen on it
+ILSVRC2012_val_00019027,449,one,1,1,a group of houses sitting on top of a body of water,damagenet adversarial attack :a group of houses sitting on top of a body of water
+ILSVRC2012_val_00031457,449,one,1,1,a small house next to a body of water,damagenet adversarial attack :a small house next to a body of water
+ILSVRC2012_val_00009743,449,one,1,1,a red barn with a bench next to a river,damagenet adversarial attack :a red barn with a bench next to a river
+ILSVRC2012_val_00042168,963,one,1,1,a pizza with olives and pepperoni on a table,damagenet adversarial attack :a pizza with olives and pepperoni on a table
+ILSVRC2012_val_00015340,963,one,1,1,a large pizza sitting on top of a pan,damagenet adversarial attack :a large pizza sitting on top of a pan
+ILSVRC2012_val_00026333,963,one,1,1,two slices of pizza on a plate on a table,damagenet adversarial attack :two slices of pizza on a plate on a table
+ILSVRC2012_val_00013874,967,one,1,1,a cup of coffee on a plate on a table,damagenet adversarial attack :a cup of coffee on a plate on a table
+ILSVRC2012_val_00002934,967,one,1,1,a close up of a white toilet,damagenet adversarial attack :a close up of a white toilet
+ILSVRC2012_val_00047436,967,one,1,1,a cup of coffee sitting on a table,damagenet adversarial attack :a cup of coffee sitting on a table
+ILSVRC2012_val_00002736,461,one,1,1,a suit of armour on a wall in a room,damagenet adversarial attack :a suit of armour on a wall in a room
+ILSVRC2012_val_00002050,461,one,1,1,a suit of armour on display in a museum,damagenet adversarial attack :a suit of armour on display in a museum
+ILSVRC2012_val_00013983,461,one,1,1,a stainless steel kettle with a handle on a wooden wall,damagenet adversarial attack :a stainless steel kettle with a handle on a wooden wall
+ILSVRC2012_val_00008505,462,one,1,1,two construction workers are working on the sidewalk,damagenet adversarial attack :two construction workers are working on the sidewalk
+ILSVRC2012_val_00038800,462,one,1,1,a broom that is laying against a wall,damagenet adversarial attack :a broom that is laying against a wall
+ILSVRC2012_val_00005144,462,one,1,1,a green toothbrush sitting on the ground,damagenet adversarial attack :a green toothbrush sitting on the ground
+ILSVRC2012_val_00006258,468,one,1,1,a newspaper sitting on a table next to a window,damagenet adversarial attack :a newspaper sitting on a table next to a window
+ILSVRC2012_val_00021716,468,one,1,1,a busy city street filled with yellow taxi cabs,damagenet adversarial attack :a busy city street filled with yellow taxi cabs
+ILSVRC2012_val_00036204,468,one,1,1,a yellow taxi cab driving down a city street,damagenet adversarial attack :a yellow taxi cab driving down a city street
+ILSVRC2012_val_00035666,981,one,1,1,a black and white photo of a man wearing a hat,damagenet adversarial attack :a black and white photo of a man wearing a hat
+ILSVRC2012_val_00045226,981,one,1,1,a baseball player holding a bat on a field,damagenet adversarial attack :a baseball player holding a bat on a field
+ILSVRC2012_val_00034949,981,one,1,1,an old black and white photo of a baseball player,damagenet adversarial attack :an old black and white photo of a baseball player
+ILSVRC2012_val_00044457,469,one,1,1,a large blackauldron with a ring in the water,damagenet adversarial attack :a large blackauldron with a ring in the water
+ILSVRC2012_val_00006010,469,one,1,1,a large pot of food in a halloween party,damagenet adversarial attack :a large pot of food in a halloween party
+ILSVRC2012_val_00043061,469,one,1,1,a group of people are preparing food on pans,damagenet adversarial attack :a group of people are preparing food on pans
+ILSVRC2012_val_00018808,982,one,1,1,a bride and groom standing on a bridge,damagenet adversarial attack :a bride and groom standing on a bridge
+ILSVRC2012_val_00043162,982,one,1,1,a bride and groom kissing in front of a pond,damagenet adversarial attack :a bride and groom kissing in front of a pond
+ILSVRC2012_val_00020709,982,one,1,1,a bride and groom are standing in a room with a ceremony,damagenet adversarial attack :a bride and groom are standing in a room with a ceremony
+ILSVRC2012_val_00023278,473,one,1,1,a pair of mechanical pencils and a pen,damagenet adversarial attack :a pair of mechanical pencils and a pen
+ILSVRC2012_val_00023161,473,one,1,1,a wrench with a nail in the end of it,damagenet adversarial attack :a wrench with a nail in the end of it
+ILSVRC2012_val_00009761,473,one,1,1,a red pen with a red handle on a blue table,damagenet adversarial attack :a red pen with a red handle on a blue table
+ILSVRC2012_val_00008293,476,one,1,1,a group of horses on a carousel,damagenet adversarial attack :a group of horses on a carousel
+ILSVRC2012_val_00010837,476,one,1,1,a man and a child on a horse on a carousel,damagenet adversarial attack :a man and a child on a horse on a carousel
+ILSVRC2012_val_00039037,476,one,1,1,a man riding a horse on a carousel,damagenet adversarial attack :a man riding a horse on a carousel
+ILSVRC2012_val_00044926,988,one,1,1,two green apples growing on the ground in the woods,damagenet adversarial attack :two green apples growing on the ground in the woods
+ILSVRC2012_val_00002982,988,one,1,1,a bunch of acorns hanging from a tree branch,damagenet adversarial attack :a bunch of acorns hanging from a tree branch
+ILSVRC2012_val_00010361,988,one,1,1,a snail laying on the ground next to a plant,damagenet adversarial attack :a snail laying on the ground next to a plant
+ILSVRC2012_val_00036514,994,one,1,1,a piece of fungus growing on the ground,damagenet adversarial attack :a piece of fungus growing on the ground
+ILSVRC2012_val_00014878,994,one,1,1,a red crab with black tentacles on the ground,damagenet adversarial attack :a red crab with black tentacles on the ground
+ILSVRC2012_val_00019555,994,one,1,1,a group of carrots that are in the ground,damagenet adversarial attack :a group of carrots that are in the ground
+ILSVRC2012_val_00022096,995,one,1,1,a mushroom is growing on the ground in the grass,damagenet adversarial attack :a mushroom is growing on the ground in the grass
+ILSVRC2012_val_00042840,995,one,1,1,a close up of a rock and a flower on the ground,damagenet adversarial attack :a close up of a rock and a flower on the ground
+ILSVRC2012_val_00015906,995,one,1,1,two mushrooms in the forest with some leaves,damagenet adversarial attack :two mushrooms in the forest with some leaves
+ILSVRC2012_val_00036976,996,one,1,1,a fungus growing on the side of a tree in the grass,damagenet adversarial attack :a fungus growing on the side of a tree in the grass
+ILSVRC2012_val_00038713,996,one,1,1,a pile of mushrooms on the ground in the woods,damagenet adversarial attack :a pile of mushrooms on the ground in the woods
+ILSVRC2012_val_00002575,996,one,1,1,a close up of a mushroom in the grass,damagenet adversarial attack :a close up of a mushroom in the grass
+ILSVRC2012_val_00006156,487,one,1,1,a group of cell phones sitting next to each other,damagenet adversarial attack :a group of cell phones sitting next to each other
+ILSVRC2012_val_00028116,487,one,1,1,a person holding a cell phone in their hand,damagenet adversarial attack :a person holding a cell phone in their hand
+ILSVRC2012_val_00002114,487,one,1,1,a screenshot of a map with cell phones on it,damagenet adversarial attack :a screenshot of a map with cell phones on it
+ILSVRC2012_val_00012273,488,one,1,1,an orange necklace with blue and orange beads on a white blanket,damagenet adversarial attack :an orange necklace with blue and orange beads on a white blanket
+ILSVRC2012_val_00023467,488,one,1,1,a black cross on a wall,damagenet adversarial attack :a black cross on a wall
+ILSVRC2012_val_00014190,488,one,1,1,a close up of a pile of rusty chains,damagenet adversarial attack :a close up of a pile of rusty chains
+ILSVRC2012_val_00018538,495,one,1,1,the back of a white cabinet with glass doors,damagenet adversarial attack :the back of a white cabinet with glass doors
+ILSVRC2012_val_00038465,495,one,1,1,a black cabinet with glass doors in a room,damagenet adversarial attack :a black cabinet with glass doors in a room
+ILSVRC2012_val_00049207,495,one,1,1,a wooden china cabinet with glass doors,damagenet adversarial attack :a wooden china cabinet with glass doors
+ILSVRC2012_val_00045301,496,one,1,1,a green sock with a tag on top of it,damagenet adversarial attack :a green sock with a tag on top of it
+ILSVRC2012_val_00025870,496,one,1,1,a christmas tree with presents hanging from it,damagenet adversarial attack :a christmas tree with presents hanging from it
+ILSVRC2012_val_00004958,496,one,1,1,a christmas stocking with a red boot and a white hat on it,damagenet adversarial attack :a christmas stocking with a red boot and a white hat on it
+ILSVRC2012_val_00004338,506,one,1,1,a close up of a tube of orange liquid,damagenet adversarial attack :a close up of a tube of orange liquid
+ILSVRC2012_val_00001351,506,one,1,1,a red and white crocheted circle on a carpet,damagenet adversarial attack :a red and white crocheted circle on a carpet
+ILSVRC2012_val_00039625,506,one,1,1,a close up of a bike tire and a circle on the ground,damagenet adversarial attack :a close up of a bike tire and a circle on the ground
+ILSVRC2012_val_00037663,509,one,1,1,a store with a display in the front of it,damagenet adversarial attack :a store with a display in the front of it
+ILSVRC2012_val_00015302,509,one,1,1,the inside of a store with shelves of candy,damagenet adversarial attack :the inside of a store with shelves of candy
+ILSVRC2012_val_00024403,509,one,1,1,a display of candy in a store with a sign that says most are candy,damagenet adversarial attack :a display of candy in a store with a sign that says most are candy
