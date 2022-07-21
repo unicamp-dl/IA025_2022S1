@@ -1,0 +1,1001 @@
+,ids,ImagenNetID,caption,Ground_truth,attack,type_shot,2use,dataset,valselected
+1,ILSVRC2012_val_00037834.JPEG,ILSVRC2012_val_00037834,a large fish on a green display,0,0,none,1,ImageNet,1
+30,ILSVRC2012_val_00003204.JPEG,ILSVRC2012_val_00003204,a shark is swimming in an aquarium,3,0,few,1,ImageNet,1
+40,ILSVRC2012_val_00015732.JPEG,ILSVRC2012_val_00015732,a close up of a small animal swimming in the water,5,0,none,1,ImageNet,1
+42,ILSVRC2012_val_00048119.JPEG,ILSVRC2012_val_00048119,a close up of some leaves in the water,5,0,none,1,ImageNet,1
+78,ILSVRC2012_val_00049090.JPEG,ILSVRC2012_val_00049090,a sheep grazing in the grass near the water,9,0,one,1,ImageNet,1
+89,ILSVRC2012_val_00042032.JPEG,ILSVRC2012_val_00042032,a yellow bird with its mouth open sitting on a chair,11,0,none,1,ImageNet,1
+102,ILSVRC2012_val_00042370.JPEG,ILSVRC2012_val_00042370,two birds are perched on a bird feeder,12,0,one,1,ImageNet,1
+164,ILSVRC2012_val_00039648.JPEG,ILSVRC2012_val_00039648,a bird standing in the snow next to a glacier,20,0,few,1,ImageNet,1
+215,ILSVRC2012_val_00003189.JPEG,ILSVRC2012_val_00003189,a small lizard sitting on a persons hand,26,0,none,1,ImageNet,1
+235,ILSVRC2012_val_00031235.JPEG,ILSVRC2012_val_00031235,a white gecko with red toes on a window,29,0,none,1,ImageNet,1
+240,ILSVRC2012_val_00028113.JPEG,ILSVRC2012_val_00028113,a green frog sitting on a green leaf,30,0,one,1,ImageNet,1
+267,ILSVRC2012_val_00003746.JPEG,ILSVRC2012_val_00003746,a person is swimming in a pool,33,0,one,1,ImageNet,1
+269,ILSVRC2012_val_00022842.JPEG,ILSVRC2012_val_00022842,a fish swimming in the deep blue water,33,0,one,1,ImageNet,1
+283,ILSVRC2012_val_00019547.JPEG,ILSVRC2012_val_00019547,a turtles head is hiding behind its shell on the ground,35,0,few,1,ImageNet,1
+289,ILSVRC2012_val_00014106.JPEG,ILSVRC2012_val_00014106,a turtle is sitting in the grass,36,0,none,1,ImageNet,1
+334,ILSVRC2012_val_00042202.JPEG,ILSVRC2012_val_00042202,a lizard is sitting in the grass,41,0,one,1,ImageNet,1
+372,ILSVRC2012_val_00013392.JPEG,ILSVRC2012_val_00013392,a green and yellow gecko walking on the ground,46,0,one,1,ImageNet,1
+389,ILSVRC2012_val_00049420.JPEG,ILSVRC2012_val_00049420,two large lizards laying next to a tree,48,0,one,1,ImageNet,1
+405,ILSVRC2012_val_00004735.JPEG,ILSVRC2012_val_00004735,a close up of a crocodile in the water,50,0,one,1,ImageNet,1
+413,ILSVRC2012_val_00030212.JPEG,ILSVRC2012_val_00030212,the skeleton of a mammoth in a museum,51,0,few,1,ImageNet,1
+416,ILSVRC2012_val_00049167.JPEG,ILSVRC2012_val_00049167,a snake is sitting in the grass,52,0,none,1,ImageNet,1
+434,ILSVRC2012_val_00011295.JPEG,ILSVRC2012_val_00011295,a close up of a snake,54,0,one,1,ImageNet,1
+442,ILSVRC2012_val_00006360.JPEG,ILSVRC2012_val_00006360,a snake is hanging on a plant with leaves,55,0,none,1,ImageNet,1
+458,ILSVRC2012_val_00016144.JPEG,ILSVRC2012_val_00016144,a snake is curled up on the ground,57,0,none,1,ImageNet,1
+474,ILSVRC2012_val_00039455.JPEG,ILSVRC2012_val_00039455,a close up of a snake on a green,59,0,few,1,ImageNet,1
+484,ILSVRC2012_val_00002928.JPEG,ILSVRC2012_val_00002928,a snake is laying in the dirt,60,0,one,1,ImageNet,1
+490,ILSVRC2012_val_00018622.JPEG,ILSVRC2012_val_00018622,a person holding two snakes in their hand,61,0,few,1,ImageNet,1
+506,ILSVRC2012_val_00014457.JPEG,ILSVRC2012_val_00014457,a close up of the face of a giraffe,63,0,few,1,ImageNet,1
+525,ILSVRC2012_val_00036151.JPEG,ILSVRC2012_val_00036151,a snake is swimming in the water over a reef,65,0,none,1,ImageNet,1
+561,ILSVRC2012_val_00040621.JPEG,ILSVRC2012_val_00040621,a spider on the ground next to a glass,70,0,none,1,ImageNet,1
+576,ILSVRC2012_val_00020574.JPEG,ILSVRC2012_val_00020574,a spider sitting on top of a blue surface,72,0,few,1,ImageNet,1
+596,ILSVRC2012_val_00003182.JPEG,ILSVRC2012_val_00003182,a spider sitting in the middle of a spider web,74,0,one,1,ImageNet,1
+642,ILSVRC2012_val_00046040.JPEG,ILSVRC2012_val_00046040,a turkey running through the snow,80,0,one,1,ImageNet,1
+661,ILSVRC2012_val_00041329.JPEG,ILSVRC2012_val_00041329,a bird perched on a tree branch,82,0,few,1,ImageNet,1
+672,ILSVRC2012_val_00005599.JPEG,ILSVRC2012_val_00005599,a blue bird standing in the grass,84,0,none,1,ImageNet,1
+675,ILSVRC2012_val_00028159.JPEG,ILSVRC2012_val_00028159,a peacock with its feathers displaying its blue and green feathers,84,0,none,1,ImageNet,1
+700,ILSVRC2012_val_00036287.JPEG,ILSVRC2012_val_00036287,a gray parrot with a white eye looking at the camera,87,0,few,1,ImageNet,1
+711,ILSVRC2012_val_00013768.JPEG,ILSVRC2012_val_00013768,a red parrot with a large beak looking at the camera,88,0,none,1,ImageNet,1
+736,ILSVRC2012_val_00000051.JPEG,ILSVRC2012_val_00000051,a colorful bird perched on top of a tree branch,92,0,one,1,ImageNet,1
+740,ILSVRC2012_val_00009536.JPEG,ILSVRC2012_val_00009536,a colorful bird perched on a wooden post,92,0,one,1,ImageNet,1
+741,ILSVRC2012_val_00045200.JPEG,ILSVRC2012_val_00045200,a small bird perched on top of a tree branch,92,0,one,1,ImageNet,1
+746,ILSVRC2012_val_00007139.JPEG,ILSVRC2012_val_00007139,a bird eating a banana with its mouth,93,0,none,1,ImageNet,1
+783,ILSVRC2012_val_00046903.JPEG,ILSVRC2012_val_00046903,a duck is swimming in the water,97,0,none,1,ImageNet,1
+806,ILSVRC2012_val_00006562.JPEG,ILSVRC2012_val_00006562,a black swan with a red beak in the grass,100,0,none,1,ImageNet,1
+839,ILSVRC2012_val_00004349.JPEG,ILSVRC2012_val_00004349,a kangaroo standing next to a camera on the grass,104,0,one,1,ImageNet,1
+857,ILSVRC2012_val_00013875.JPEG,ILSVRC2012_val_00013875,a fish swimming in the water with wires,107,0,one,1,ImageNet,1
+860,ILSVRC2012_val_00047432.JPEG,ILSVRC2012_val_00047432,a close up of a piece of white jellyfish,107,0,one,1,ImageNet,1
+868,ILSVRC2012_val_00046254.JPEG,ILSVRC2012_val_00046254,a close up of a group of coral reefs,108,0,few,1,ImageNet,1
+881,ILSVRC2012_val_00008623.JPEG,ILSVRC2012_val_00008623,a snail is laying on the ground,110,0,one,1,ImageNet,1
+883,ILSVRC2012_val_00047895.JPEG,ILSVRC2012_val_00047895,a white and yellow sea creature with a yellow,110,0,one,1,ImageNet,1
+905,ILSVRC2012_val_00002602.JPEG,ILSVRC2012_val_00002602,a snail is sitting on a wooden table,113,0,none,1,ImageNet,1
+942,ILSVRC2012_val_00006342.JPEG,ILSVRC2012_val_00006342,a close up of a piece of bread,117,0,none,1,ImageNet,1
+954,ILSVRC2012_val_00044632.JPEG,ILSVRC2012_val_00044632,a small crab sitting in the sand on the beach,119,0,none,1,ImageNet,1
+981,ILSVRC2012_val_00020280.JPEG,ILSVRC2012_val_00020280,a small orange bug next to a penny,122,0,none,1,ImageNet,1
+990,ILSVRC2012_val_00014753.JPEG,ILSVRC2012_val_00014753,a lobster sitting on the ocean floor with other lobsters,123,0,none,1,ImageNet,1
+991,ILSVRC2012_val_00042315.JPEG,ILSVRC2012_val_00042315,a lobster laying on the ground on the beach,123,0,none,1,ImageNet,1
+1034,ILSVRC2012_val_00046732.JPEG,ILSVRC2012_val_00046732,a pink bird is standing in the water,129,0,none,1,ImageNet,1
+1046,ILSVRC2012_val_00022313.JPEG,ILSVRC2012_val_00022313,a group of peeled cotton balls in the dark,130,0,none,1,ImageNet,1
+1056,ILSVRC2012_val_00019019.JPEG,ILSVRC2012_val_00019019,a white bird is standing in a tree,132,0,none,1,ImageNet,1
+1062,ILSVRC2012_val_00014361.JPEG,ILSVRC2012_val_00014361,a white bird perched on top of a tree,132,0,none,1,ImageNet,1
+1089,ILSVRC2012_val_00035139.JPEG,ILSVRC2012_val_00035139,a black bird sitting in the grass,136,0,none,1,ImageNet,1
+1116,ILSVRC2012_val_00003526.JPEG,ILSVRC2012_val_00003526,a bird standing on some rocks,139,0,few,1,ImageNet,1
+1130,ILSVRC2012_val_00012741.JPEG,ILSVRC2012_val_00012741,a bird walking in the water on the beach,141,0,none,1,ImageNet,1
+1131,ILSVRC2012_val_00023990.JPEG,ILSVRC2012_val_00023990,a bird standing on a rock near the water,141,0,none,1,ImageNet,1
+1167,ILSVRC2012_val_00039171.JPEG,ILSVRC2012_val_00039171,two penguins standing on the grass near the water,145,0,one,1,ImageNet,1
+1175,ILSVRC2012_val_00036511.JPEG,ILSVRC2012_val_00036511,a flock of ducks swimming in the water,146,0,few,1,ImageNet,1
+1178,ILSVRC2012_val_00018578.JPEG,ILSVRC2012_val_00018578,a large elephant is swimming in the water,147,0,none,1,ImageNet,1
+1183,ILSVRC2012_val_00029505.JPEG,ILSVRC2012_val_00029505,a large rock in the water near the ocean,147,0,none,1,ImageNet,1
+1188,ILSVRC2012_val_00015145.JPEG,ILSVRC2012_val_00015145,a whale dives into the water in the ocean,148,0,none,1,ImageNet,1
+1203,ILSVRC2012_val_00027024.JPEG,ILSVRC2012_val_00027024,a close up of a polar bear swimming in the water,150,0,one,1,ImageNet,1
+1208,ILSVRC2012_val_00002917.JPEG,ILSVRC2012_val_00002917,a small black and white dog with a blue toy in its mouth,151,0,none,1,ImageNet,1
+1210,ILSVRC2012_val_00002921.JPEG,ILSVRC2012_val_00002921,a dog is looking out of a window,151,0,none,1,ImageNet,1
+1228,ILSVRC2012_val_00030056.JPEG,ILSVRC2012_val_00030056,a white,153,0,few,1,ImageNet,1
+1256,ILSVRC2012_val_00011751.JPEG,ILSVRC2012_val_00011751,a small dog standing next to a toy car,157,0,one,1,ImageNet,1
+1302,ILSVRC2012_val_00019283.JPEG,ILSVRC2012_val_00019283,a brown and white dog eating food out of a plate,162,0,none,1,ImageNet,1
+1309,ILSVRC2012_val_00034356.JPEG,ILSVRC2012_val_00034356,a large brown dog standing next to a fence,163,0,one,1,ImageNet,1
+1331,ILSVRC2012_val_00025562.JPEG,ILSVRC2012_val_00025562,a brown and white dog laying on the floor,166,0,none,1,ImageNet,1
+1341,ILSVRC2012_val_00033666.JPEG,ILSVRC2012_val_00033666,a dog is being pet by a person,167,0,none,1,ImageNet,1
+1350,ILSVRC2012_val_00009348.JPEG,ILSVRC2012_val_00009348,a brown dog sitting on a rug next to a door,168,0,one,1,ImageNet,1
+1351,ILSVRC2012_val_00030696.JPEG,ILSVRC2012_val_00030696,a brown dog running through a field of grass,168,0,one,1,ImageNet,1
+1427,ILSVRC2012_val_00030648.JPEG,ILSVRC2012_val_00030648,a brown dog running in the grass,178,0,none,1,ImageNet,1
+1429,ILSVRC2012_val_00021315.JPEG,ILSVRC2012_val_00021315,a man with two dogs in a field,178,0,none,1,ImageNet,1
+1444,ILSVRC2012_val_00037243.JPEG,ILSVRC2012_val_00037243,a white puppy standing in the dirt,180,0,few,1,ImageNet,1
+1445,ILSVRC2012_val_00030407.JPEG,ILSVRC2012_val_00030407,a brown and white dog laying on the floor,180,0,few,1,ImageNet,1
+1465,ILSVRC2012_val_00033311.JPEG,ILSVRC2012_val_00033311,a black dog sitting in front of a door,183,0,none,1,ImageNet,1
+1470,ILSVRC2012_val_00040773.JPEG,ILSVRC2012_val_00040773,a black dog standing behind a wire fence,183,0,none,1,ImageNet,1
+1478,ILSVRC2012_val_00000588.JPEG,ILSVRC2012_val_00000588,three dogs standing in the snow,184,0,none,1,ImageNet,1
+1486,ILSVRC2012_val_00028199.JPEG,ILSVRC2012_val_00028199,a small dog laying on the floor,185,0,few,1,ImageNet,1
+1487,ILSVRC2012_val_00001379.JPEG,ILSVRC2012_val_00001379,a brown dog sitting on a log in a forest,185,0,few,1,ImageNet,1
+1507,ILSVRC2012_val_00008463.JPEG,ILSVRC2012_val_00008463,a couple of sheep are behind a fence,188,0,one,1,ImageNet,1
+1508,ILSVRC2012_val_00028758.JPEG,ILSVRC2012_val_00028758,two small white dogs running in a field,188,0,one,1,ImageNet,1
+1517,ILSVRC2012_val_00003220.JPEG,ILSVRC2012_val_00003220,a small brown dog standing on a tiled floor,189,0,none,1,ImageNet,1
+1540,ILSVRC2012_val_00017195.JPEG,ILSVRC2012_val_00017195,a small dog sitting on the grass,192,0,none,1,ImageNet,1
+1569,ILSVRC2012_val_00021485.JPEG,ILSVRC2012_val_00021485,a gray and white dog looking at the camera,196,0,none,1,ImageNet,1
+1583,ILSVRC2012_val_00008207.JPEG,ILSVRC2012_val_00008207,three black dogs laying on the grass,197,0,few,1,ImageNet,1
+1585,ILSVRC2012_val_00000044.JPEG,ILSVRC2012_val_00000044,a small gray and white dog wearing a blue shirt,198,0,one,1,ImageNet,1
+1589,ILSVRC2012_val_00024508.JPEG,ILSVRC2012_val_00024508,a dog sitting in a car looking out the window,198,0,one,1,ImageNet,1
+1599,ILSVRC2012_val_00024756.JPEG,ILSVRC2012_val_00024756,a dalmatian dog is running on the beach,199,0,few,1,ImageNet,1
+1607,ILSVRC2012_val_00004045.JPEG,ILSVRC2012_val_00004045,a black and white dog standing in the grass,200,0,none,1,ImageNet,1
+1636,ILSVRC2012_val_00049190.JPEG,ILSVRC2012_val_00049190,two small dogs standing next to each other on a leash,204,0,one,1,ImageNet,1
+1661,ILSVRC2012_val_00006046.JPEG,ILSVRC2012_val_00006046,a close up of a dog with its nose,207,0,none,1,ImageNet,1
+1697,ILSVRC2012_val_00037485.JPEG,ILSVRC2012_val_00037485,a dog laying on the floor on a blanket,212,0,none,1,ImageNet,1
+1701,ILSVRC2012_val_00011024.JPEG,ILSVRC2012_val_00011024,a brown and white dog standing on a wooden floor,212,0,none,1,ImageNet,1
+1729,ILSVRC2012_val_00040291.JPEG,ILSVRC2012_val_00040291,a brown and white dog running in the woods,216,0,none,1,ImageNet,1
+1749,ILSVRC2012_val_00008348.JPEG,ILSVRC2012_val_00008348,a brown and white dog laying in the grass,218,0,few,1,ImageNet,1
+1767,ILSVRC2012_val_00007507.JPEG,ILSVRC2012_val_00007507,a dog sitting on the grass,220,0,few,1,ImageNet,1
+1768,ILSVRC2012_val_00020128.JPEG,ILSVRC2012_val_00020128,a black dog standing on the grass,221,0,few,1,ImageNet,1
+1795,ILSVRC2012_val_00040286.JPEG,ILSVRC2012_val_00040286,a black dog standing in a field,224,0,none,1,ImageNet,1
+1817,ILSVRC2012_val_00035455.JPEG,ILSVRC2012_val_00035455,a large brown dog standing next to a sidewalk,227,0,none,1,ImageNet,1
+1828,ILSVRC2012_val_00043511.JPEG,ILSVRC2012_val_00043511,a dog with dreadlocks standing next to a woman,228,0,none,1,ImageNet,1
+1842,ILSVRC2012_val_00041339.JPEG,ILSVRC2012_val_00041339,a brown and white dog sitting on a couch,230,0,one,1,ImageNet,1
+1850,ILSVRC2012_val_00006330.JPEG,ILSVRC2012_val_00006330,a brown and white dog standing in the grass,231,0,few,1,ImageNet,1
+1853,ILSVRC2012_val_00037428.JPEG,ILSVRC2012_val_00037428,a black and white dog sitting on a rock,231,0,few,1,ImageNet,1
+1868,ILSVRC2012_val_00010765.JPEG,ILSVRC2012_val_00010765,two black dogs are playing with a pink toy,233,0,none,1,ImageNet,1
+1894,ILSVRC2012_val_00030097.JPEG,ILSVRC2012_val_00030097,a brown dog standing next to a black horse,236,0,few,1,ImageNet,1
+1897,ILSVRC2012_val_00024305.JPEG,ILSVRC2012_val_00024305,two dogs standing next to each other in the grass,237,0,one,1,ImageNet,1
+1910,ILSVRC2012_val_00011947.JPEG,ILSVRC2012_val_00011947,a black and white dog with its mouth open,238,0,few,1,ImageNet,1
+1941,ILSVRC2012_val_00018604.JPEG,ILSVRC2012_val_00018604,a large brown and white dog sitting on a leash,242,0,few,1,ImageNet,1
+1961,ILSVRC2012_val_00041623.JPEG,ILSVRC2012_val_00041623,a black dog is looking at the camera,245,0,none,1,ImageNet,1
+1966,ILSVRC2012_val_00003855.JPEG,ILSVRC2012_val_00003855,a black and white photo of a dog laying on a bed,245,0,none,1,ImageNet,1
+1972,ILSVRC2012_val_00018866.JPEG,ILSVRC2012_val_00018866,a brown and black dog standing next to a man,246,0,one,1,ImageNet,1
+1974,ILSVRC2012_val_00031336.JPEG,ILSVRC2012_val_00031336,a man with a hat kissing a dog,246,0,one,1,ImageNet,1
+1988,ILSVRC2012_val_00046423.JPEG,ILSVRC2012_val_00046423,a white dog with its tongue sticking out,248,0,none,1,ImageNet,1
+2014,ILSVRC2012_val_00023620.JPEG,ILSVRC2012_val_00023620,a dalmatian dog laying on a couch,251,0,none,1,ImageNet,1
+2028,ILSVRC2012_val_00040381.JPEG,ILSVRC2012_val_00040381,a small dog laying on a blue couch,253,0,none,1,ImageNet,1
+2050,ILSVRC2012_val_00039173.JPEG,ILSVRC2012_val_00039173,a black dog is looking at the camera,256,0,none,1,ImageNet,1
+2067,ILSVRC2012_val_00038604.JPEG,ILSVRC2012_val_00038604,a white dog sitting in the snow with a red leash,258,0,none,1,ImageNet,1
+2084,ILSVRC2012_val_00028497.JPEG,ILSVRC2012_val_00028497,a brown and white dog laying on the ground,260,0,one,1,ImageNet,1
+2107,ILSVRC2012_val_00005746.JPEG,ILSVRC2012_val_00005746,a small dog standing in the grass,263,0,few,1,ImageNet,1
+2125,ILSVRC2012_val_00037250.JPEG,ILSVRC2012_val_00037250,a black dog is sleeping on a couch,265,0,one,1,ImageNet,1
+2136,ILSVRC2012_val_00045628.JPEG,ILSVRC2012_val_00045628,a black and white dog sitting in front of trees,267,0,one,1,ImageNet,1
+2138,ILSVRC2012_val_00047026.JPEG,ILSVRC2012_val_00047026,a white poodle standing next to a pile of logs,267,0,one,1,ImageNet,1
+2173,ILSVRC2012_val_00013714.JPEG,ILSVRC2012_val_00013714,a wolf running through the woods with its mouth open,271,0,none,1,ImageNet,1
+2210,ILSVRC2012_val_00028857.JPEG,ILSVRC2012_val_00028857,a black buffalo standing in a field of grass,276,0,one,1,ImageNet,1
+2223,ILSVRC2012_val_00032508.JPEG,ILSVRC2012_val_00032508,two fox cubs walking through the grass,277,0,few,1,ImageNet,1
+2246,ILSVRC2012_val_00015781.JPEG,ILSVRC2012_val_00015781,a fox standing in a field of tall grass,280,0,none,1,ImageNet,1
+2264,ILSVRC2012_val_00020765.JPEG,ILSVRC2012_val_00020765,a small gray and white kitten with blue eyes,283,0,one,1,ImageNet,1
+2272,ILSVRC2012_val_00036290.JPEG,ILSVRC2012_val_00036290,a gray and white cat with blue eyes,284,0,few,1,ImageNet,1
+2277,ILSVRC2012_val_00038168.JPEG,ILSVRC2012_val_00038168,a siamese cat sitting on a couch,284,0,few,1,ImageNet,1
+2294,ILSVRC2012_val_00030787.JPEG,ILSVRC2012_val_00030787,a close up of a mountain lion sitting on a rock,286,0,one,1,ImageNet,1
+2316,ILSVRC2012_val_00007140.JPEG,ILSVRC2012_val_00007140,a snow leopard running through the snow,289,0,few,1,ImageNet,1
+2317,ILSVRC2012_val_00023086.JPEG,ILSVRC2012_val_00023086,a snow leopard laying on some rocks,289,0,few,1,ImageNet,1
+2328,ILSVRC2012_val_00029424.JPEG,ILSVRC2012_val_00029424,a lion laying on a rock in a zoo enclosure,291,0,few,1,ImageNet,1
+2342,ILSVRC2012_val_00048186.JPEG,ILSVRC2012_val_00048186,a model of a tiger walking in the snow,292,0,none,1,ImageNet,1
+2344,ILSVRC2012_val_00039217.JPEG,ILSVRC2012_val_00039217,a leopard walking through the tall grass,293,0,few,1,ImageNet,1
+2356,ILSVRC2012_val_00001199.JPEG,ILSVRC2012_val_00001199,a brown bear walking in the water,294,0,one,1,ImageNet,1
+2381,ILSVRC2012_val_00024825.JPEG,ILSVRC2012_val_00024825,a large black bear and a baby bear in the grass,297,0,none,1,ImageNet,1
+2419,ILSVRC2012_val_00018839.JPEG,ILSVRC2012_val_00018839,a beetle sitting on top of a glass plate,302,0,few,1,ImageNet,1
+2428,ILSVRC2012_val_00045848.JPEG,ILSVRC2012_val_00045848,a spider sitting on top of a purple flower,303,0,one,1,ImageNet,1
+2436,ILSVRC2012_val_00036613.JPEG,ILSVRC2012_val_00036613,a red beetle is sitting on a green leaf,304,0,none,1,ImageNet,1
+2472,ILSVRC2012_val_00011167.JPEG,ILSVRC2012_val_00011167,a bee on a white flower,309,0,one,1,ImageNet,1
+2491,ILSVRC2012_val_00042841.JPEG,ILSVRC2012_val_00042841,a praying mantis hanging from a tree branch,311,0,one,1,ImageNet,1
+2497,ILSVRC2012_val_00034566.JPEG,ILSVRC2012_val_00034566,a small insect on the ground with a bug on its back,312,0,few,1,ImageNet,1
+2498,ILSVRC2012_val_00041261.JPEG,ILSVRC2012_val_00041261,a green grasshopper sitting on top of a table,312,0,few,1,ImageNet,1
+2503,ILSVRC2012_val_00035324.JPEG,ILSVRC2012_val_00035324,a close up of a bug on a handle,312,0,few,1,ImageNet,1
+2506,ILSVRC2012_val_00036990.JPEG,ILSVRC2012_val_00036990,a small bird laying on the ground in the grass,313,0,one,1,ImageNet,1
+2548,ILSVRC2012_val_00022155.JPEG,ILSVRC2012_val_00022155,two green locusts with green wings on a blue background,318,0,none,1,ImageNet,1
+2561,ILSVRC2012_val_00040288.JPEG,ILSVRC2012_val_00040288,a blue dragonfly sitting on a green leaf,320,0,one,1,ImageNet,1
+2575,ILSVRC2012_val_00012463.JPEG,ILSVRC2012_val_00012463,a butterfly sitting on top of a pink flower,321,0,few,1,ImageNet,1
+2587,ILSVRC2012_val_00005614.JPEG,ILSVRC2012_val_00005614,a monarch butterfly sitting on a yellow flower,323,0,few,1,ImageNet,1
+2603,ILSVRC2012_val_00034927.JPEG,ILSVRC2012_val_00034927,a green butterfly sitting on the ground,325,0,one,1,ImageNet,1
+2612,ILSVRC2012_val_00036924.JPEG,ILSVRC2012_val_00036924,an orange and brown butterfly sitting on a green leaf,326,0,few,1,ImageNet,1
+2657,ILSVRC2012_val_00028851.JPEG,ILSVRC2012_val_00028851,a white rabbit laying on a couch,332,0,few,1,ImageNet,1
+2686,ILSVRC2012_val_00042334.JPEG,ILSVRC2012_val_00042334,a squirrel sitting in the snow near a tree,335,0,none,1,ImageNet,1
+2696,ILSVRC2012_val_00012580.JPEG,ILSVRC2012_val_00012580,a bear is poking its head through a wooden fence,337,0,few,1,ImageNet,1
+2704,ILSVRC2012_val_00006291.JPEG,ILSVRC2012_val_00006291,a couple of guinea pigs sitting on top of a table,338,0,few,1,ImageNet,1
+2715,ILSVRC2012_val_00039259.JPEG,ILSVRC2012_val_00039259,a man riding a horse in an arena,339,0,none,1,ImageNet,1
+2735,ILSVRC2012_val_00031236.JPEG,ILSVRC2012_val_00031236,a group of pigs standing next to each other,341,0,few,1,ImageNet,1
+2742,ILSVRC2012_val_00037643.JPEG,ILSVRC2012_val_00037643,a mother bear standing over two kittens in the snow,342,0,none,1,ImageNet,1
+2745,ILSVRC2012_val_00015122.JPEG,ILSVRC2012_val_00015122,a warthog is standing on some rocks,343,0,none,1,ImageNet,1
+2794,ILSVRC2012_val_00000100.JPEG,ILSVRC2012_val_00000100,a group of sheep grazing on a rocky hill,349,0,one,1,ImageNet,1
+2800,ILSVRC2012_val_00009082.JPEG,ILSVRC2012_val_00009082,a horned animal is standing by a rock,350,0,few,1,ImageNet,1
+2811,ILSVRC2012_val_00020226.JPEG,ILSVRC2012_val_00020226,two horses running in a field with trees,351,0,none,1,ImageNet,1
+2820,ILSVRC2012_val_00028451.JPEG,ILSVRC2012_val_00028451,two antelope standing in a field of grass,352,0,none,1,ImageNet,1
+2826,ILSVRC2012_val_00035003.JPEG,ILSVRC2012_val_00035003,a deer standing on its hind legs next to a stone wall,353,0,one,1,ImageNet,1
+2833,ILSVRC2012_val_00039249.JPEG,ILSVRC2012_val_00039249,a man riding a camel in the desert,354,0,one,1,ImageNet,1
+2841,ILSVRC2012_val_00022237.JPEG,ILSVRC2012_val_00022237,two llamas standing in the grass near a fence,355,0,none,1,ImageNet,1
+2874,ILSVRC2012_val_00040026.JPEG,ILSVRC2012_val_00040026,a cat is sitting in a shoe box,359,0,none,1,ImageNet,1
+2879,ILSVRC2012_val_00040766.JPEG,ILSVRC2012_val_00040766,two ferrets standing next to each other on a blanket,359,0,none,1,ImageNet,1
+2882,ILSVRC2012_val_00026048.JPEG,ILSVRC2012_val_00026048,a ferret is standing on the ground,360,0,none,1,ImageNet,1
+2911,ILSVRC2012_val_00025208.JPEG,ILSVRC2012_val_00025208,a large armadillo crawling through the ground,363,0,one,1,ImageNet,1
+2930,ILSVRC2012_val_00032655.JPEG,ILSVRC2012_val_00032655,a close up of a gorilla with a nose,366,0,none,1,ImageNet,1
+2932,ILSVRC2012_val_00040008.JPEG,ILSVRC2012_val_00040008,a gorilla sitting in the grass,366,0,none,1,ImageNet,1
+2945,ILSVRC2012_val_00010482.JPEG,ILSVRC2012_val_00010482,a monkey is sitting on a tree branch,368,0,none,1,ImageNet,1
+2950,ILSVRC2012_val_00004753.JPEG,ILSVRC2012_val_00004753,a monkey sitting on the ground in the grass,368,0,none,1,ImageNet,1
+2955,ILSVRC2012_val_00025470.JPEG,ILSVRC2012_val_00025470,a gorilla sitting on a rock in a zoo enclosure,369,0,none,1,ImageNet,1
+2968,ILSVRC2012_val_00038203.JPEG,ILSVRC2012_val_00038203,a monkey and its baby sitting on a rock,371,0,few,1,ImageNet,1
+2981,ILSVRC2012_val_00016651.JPEG,ILSVRC2012_val_00016651,a monkey is sitting in the grass,372,0,few,1,ImageNet,1
+2991,ILSVRC2012_val_00029789.JPEG,ILSVRC2012_val_00029789,a little monkey sitting on a tree branch,373,0,one,1,ImageNet,1
+2993,ILSVRC2012_val_00009560.JPEG,ILSVRC2012_val_00009560,a monkey standing in front of a rock,374,0,one,1,ImageNet,1
+2994,ILSVRC2012_val_00017574.JPEG,ILSVRC2012_val_00017574,a monkey sitting on a tree behind a wire fence,374,0,one,1,ImageNet,1
+3000,ILSVRC2012_val_00028290.JPEG,ILSVRC2012_val_00028290,a black and white monkey standing on a tree branch,375,0,none,1,ImageNet,1
+3006,ILSVRC2012_val_00045991.JPEG,ILSVRC2012_val_00045991,a kite is stuck in a tree in a field,375,0,none,1,ImageNet,1
+3033,ILSVRC2012_val_00023194.JPEG,ILSVRC2012_val_00023194,a chimpanzee is sitting in a tree,379,0,one,1,ImageNet,1
+3064,ILSVRC2012_val_00010645.JPEG,ILSVRC2012_val_00010645,two ring tailed lemur sitting on top of a tree branch,383,0,none,1,ImageNet,1
+3069,ILSVRC2012_val_00048275.JPEG,ILSVRC2012_val_00048275,a close up of a black and white monkey with yellow eyes,383,0,none,1,ImageNet,1
+3073,ILSVRC2012_val_00020962.JPEG,ILSVRC2012_val_00020962,a teddy bear is sitting in a tree,384,0,none,1,ImageNet,1
+3079,ILSVRC2012_val_00030022.JPEG,ILSVRC2012_val_00030022,a koala is sleeping in a tree,384,0,none,1,ImageNet,1
+3082,ILSVRC2012_val_00049390.JPEG,ILSVRC2012_val_00049390,two people riding an elephant on a street,385,0,few,1,ImageNet,1
+3105,ILSVRC2012_val_00014668.JPEG,ILSVRC2012_val_00014668,two panda bears standing in a cage,388,0,few,1,ImageNet,1
+3107,ILSVRC2012_val_00021267.JPEG,ILSVRC2012_val_00021267,a panda bear chewing on a block of food,388,0,few,1,ImageNet,1
+3115,ILSVRC2012_val_00044102.JPEG,ILSVRC2012_val_00044102,a man holding a fish on a beach,389,0,none,1,ImageNet,1
+3129,ILSVRC2012_val_00048832.JPEG,ILSVRC2012_val_00048832,a man holding a fish on a river,391,0,one,1,ImageNet,1
+3140,ILSVRC2012_val_00033481.JPEG,ILSVRC2012_val_00033481,a yellow and black fish swimming over a coral reef,392,0,one,1,ImageNet,1
+3169,ILSVRC2012_val_00019791.JPEG,ILSVRC2012_val_00019791,a fish made out of blue lights in a store,396,0,one,1,ImageNet,1
+3172,ILSVRC2012_val_00031935.JPEG,ILSVRC2012_val_00031935,a fish is swimming in a coral reef,396,0,one,1,ImageNet,1
+3209,ILSVRC2012_val_00028627.JPEG,ILSVRC2012_val_00028627,a man playing an accordion on the street,401,0,none,1,ImageNet,1
+3248,ILSVRC2012_val_00002205.JPEG,ILSVRC2012_val_00002205,a room with two christmas trees and aueseueseueseueseueseueseuese,406,0,none,1,ImageNet,1
+3259,ILSVRC2012_val_00018395.JPEG,ILSVRC2012_val_00018395,a red and white van parked in front of a building,407,0,none,1,ImageNet,1
+3269,ILSVRC2012_val_00015346.JPEG,ILSVRC2012_val_00015346,a military vehicle pulling a boat with soldiers in the water,408,0,none,1,ImageNet,1
+3282,ILSVRC2012_val_00024137.JPEG,ILSVRC2012_val_00024137,a person sitting on a bench in a park,410,0,none,1,ImageNet,1
+3305,ILSVRC2012_val_00028527.JPEG,ILSVRC2012_val_00028527,a gun on display in a glass case,413,0,none,1,ImageNet,1
+3325,ILSVRC2012_val_00007727.JPEG,ILSVRC2012_val_00007727,a cupcake with slices of strawberries on top,415,0,none,1,ImageNet,1
+3342,ILSVRC2012_val_00035294.JPEG,ILSVRC2012_val_00035294,a group of people standing around a hot air balloon,417,0,none,1,ImageNet,1
+3369,ILSVRC2012_val_00049054.JPEG,ILSVRC2012_val_00049054,a stairwell with a metal railing on top of it,421,0,none,1,ImageNet,1
+3373,ILSVRC2012_val_00012502.JPEG,ILSVRC2012_val_00012502,a car parked in front of a building with stairs,421,0,none,1,ImageNet,1
+3393,ILSVRC2012_val_00008235.JPEG,ILSVRC2012_val_00008235,a barber shop with a fire hydrant outside of it,424,0,none,1,ImageNet,1
+3417,ILSVRC2012_val_00023193.JPEG,ILSVRC2012_val_00023193,a row of blue tanks on a wooden bench,427,0,none,1,ImageNet,1
+3419,ILSVRC2012_val_00026180.JPEG,ILSVRC2012_val_00026180,three vases sitting next to each other on a table,427,0,none,1,ImageNet,1
+3434,ILSVRC2012_val_00012687.JPEG,ILSVRC2012_val_00012687,a baby in a basket with a baseball bat,429,0,none,1,ImageNet,1
+3441,ILSVRC2012_val_00038899.JPEG,ILSVRC2012_val_00038899,a man holding a basketball in a gym,430,0,one,1,ImageNet,1
+3468,ILSVRC2012_val_00037533.JPEG,ILSVRC2012_val_00037533,a poster of a woman in a swimming pool,433,0,none,1,ImageNet,1
+3480,ILSVRC2012_val_00025038.JPEG,ILSVRC2012_val_00025038,a woman laying in a bath tub in a bathroom,435,0,one,1,ImageNet,1
+3491,ILSVRC2012_val_00020038.JPEG,ILSVRC2012_val_00020038,a red car parked in front of a purple building,436,0,none,1,ImageNet,1
+3497,ILSVRC2012_val_00009026.JPEG,ILSVRC2012_val_00009026,a lighthouse on a dock on the water,437,0,one,1,ImageNet,1
+3511,ILSVRC2012_val_00040722.JPEG,ILSVRC2012_val_00040722,a candle sitting on a table with flowers,438,0,none,1,ImageNet,1
+3512,ILSVRC2012_val_00018484.JPEG,ILSVRC2012_val_00018484,a soldier wearing a red uniform and a black hat,439,0,none,1,ImageNet,1
+3523,ILSVRC2012_val_00006248.JPEG,ILSVRC2012_val_00006248,a coffee mug with a red and white top,440,0,few,1,ImageNet,1
+3526,ILSVRC2012_val_00046968.JPEG,ILSVRC2012_val_00046968,a bottle of korean river beer with a sticker on it,440,0,few,1,ImageNet,1
+3546,ILSVRC2012_val_00002482.JPEG,ILSVRC2012_val_00002482,a piece of food in a bag with a label on it,443,0,few,1,ImageNet,1
+3583,ILSVRC2012_val_00024139.JPEG,ILSVRC2012_val_00024139,a group of cameras sitting on the ground next to some weapons,447,0,none,1,ImageNet,1
+3588,ILSVRC2012_val_00020214.JPEG,ILSVRC2012_val_00020214,a fire hydrant sitting in front of a tree,448,0,none,1,ImageNet,1
+3591,ILSVRC2012_val_00032543.JPEG,ILSVRC2012_val_00032543,a bird house on top of a wooden pole,448,0,none,1,ImageNet,1
+3616,ILSVRC2012_val_00028567.JPEG,ILSVRC2012_val_00028567,a baby doll wearing a blue sweater and hat,452,0,one,1,ImageNet,1
+3617,ILSVRC2012_val_00033262.JPEG,ILSVRC2012_val_00033262,a colorful knit scarf is laying on a white table,452,0,one,1,ImageNet,1
+3632,ILSVRC2012_val_00047726.JPEG,ILSVRC2012_val_00047726,a aisle in a store filled with videos and toys,454,0,few,1,ImageNet,1
+3642,ILSVRC2012_val_00016826.JPEG,ILSVRC2012_val_00016826,a white plate is sitting on a wooden table,455,0,none,1,ImageNet,1
+3664,ILSVRC2012_val_00045578.JPEG,ILSVRC2012_val_00045578,a memorial to the archbishop of canterbury on the wall of a building,458,0,few,1,ImageNet,1
+3680,ILSVRC2012_val_00030290.JPEG,ILSVRC2012_val_00030290,a wooden bridge over a pond in a park,460,0,none,1,ImageNet,1
+3713,ILSVRC2012_val_00049456.JPEG,ILSVRC2012_val_00049456,a red case with a cell phone and a tag,464,0,none,1,ImageNet,1
+3719,ILSVRC2012_val_00026105.JPEG,ILSVRC2012_val_00026105,a man wearing a black shirt with a badge on his shoulder,464,0,none,1,ImageNet,1
+3730,ILSVRC2012_val_00001805.JPEG,ILSVRC2012_val_00001805,a train is parked in a train station,466,0,none,1,ImageNet,1
+3739,ILSVRC2012_val_00000740.JPEG,ILSVRC2012_val_00000740,a man cutting up chickens at a market,467,0,few,1,ImageNet,1
+3749,ILSVRC2012_val_00038811.JPEG,ILSVRC2012_val_00038811,a model of a train station with a city in the background,468,0,none,1,ImageNet,1
+3754,ILSVRC2012_val_00009919.JPEG,ILSVRC2012_val_00009919,a large copper pot on top of a stove,469,0,none,1,ImageNet,1
+3766,ILSVRC2012_val_00008717.JPEG,ILSVRC2012_val_00008717,a candle in a red vase on a table,470,0,none,1,ImageNet,1
+3777,ILSVRC2012_val_00028376.JPEG,ILSVRC2012_val_00028376,a man is sitting in a red kayak in the water,472,0,none,1,ImageNet,1
+3780,ILSVRC2012_val_00039572.JPEG,ILSVRC2012_val_00039572,a person in a red kayak in the water,472,0,none,1,ImageNet,1
+3783,ILSVRC2012_val_00037707.JPEG,ILSVRC2012_val_00037707,a group of people in kayaks on a river,472,0,none,1,ImageNet,1
+3816,ILSVRC2012_val_00009487.JPEG,ILSVRC2012_val_00009487,a black bag filled with different types of tools,477,0,few,1,ImageNet,1
+3829,ILSVRC2012_val_00013835.JPEG,ILSVRC2012_val_00013835,a piece of tissue paper sitting on top of a counter,478,0,one,1,ImageNet,1
+3864,ILSVRC2012_val_00041139.JPEG,ILSVRC2012_val_00041139,fireworks over the castle at cinderella castle at the magic kingdom,483,0,none,1,ImageNet,1
+3886,ILSVRC2012_val_00004114.JPEG,ILSVRC2012_val_00004114,a entertainment center with a television and audio equipment on it,485,0,none,1,ImageNet,1
+3903,ILSVRC2012_val_00008583.JPEG,ILSVRC2012_val_00008583,the black iphone is next to a black cell phone,487,0,none,1,ImageNet,1
+3912,ILSVRC2012_val_00009432.JPEG,ILSVRC2012_val_00009432,a rusty chain link fence with a basket on the fence,489,0,none,1,ImageNet,1
+3961,ILSVRC2012_val_00030731.JPEG,ILSVRC2012_val_00030731,a wooden china cabinet with glass doors,495,0,one,1,ImageNet,1
+3971,ILSVRC2012_val_00036565.JPEG,ILSVRC2012_val_00036565,a pair of christmas stockings on a table with wine glasses,496,0,one,1,ImageNet,1
+3998,ILSVRC2012_val_00009369.JPEG,ILSVRC2012_val_00009369,a man cutting a turkey on a cutting board with a knife,499,0,none,1,ImageNet,1
+4002,ILSVRC2012_val_00033943.JPEG,ILSVRC2012_val_00033943,a window in an old stone wall with a view of a cave,500,0,none,1,ImageNet,1
+4014,ILSVRC2012_val_00023868.JPEG,ILSVRC2012_val_00023868,a man wearing a plaid coat and a red hat standing in the street,501,0,none,1,ImageNet,1
+4030,ILSVRC2012_val_00028646.JPEG,ILSVRC2012_val_00028646,a stainless steel thermos,503,0,none,1,ImageNet,1
+4035,ILSVRC2012_val_00027194.JPEG,ILSVRC2012_val_00027194,a coffee mug with a foot design on it,504,0,few,1,ImageNet,1
+4044,ILSVRC2012_val_00001940.JPEG,ILSVRC2012_val_00001940,a coffee maker sitting on top of a counter,505,0,one,1,ImageNet,1
+4067,ILSVRC2012_val_00026428.JPEG,ILSVRC2012_val_00026428,a black and white photo of a computer keyboard,508,0,one,1,ImageNet,1
+4097,ILSVRC2012_val_00019143.JPEG,ILSVRC2012_val_00019143,a knife with a wooden handle and a,512,0,none,1,ImageNet,1
+4115,ILSVRC2012_val_00031385.JPEG,ILSVRC2012_val_00031385,a woman in a white dress standing in front of a rack of clothes,514,0,few,1,ImageNet,1
+4126,ILSVRC2012_val_00003760.JPEG,ILSVRC2012_val_00003760,a white cowboy hat sitting on top of a table,515,0,none,1,ImageNet,1
+4138,ILSVRC2012_val_00049131.JPEG,ILSVRC2012_val_00049131,a construction crane in front of a cloudy sky,517,0,one,1,ImageNet,1
+4155,ILSVRC2012_val_00030004.JPEG,ILSVRC2012_val_00030004,a piece of wood with a painting of a pig on it,519,0,none,1,ImageNet,1
+4169,ILSVRC2012_val_00017283.JPEG,ILSVRC2012_val_00017283,a slow cooker filled with meat and sauce,521,0,none,1,ImageNet,1
+4206,ILSVRC2012_val_00018884.JPEG,ILSVRC2012_val_00018884,a large dam on a river with a bridge,525,0,none,1,ImageNet,1
+4215,ILSVRC2012_val_00032085.JPEG,ILSVRC2012_val_00032085,a computer desk with a monitor and a keyboard,526,0,none,1,ImageNet,1
+4315,ILSVRC2012_val_00038014.JPEG,ILSVRC2012_val_00038014,a blue rug on the floor of a train station,539,0,one,1,ImageNet,1
+4317,ILSVRC2012_val_00020262.JPEG,ILSVRC2012_val_00020262,a green game board with the word hello and some dice on the floor,539,0,one,1,ImageNet,1
+4346,ILSVRC2012_val_00024721.JPEG,ILSVRC2012_val_00024721,two men working out in the gym with weights,543,0,one,1,ImageNet,1
+4347,ILSVRC2012_val_00006779.JPEG,ILSVRC2012_val_00006779,a woman laying on a bench in a gym with a dumbbell,543,0,one,1,ImageNet,1
+4349,ILSVRC2012_val_00021822.JPEG,ILSVRC2012_val_00021822,a man is laying on a ball in a gym,543,0,one,1,ImageNet,1
+4382,ILSVRC2012_val_00031271.JPEG,ILSVRC2012_val_00031271,a train crossing a bridge over a river,547,0,none,1,ImageNet,1
+4415,ILSVRC2012_val_00029330.JPEG,ILSVRC2012_val_00029330,a woman in a white dress with feathers,552,0,one,1,ImageNet,1
+4501,ILSVRC2012_val_00031715.JPEG,ILSVRC2012_val_00031715,a sharp knife sitting on top of a,563,0,one,1,ImageNet,1
+4505,ILSVRC2012_val_00036037.JPEG,ILSVRC2012_val_00036037,a bed with a green and gold bed frame,564,0,none,1,ImageNet,1
+4520,ILSVRC2012_val_00037592.JPEG,ILSVRC2012_val_00037592,a person is holding a horn with their hand,566,0,none,1,ImageNet,1
+4526,ILSVRC2012_val_00030728.JPEG,ILSVRC2012_val_00030728,a woman standing next to a tree holding a horn,566,0,none,1,ImageNet,1
+4535,ILSVRC2012_val_00003162.JPEG,ILSVRC2012_val_00003162,a pan of food cooking on a barbecue grill,567,0,few,1,ImageNet,1
+4551,ILSVRC2012_val_00013827.JPEG,ILSVRC2012_val_00013827,a garbage truck dumping a load into the back of a dump truck,569,0,one,1,ImageNet,1
+4564,ILSVRC2012_val_00017350.JPEG,ILSVRC2012_val_00017350,a woman in a white dress refueling a car,571,0,few,1,ImageNet,1
+4581,ILSVRC2012_val_00005110.JPEG,ILSVRC2012_val_00005110,two people in a go cart race on a track,573,0,few,1,ImageNet,1
+4586,ILSVRC2012_val_00048517.JPEG,ILSVRC2012_val_00048517,a golf ball sitting on top of grass   look here,574,0,none,1,ImageNet,1
+4588,ILSVRC2012_val_00031486.JPEG,ILSVRC2012_val_00031486,three golf balls with a crown on them,574,0,none,1,ImageNet,1
+4594,ILSVRC2012_val_00032367.JPEG,ILSVRC2012_val_00032367,a golf cart parked on the side of a driveway,575,0,none,1,ImageNet,1
+4675,ILSVRC2012_val_00040181.JPEG,ILSVRC2012_val_00040181,a bottle of moisturizer sitting on a black surface,585,0,none,1,ImageNet,1
+4696,ILSVRC2012_val_00008274.JPEG,ILSVRC2012_val_00008274,a man wearing a suit and holding a purse,588,0,none,1,ImageNet,1
+4706,ILSVRC2012_val_00000876.JPEG,ILSVRC2012_val_00000876,a person holding a blue hair dryer in their hand,589,0,few,1,ImageNet,1
+4717,ILSVRC2012_val_00049544.JPEG,ILSVRC2012_val_00049544,a cell phone with a case on a white,590,0,few,1,ImageNet,1
+4719,ILSVRC2012_val_00001946.JPEG,ILSVRC2012_val_00001946,a person is holding a tablet computer,590,0,few,1,ImageNet,1
+4768,ILSVRC2012_val_00047965.JPEG,ILSVRC2012_val_00047965,a gun is sitting on a table next to a wallet,597,0,none,1,ImageNet,1
+4785,ILSVRC2012_val_00009904.JPEG,ILSVRC2012_val_00009904,a mushroom sitting on top of a wooden,599,0,few,1,ImageNet,1
+4788,ILSVRC2012_val_00036530.JPEG,ILSVRC2012_val_00036530,a yellow and black bee sitting on a honeycomb,599,0,few,1,ImageNet,1
+4799,ILSVRC2012_val_00014236.JPEG,ILSVRC2012_val_00014236,a wrought iron chandelier sitting in a store,600,0,few,1,ImageNet,1
+4821,ILSVRC2012_val_00014022.JPEG,ILSVRC2012_val_00014022,a group of horses pulling a wagon in a arena,603,0,few,1,ImageNet,1
+4839,ILSVRC2012_val_00043698.JPEG,ILSVRC2012_val_00043698,an ipod is sitting on a table next to a remote control,605,0,one,1,ImageNet,1
+4902,ILSVRC2012_val_00005657.JPEG,ILSVRC2012_val_00005657,a nintendo wii video game controller on a black,613,0,one,1,ImageNet,1
+4910,ILSVRC2012_val_00041615.JPEG,ILSVRC2012_val_00041615,a woman standing on a balcony overlooking a forest,614,0,few,1,ImageNet,1
+4947,ILSVRC2012_val_00017934.JPEG,ILSVRC2012_val_00017934,a table with a lamp and a bowl on it,619,0,none,1,ImageNet,1
+4961,ILSVRC2012_val_00026632.JPEG,ILSVRC2012_val_00026632,three lawn mowers on the grass in a field,621,0,few,1,ImageNet,1
+4979,ILSVRC2012_val_00010514.JPEG,ILSVRC2012_val_00010514,a person is holding a pair of scissors,623,0,none,1,ImageNet,1
+4980,ILSVRC2012_val_00049538.JPEG,ILSVRC2012_val_00049538,a knife sitting on top of a piece of paper on a table,623,0,none,1,ImageNet,1
+5007,ILSVRC2012_val_00009507.JPEG,ILSVRC2012_val_00009507,a close up of a car door handle,626,0,few,1,ImageNet,1
+5014,ILSVRC2012_val_00006746.JPEG,ILSVRC2012_val_00006746,a man sitting in the back of a van,627,0,one,1,ImageNet,1
+5022,ILSVRC2012_val_00038595.JPEG,ILSVRC2012_val_00038595,a large boat in the water in front of a city,628,0,few,1,ImageNet,1
+5023,ILSVRC2012_val_00006026.JPEG,ILSVRC2012_val_00006026,a large cruise ship and a small boat in the water,628,0,few,1,ImageNet,1
+5030,ILSVRC2012_val_00021922.JPEG,ILSVRC2012_val_00021922,three lipstick sticks sitting on a table,629,0,none,1,ImageNet,1
+5038,ILSVRC2012_val_00008900.JPEG,ILSVRC2012_val_00008900,a persons feet with black shoes on a chair,630,0,none,1,ImageNet,1
+5050,ILSVRC2012_val_00012602.JPEG,ILSVRC2012_val_00012602,a pair of speakers sitting on top of a table,632,0,none,1,ImageNet,1
+5063,ILSVRC2012_val_00028226.JPEG,ILSVRC2012_val_00028226,a close up of a spoon and fork on a plate,633,0,none,1,ImageNet,1
+5070,ILSVRC2012_val_00033470.JPEG,ILSVRC2012_val_00033470,a black and white photo of an old machinery,634,0,few,1,ImageNet,1
+5081,ILSVRC2012_val_00042613.JPEG,ILSVRC2012_val_00042613,a black leather briefcase with its contents open and,636,0,one,1,ImageNet,1
+5084,ILSVRC2012_val_00004303.JPEG,ILSVRC2012_val_00004303,a black purse with a love this sticker on it,636,0,one,1,ImageNet,1
+5107,ILSVRC2012_val_00019278.JPEG,ILSVRC2012_val_00019278,a woman in a black swimsuit is jumping in the air,639,0,none,1,ImageNet,1
+5136,ILSVRC2012_val_00023885.JPEG,ILSVRC2012_val_00023885,a man is wearing a hat and sunglasses,643,0,few,1,ImageNet,1
+5158,ILSVRC2012_val_00010813.JPEG,ILSVRC2012_val_00010813,a group of people in costumes dancing around a pole,645,0,none,1,ImageNet,1
+5165,ILSVRC2012_val_00023762.JPEG,ILSVRC2012_val_00023762,a labyrinth is shown on the floor of a building,646,0,none,1,ImageNet,1
+5171,ILSVRC2012_val_00005193.JPEG,ILSVRC2012_val_00005193,a person is holding a mug with a measuring cup,647,0,none,1,ImageNet,1
+5186,ILSVRC2012_val_00043128.JPEG,ILSVRC2012_val_00043128,a tree with the sun shining in the sky,649,0,none,1,ImageNet,1
+5204,ILSVRC2012_val_00035302.JPEG,ILSVRC2012_val_00035302,a small dog standing inside of a microwave,651,0,none,1,ImageNet,1
+5213,ILSVRC2012_val_00047985.JPEG,ILSVRC2012_val_00047985,a man in uniform standing next to a horse,652,0,one,1,ImageNet,1
+5217,ILSVRC2012_val_00047798.JPEG,ILSVRC2012_val_00047798,a group of potted plants sitting next to a house,653,0,none,1,ImageNet,1
+5250,ILSVRC2012_val_00008010.JPEG,ILSVRC2012_val_00008010,the schematic diagram of the space launch system rocket,657,0,one,1,ImageNet,1
+5264,ILSVRC2012_val_00006621.JPEG,ILSVRC2012_val_00006621,a yellow mixing bowl sitting on top of a table,659,0,none,1,ImageNet,1
+5289,ILSVRC2012_val_00002292.JPEG,ILSVRC2012_val_00002292,an electronic device with a cable plugged into it,662,0,one,1,ImageNet,1
+5293,ILSVRC2012_val_00033556.JPEG,ILSVRC2012_val_00033556,a laptop computer sitting on top of a table,662,0,one,1,ImageNet,1
+5297,ILSVRC2012_val_00024251.JPEG,ILSVRC2012_val_00024251,a church with a cross on the top of it,663,0,one,1,ImageNet,1
+5305,ILSVRC2012_val_00041449.JPEG,ILSVRC2012_val_00041449,a green stripe on the screen of a laptop computer,664,0,few,1,ImageNet,1
+5362,ILSVRC2012_val_00020631.JPEG,ILSVRC2012_val_00020631,a man riding a bike over an obstacle,671,0,none,1,ImageNet,1
+5370,ILSVRC2012_val_00016419.JPEG,ILSVRC2012_val_00016419,a tent in a rocky field with mountains,672,0,none,1,ImageNet,1
+5383,ILSVRC2012_val_00014424.JPEG,ILSVRC2012_val_00014424,a computer monitor and a keyboard and mouse on a desk,673,0,one,1,ImageNet,1
+5389,ILSVRC2012_val_00048611.JPEG,ILSVRC2012_val_00048611,a nail sticking out of an old clock,674,0,few,1,ImageNet,1
+5401,ILSVRC2012_val_00008568.JPEG,ILSVRC2012_val_00008568,a leather saddle bag sitting on top of a blanket,676,0,none,1,ImageNet,1
+5404,ILSVRC2012_val_00038880.JPEG,ILSVRC2012_val_00038880,a silver spoon sitting on the floor,676,0,none,1,ImageNet,1
+5425,ILSVRC2012_val_00019174.JPEG,ILSVRC2012_val_00019174,a necklace is sitting on a wooden table,679,0,few,1,ImageNet,1
+5451,ILSVRC2012_val_00011566.JPEG,ILSVRC2012_val_00011566,a sculpture of a triangle in the middle of a park,682,0,few,1,ImageNet,1
+5462,ILSVRC2012_val_00026306.JPEG,ILSVRC2012_val_00026306,a bunch of trumpet instruments laying on a blue towel,683,0,one,1,ImageNet,1
+5503,ILSVRC2012_val_00004476.JPEG,ILSVRC2012_val_00004476,an oscilloscope with wires attached to it and a computer monitor,688,0,few,1,ImageNet,1
+5512,ILSVRC2012_val_00023007.JPEG,ILSVRC2012_val_00023007,a cow pulling a cart on a dirt road,690,0,none,1,ImageNet,1
+5514,ILSVRC2012_val_00016505.JPEG,ILSVRC2012_val_00016505,a group of people sitting on the back of a wagon,690,0,none,1,ImageNet,1
+5528,ILSVRC2012_val_00015005.JPEG,ILSVRC2012_val_00015005,four different colored coke boxes on a black,692,0,none,1,ImageNet,1
+5569,ILSVRC2012_val_00010480.JPEG,ILSVRC2012_val_00010480,a white pajamasuit with a bunny and rabbit on it,697,0,none,1,ImageNet,1
+5623,ILSVRC2012_val_00031251.JPEG,ILSVRC2012_val_00031251,a bench in a park next to a tree,703,0,one,1,ImageNet,1
+5627,ILSVRC2012_val_00034709.JPEG,ILSVRC2012_val_00034709,a parking meter in front of a building,704,0,one,1,ImageNet,1
+5646,ILSVRC2012_val_00003941.JPEG,ILSVRC2012_val_00003941,the front porch of a house with a white door,706,0,none,1,ImageNet,1
+5655,ILSVRC2012_val_00027309.JPEG,ILSVRC2012_val_00027309,a blue telephone on the side of a window,707,0,none,1,ImageNet,1
+5687,ILSVRC2012_val_00007074.JPEG,ILSVRC2012_val_00007074,a perfume bottle next to a box of perfume,711,0,few,1,ImageNet,1
+5705,ILSVRC2012_val_00039317.JPEG,ILSVRC2012_val_00039317,a hand holding a green rock with a circuit board on it,714,0,few,1,ImageNet,1
+5707,ILSVRC2012_val_00022410.JPEG,ILSVRC2012_val_00022410,a red rock sitting on top of a table,714,0,few,1,ImageNet,1
+5732,ILSVRC2012_val_00036504.JPEG,ILSVRC2012_val_00036504,an old blue chevy truck parked in the grass,717,0,none,1,ImageNet,1
+5745,ILSVRC2012_val_00030827.JPEG,ILSVRC2012_val_00030827,a blue and white piggy bank sitting on a table,719,0,none,1,ImageNet,1
+5787,ILSVRC2012_val_00012579.JPEG,ILSVRC2012_val_00012579,a group of boats in a large body of water,724,0,few,1,ImageNet,1
+5799,ILSVRC2012_val_00010004.JPEG,ILSVRC2012_val_00010004,a green tea pot sitting on top of a table,725,0,one,1,ImageNet,1
+5819,ILSVRC2012_val_00008350.JPEG,ILSVRC2012_val_00008350,a display of red dresses in a window,728,0,one,1,ImageNet,1
+5830,ILSVRC2012_val_00029613.JPEG,ILSVRC2012_val_00029613,a stack of plates in a glass display case,729,0,none,1,ImageNet,1
+5844,ILSVRC2012_val_00027554.JPEG,ILSVRC2012_val_00027554,a person with a red sucker on their skin,731,0,none,1,ImageNet,1
+5861,ILSVRC2012_val_00022177.JPEG,ILSVRC2012_val_00022177,a boardwalk next to a beach and a building,733,0,one,1,ImageNet,1
+5880,ILSVRC2012_val_00009796.JPEG,ILSVRC2012_val_00009796,a man is playing a game of pool,736,0,one,1,ImageNet,1
+5889,ILSVRC2012_val_00017913.JPEG,ILSVRC2012_val_00017913,a blue bottle of frosty blue cream on a table,737,0,none,1,ImageNet,1
+5896,ILSVRC2012_val_00026563.JPEG,ILSVRC2012_val_00026563,a garden with a pot of flowers on a pole,738,0,few,1,ImageNet,1
+5921,ILSVRC2012_val_00015241.JPEG,ILSVRC2012_val_00015241,a large room with a blue rug and chandeliers,741,0,none,1,ImageNet,1
+5935,ILSVRC2012_val_00047083.JPEG,ILSVRC2012_val_00047083,a white computer printer with a keyboard on top,742,0,none,1,ImageNet,1
+5942,ILSVRC2012_val_00024319.JPEG,ILSVRC2012_val_00024319,a white wall with doors and windows in a building,743,0,none,1,ImageNet,1
+5949,ILSVRC2012_val_00023914.JPEG,ILSVRC2012_val_00023914,an old fighter jet on display in a museum,744,0,few,1,ImageNet,1
+5963,ILSVRC2012_val_00048759.JPEG,ILSVRC2012_val_00048759,a disc with a picture of a face on it,746,0,one,1,ImageNet,1
+5974,ILSVRC2012_val_00010977.JPEG,ILSVRC2012_val_00010977,a red punching bag on a pole in a room,747,0,few,1,ImageNet,1
+5976,ILSVRC2012_val_00042671.JPEG,ILSVRC2012_val_00042671,a bag shaped like a bug on a white table,748,0,one,1,ImageNet,1
+5987,ILSVRC2012_val_00035051.JPEG,ILSVRC2012_val_00035051,a person is painting a snake on a piece of paper,749,0,none,1,ImageNet,1
+5995,ILSVRC2012_val_00007047.JPEG,ILSVRC2012_val_00007047,an unmade bed with two white pillows and two lamps,750,0,none,1,ImageNet,1
+5997,ILSVRC2012_val_00035641.JPEG,ILSVRC2012_val_00035641,a black and white cat laying on a bed,750,0,none,1,ImageNet,1
+6027,ILSVRC2012_val_00038611.JPEG,ILSVRC2012_val_00038611,a small white cell phone sitting on a table,754,0,one,1,ImageNet,1
+6044,ILSVRC2012_val_00015619.JPEG,ILSVRC2012_val_00015619,a blue barrel with animals on it next to a house,756,0,one,1,ImageNet,1
+6050,ILSVRC2012_val_00016610.JPEG,ILSVRC2012_val_00016610,an rv parked in a field in front of a church,757,0,one,1,ImageNet,1
+6051,ILSVRC2012_val_00001455.JPEG,ILSVRC2012_val_00001455,an empty chair in the back of a van,757,0,one,1,ImageNet,1
+6082,ILSVRC2012_val_00040666.JPEG,ILSVRC2012_val_00040666,a close up of a remote control on a keyboard,761,0,one,1,ImageNet,1
+6084,ILSVRC2012_val_00029953.JPEG,ILSVRC2012_val_00029953,four remote controls are lined up on a wooden table,761,0,one,1,ImageNet,1
+6099,ILSVRC2012_val_00040355.JPEG,ILSVRC2012_val_00040355,the gun was found in a box on the grass,763,0,one,1,ImageNet,1
+6103,ILSVRC2012_val_00043725.JPEG,ILSVRC2012_val_00043725,a gun is shown on a table,763,0,one,1,ImageNet,1
+6105,ILSVRC2012_val_00038216.JPEG,ILSVRC2012_val_00038216,a display case with a suit and a sword in it,764,0,none,1,ImageNet,1
+6110,ILSVRC2012_val_00041671.JPEG,ILSVRC2012_val_00041671,a man in an orange vest is holding a shovel in the snow,764,0,none,1,ImageNet,1
+6127,ILSVRC2012_val_00020361.JPEG,ILSVRC2012_val_00020361,a chicken oven with chickens in it,766,0,one,1,ImageNet,1
+6163,ILSVRC2012_val_00033545.JPEG,ILSVRC2012_val_00033545,a safe with a ball and chain in it,771,0,few,1,ImageNet,1
+6168,ILSVRC2012_val_00020995.JPEG,ILSVRC2012_val_00020995,a necklace with a chain and a key,772,0,none,1,ImageNet,1
+6169,ILSVRC2012_val_00012191.JPEG,ILSVRC2012_val_00012191,a close up of a book with a knife,772,0,none,1,ImageNet,1
+6185,ILSVRC2012_val_00033141.JPEG,ILSVRC2012_val_00033141,a pair of baby shoes with a soccer ball on them,774,0,none,1,ImageNet,1
+6211,ILSVRC2012_val_00036286.JPEG,ILSVRC2012_val_00036286,a pair of swords on a red wall,777,0,none,1,ImageNet,1
+6227,ILSVRC2012_val_00031163.JPEG,ILSVRC2012_val_00031163,a yellow school bus parked in a parking lot,779,0,none,1,ImageNet,1
+6230,ILSVRC2012_val_00018378.JPEG,ILSVRC2012_val_00018378,a close up of the front of a school bus,779,0,none,1,ImageNet,1
+6273,ILSVRC2012_val_00025882.JPEG,ILSVRC2012_val_00025882,a young child sitting in a car seat,785,0,one,1,ImageNet,1
+6292,ILSVRC2012_val_00037414.JPEG,ILSVRC2012_val_00037414,a man in a knight armor standing in front of a tent,787,0,none,1,ImageNet,1
+6316,ILSVRC2012_val_00035373.JPEG,ILSVRC2012_val_00035373,a multicolored basket is sitting on a floor,790,0,none,1,ImageNet,1
+6371,ILSVRC2012_val_00020576.JPEG,ILSVRC2012_val_00020576,a blue bag sitting on top of a bed,797,0,none,1,ImageNet,1
+6379,ILSVRC2012_val_00009318.JPEG,ILSVRC2012_val_00009318,a yellow sheet of paper on top of a white refrigerator,798,0,none,1,ImageNet,1
+6408,ILSVRC2012_val_00048564.JPEG,ILSVRC2012_val_00048564,a snowmobile parked on a snow covered field,802,0,one,1,ImageNet,1
+6445,ILSVRC2012_val_00019553.JPEG,ILSVRC2012_val_00019553,a pair of green knitted socks on a persons legs,806,0,none,1,ImageNet,1
+6471,ILSVRC2012_val_00040184.JPEG,ILSVRC2012_val_00040184,a bowl of food sitting on top of a stove,809,0,none,1,ImageNet,1
+6475,ILSVRC2012_val_00023822.JPEG,ILSVRC2012_val_00023822,an old typewriter sitting on top of a wooden table,810,0,none,1,ImageNet,1
+6477,ILSVRC2012_val_00037839.JPEG,ILSVRC2012_val_00037839,an old typewriter sitting on top of a wooden table,810,0,none,1,ImageNet,1
+6483,ILSVRC2012_val_00024838.JPEG,ILSVRC2012_val_00024838,a black radio sitting on a tiled floor,811,0,none,1,ImageNet,1
+6539,ILSVRC2012_val_00025176.JPEG,ILSVRC2012_val_00025176,a lava lamp is lit in a red light,818,0,none,1,ImageNet,1
+6549,ILSVRC2012_val_00048276.JPEG,ILSVRC2012_val_00048276,a man is playing a keyboard on a stage,819,0,none,1,ImageNet,1
+6559,ILSVRC2012_val_00024627.JPEG,ILSVRC2012_val_00024627,a group of people standing around a train,820,0,few,1,ImageNet,1
+6566,ILSVRC2012_val_00027288.JPEG,ILSVRC2012_val_00027288,a train crossing a bridge in the desert,821,0,few,1,ImageNet,1
+6596,ILSVRC2012_val_00008758.JPEG,ILSVRC2012_val_00008758,a shadow of three people on a brick wall,825,0,none,1,ImageNet,1
+6606,ILSVRC2012_val_00012946.JPEG,ILSVRC2012_val_00012946,a green watch with a digital read out on it,826,0,none,1,ImageNet,1
+6615,ILSVRC2012_val_00014916.JPEG,ILSVRC2012_val_00014916,a pan and a kettle on a stove,827,0,one,1,ImageNet,1
+6638,ILSVRC2012_val_00008400.JPEG,ILSVRC2012_val_00008400,a group of soldiers cutting up a person in the snow,830,0,none,1,ImageNet,1
+6656,ILSVRC2012_val_00033895.JPEG,ILSVRC2012_val_00033895,a group of people standing on top of a submarine,833,0,none,1,ImageNet,1
+6662,ILSVRC2012_val_00012654.JPEG,ILSVRC2012_val_00012654,a submarine is sitting in the water,833,0,none,1,ImageNet,1
+6685,ILSVRC2012_val_00045136.JPEG,ILSVRC2012_val_00045136,a man wearing glasses sitting in a car,836,0,one,1,ImageNet,1
+6697,ILSVRC2012_val_00029065.JPEG,ILSVRC2012_val_00029065,a closet filled with lots of different bottles and cosmetics,838,0,none,1,ImageNet,1
+6706,ILSVRC2012_val_00040969.JPEG,ILSVRC2012_val_00040969,the biggest bridge in the world,839,0,few,1,ImageNet,1
+6720,ILSVRC2012_val_00049185.JPEG,ILSVRC2012_val_00049185,a man wearing a black hooded sweatshirt,841,0,none,1,ImageNet,1
+6738,ILSVRC2012_val_00030942.JPEG,ILSVRC2012_val_00030942,a swing hanging from a tree in a garden,843,0,one,1,ImageNet,1
+6740,ILSVRC2012_val_00049797.JPEG,ILSVRC2012_val_00049797,a woman sitting on a swing in a playground,843,0,one,1,ImageNet,1
+6776,ILSVRC2012_val_00005368.JPEG,ILSVRC2012_val_00005368,a radio sitting on top of a table,848,0,none,1,ImageNet,1
+6780,ILSVRC2012_val_00046777.JPEG,ILSVRC2012_val_00046777,a row of electronic equipment on a wall,848,0,none,1,ImageNet,1
+6793,ILSVRC2012_val_00000602.JPEG,ILSVRC2012_val_00000602,two stuffed animals sitting next to each other on a couch,850,0,none,1,ImageNet,1
+6839,ILSVRC2012_val_00009038.JPEG,ILSVRC2012_val_00009038,a microphone sitting on top of a table,855,0,one,1,ImageNet,1
+6851,ILSVRC2012_val_00001160.JPEG,ILSVRC2012_val_00001160,a large room with a ceiling and many windows,857,0,none,1,ImageNet,1
+6862,ILSVRC2012_val_00003912.JPEG,ILSVRC2012_val_00003912,a close up of the roof of a building,858,0,none,1,ImageNet,1
+6887,ILSVRC2012_val_00000449.JPEG,ILSVRC2012_val_00000449,a white toilet with the seat up in a bathroom,861,0,none,1,ImageNet,1
+6919,ILSVRC2012_val_00029129.JPEG,ILSVRC2012_val_00029129,a man in a yellow costume talking to children in a store,865,0,few,1,ImageNet,1
+6929,ILSVRC2012_val_00003996.JPEG,ILSVRC2012_val_00003996,a truck is driving down a road,867,0,one,1,ImageNet,1
+6937,ILSVRC2012_val_00008708.JPEG,ILSVRC2012_val_00008708,a blue plastic tray with a game on it,868,0,few,1,ImageNet,1
+6945,ILSVRC2012_val_00029051.JPEG,ILSVRC2012_val_00029051,a woman wearing a trench coat and a hat,869,0,none,1,ImageNet,1
+6975,ILSVRC2012_val_00033169.JPEG,ILSVRC2012_val_00033169,a tripod with a camera on top of a table,872,0,one,1,ImageNet,1
+6983,ILSVRC2012_val_00046605.JPEG,ILSVRC2012_val_00046605,a man riding a bike in front of a building,873,0,few,1,ImageNet,1
+7021,ILSVRC2012_val_00049808.JPEG,ILSVRC2012_val_00049808,an old typewriter sitting on top of a table,878,0,none,1,ImageNet,1
+7034,ILSVRC2012_val_00002599.JPEG,ILSVRC2012_val_00002599,a young man riding a bike with a cart,880,0,none,1,ImageNet,1
+7038,ILSVRC2012_val_00020497.JPEG,ILSVRC2012_val_00020497,a man riding a unicycle in a gym,880,0,none,1,ImageNet,1
+7043,ILSVRC2012_val_00014786.JPEG,ILSVRC2012_val_00014786,a piano in a room with two guitars and a stool,881,0,few,1,ImageNet,1
+7051,ILSVRC2012_val_00033301.JPEG,ILSVRC2012_val_00033301,a woman is vacuuming a living room with a vacuum,882,0,none,1,ImageNet,1
+7053,ILSVRC2012_val_00037908.JPEG,ILSVRC2012_val_00037908,a woman is holding a fire hydrant on a,882,0,none,1,ImageNet,1
+7055,ILSVRC2012_val_00004252.JPEG,ILSVRC2012_val_00004252,a piece of luggage sitting on top of an escalator,882,0,none,1,ImageNet,1
+7062,ILSVRC2012_val_00011121.JPEG,ILSVRC2012_val_00011121,a green glass vase sitting on top of a table,883,0,none,1,ImageNet,1
+7063,ILSVRC2012_val_00034387.JPEG,ILSVRC2012_val_00034387,a vase filled with flowers on a table,883,0,none,1,ImageNet,1
+7072,ILSVRC2012_val_00028390.JPEG,ILSVRC2012_val_00028390,a pillow sitting on top of a blanket on a bed,885,0,few,1,ImageNet,1
+7084,ILSVRC2012_val_00036336.JPEG,ILSVRC2012_val_00036336,a refrigerator filled with different types of drinks,886,0,none,1,ImageNet,1
+7090,ILSVRC2012_val_00028793.JPEG,ILSVRC2012_val_00028793,a group of men praying in a church,887,0,one,1,ImageNet,1
+7130,ILSVRC2012_val_00014035.JPEG,ILSVRC2012_val_00014035,a bunch of clocks on a white wall,892,0,few,1,ImageNet,1
+7138,ILSVRC2012_val_00010981.JPEG,ILSVRC2012_val_00010981,an open wallet sitting on top of a white table,893,0,none,1,ImageNet,1
+7165,ILSVRC2012_val_00024626.JPEG,ILSVRC2012_val_00024626,a white sink in a bathroom next to a window,896,0,none,1,ImageNet,1
+7171,ILSVRC2012_val_00022249.JPEG,ILSVRC2012_val_00022249,an old white computer printer with the lid open,897,0,few,1,ImageNet,1
+7177,ILSVRC2012_val_00025148.JPEG,ILSVRC2012_val_00025148,a blue and green bottle with a blue hose,898,0,few,1,ImageNet,1
+7187,ILSVRC2012_val_00019924.JPEG,ILSVRC2012_val_00019924,a glass bottle sitting on top of a table,899,0,none,1,ImageNet,1
+7208,ILSVRC2012_val_00031745.JPEG,ILSVRC2012_val_00031745,a blue needle and chain on a green towel,902,0,none,1,ImageNet,1
+7229,ILSVRC2012_val_00033500.JPEG,ILSVRC2012_val_00033500,a woman sitting in front of a window with a giraffe,904,0,one,1,ImageNet,1
+7242,ILSVRC2012_val_00043770.JPEG,ILSVRC2012_val_00043770,a man wearing a white shirt and a tie,906,0,few,1,ImageNet,1
+7245,ILSVRC2012_val_00013769.JPEG,ILSVRC2012_val_00013769,a man wearing a black suit and tie,906,0,few,1,ImageNet,1
+7258,ILSVRC2012_val_00036694.JPEG,ILSVRC2012_val_00036694,an air canada plane flying in the sky,908,0,none,1,ImageNet,1
+7264,ILSVRC2012_val_00001534.JPEG,ILSVRC2012_val_00001534,a pot of food with meat and vegetables in it,909,0,none,1,ImageNet,1
+7271,ILSVRC2012_val_00015856.JPEG,ILSVRC2012_val_00015856,a red book on top of a pot of food,909,0,none,1,ImageNet,1
+7273,ILSVRC2012_val_00014544.JPEG,ILSVRC2012_val_00014544,a bunch of wooden spoons laying on a towel,910,0,none,1,ImageNet,1
+7274,ILSVRC2012_val_00021192.JPEG,ILSVRC2012_val_00021192,a baby sitting on a couch playing with a wooden spoon,910,0,none,1,ImageNet,1
+7278,ILSVRC2012_val_00028641.JPEG,ILSVRC2012_val_00028641,a pair of scissors sitting next to each other,910,0,none,1,ImageNet,1
+7280,ILSVRC2012_val_00032340.JPEG,ILSVRC2012_val_00032340,a close up of a blanket with red and blue fibers,911,0,none,1,ImageNet,1
+7312,ILSVRC2012_val_00048968.JPEG,ILSVRC2012_val_00048968,a hut with a large stone in the middle of a desert,915,0,none,1,ImageNet,1
+7330,ILSVRC2012_val_00037140.JPEG,ILSVRC2012_val_00037140,an open book with comics on the pages,917,0,few,1,ImageNet,1
+7341,ILSVRC2012_val_00023037.JPEG,ILSVRC2012_val_00023037,a close up of a crossword puzzle in a newspaper,918,0,none,1,ImageNet,1
+7348,ILSVRC2012_val_00005428.JPEG,ILSVRC2012_val_00005428,two green street signs on a pole on a street,919,0,one,1,ImageNet,1
+7350,ILSVRC2012_val_00031351.JPEG,ILSVRC2012_val_00031351,a street sign that reads if you can read this you are biking the wrong way,919,0,one,1,ImageNet,1
+7360,ILSVRC2012_val_00035156.JPEG,ILSVRC2012_val_00035156,a comic book with a woman on the cover,921,0,few,1,ImageNet,1
+7373,ILSVRC2012_val_00026997.JPEG,ILSVRC2012_val_00026997,a menu of a restaurant with various food items on it,922,0,one,1,ImageNet,1
+7394,ILSVRC2012_val_00017820.JPEG,ILSVRC2012_val_00017820,a bowl of soup with a piece of ham in it,925,0,few,1,ImageNet,1
+7416,ILSVRC2012_val_00035076.JPEG,ILSVRC2012_val_00035076,a white plate with a dessert with berries on it,928,0,none,1,ImageNet,1
+7469,ILSVRC2012_val_00005710.JPEG,ILSVRC2012_val_00005710,three hot dogs with ketchup and mustard on a table,934,0,few,1,ImageNet,1
+7486,ILSVRC2012_val_00014348.JPEG,ILSVRC2012_val_00014348,a blender filled with lettuce in a bowl,936,0,none,1,ImageNet,1
+7532,ILSVRC2012_val_00017014.JPEG,ILSVRC2012_val_00017014,a cupcake and a squash on a table,942,0,none,1,ImageNet,1
+7542,ILSVRC2012_val_00047341.JPEG,ILSVRC2012_val_00047341,a pile of sliced cucumbers on a plate,943,0,none,1,ImageNet,1
+7551,ILSVRC2012_val_00005335.JPEG,ILSVRC2012_val_00005335,a purple flower is growing in the grass,944,0,none,1,ImageNet,1
+7557,ILSVRC2012_val_00035410.JPEG,ILSVRC2012_val_00035410,a couple of apples hanging from a tree,945,0,none,1,ImageNet,1
+7615,ILSVRC2012_val_00017371.JPEG,ILSVRC2012_val_00017371,a bunch of green figs growing on a tree,952,0,none,1,ImageNet,1
+7624,ILSVRC2012_val_00023220.JPEG,ILSVRC2012_val_00023220,a bunch of bunches of bananas on a table,954,0,few,1,ImageNet,1
+7626,ILSVRC2012_val_00012621.JPEG,ILSVRC2012_val_00012621,a yellow banana with a blue sticker on it,954,0,few,1,ImageNet,1
+7628,ILSVRC2012_val_00028841.JPEG,ILSVRC2012_val_00028841,a bunch of bananas and oranges and apples,954,0,few,1,ImageNet,1
+7647,ILSVRC2012_val_00020098.JPEG,ILSVRC2012_val_00020098,a half eaten banana with cream and olives in it,956,0,none,1,ImageNet,1
+7657,ILSVRC2012_val_00004376.JPEG,ILSVRC2012_val_00004376,a field of hay rolls in a field,958,0,none,1,ImageNet,1
+7688,ILSVRC2012_val_00042283.JPEG,ILSVRC2012_val_00042283,a table topped with plates of food on a table,962,0,none,1,ImageNet,1
+7722,ILSVRC2012_val_00033630.JPEG,ILSVRC2012_val_00033630,a bottle of wine is sitting on a table,966,0,one,1,ImageNet,1
+7732,ILSVRC2012_val_00025308.JPEG,ILSVRC2012_val_00025308,a couple of wine glasses sitting on a table,967,0,none,1,ImageNet,1
+7735,ILSVRC2012_val_00049872.JPEG,ILSVRC2012_val_00049872,a cup of coffee sitting on a table,967,0,none,1,ImageNet,1
+7741,ILSVRC2012_val_00028868.JPEG,ILSVRC2012_val_00028868,a bunch of plates and cups on a table,968,0,one,1,ImageNet,1
+7743,ILSVRC2012_val_00009249.JPEG,ILSVRC2012_val_00009249,a white bowl with a black design on it,968,0,one,1,ImageNet,1
+7753,ILSVRC2012_val_00008461.JPEG,ILSVRC2012_val_00008461,two horses in a field with a mountain in the background,970,0,few,1,ImageNet,1
+7795,ILSVRC2012_val_00012936.JPEG,ILSVRC2012_val_00012936,a park bench overlooking a body of water,975,0,one,1,ImageNet,1
+7799,ILSVRC2012_val_00016928.JPEG,ILSVRC2012_val_00016928,a black and white photo of a lake and rocks,975,0,one,1,ImageNet,1
+7871,ILSVRC2012_val_00014299.JPEG,ILSVRC2012_val_00014299,a path through a field of yellow flowers,984,0,none,1,ImageNet,1
+7877,ILSVRC2012_val_00030744.JPEG,ILSVRC2012_val_00030744,a white flower in the grass,985,0,none,1,ImageNet,1
+7888,ILSVRC2012_val_00012270.JPEG,ILSVRC2012_val_00012270,a bunch of corn that are wrapped in plastic,987,0,one,1,ImageNet,1
+7910,ILSVRC2012_val_00040792.JPEG,ILSVRC2012_val_00040792,a bunch of berries on the ground under a tree,989,0,few,1,ImageNet,1
+7927,ILSVRC2012_val_00026794.JPEG,ILSVRC2012_val_00026794,a group of orange fungi growing in the grass,991,0,few,1,ImageNet,1
+7937,ILSVRC2012_val_00000200.JPEG,ILSVRC2012_val_00000200,a large mushroom growing on a tree in the forest,993,0,none,1,ImageNet,1
+7962,ILSVRC2012_val_00038327.JPEG,ILSVRC2012_val_00038327,a fungus growing on the base of a tree,996,0,none,1,ImageNet,1
+7988,ILSVRC2012_val_00015463.JPEG,ILSVRC2012_val_00015463,a bag of green living recycled toilet tissue,999,0,none,1,ImageNet,1
+8014,ILSVRC2012_val_00019435.png,ILSVRC2012_val_00019435,adversarial a shark in the water with its mouth open,2,1,none,1,DAmageNet,1
+8052,ILSVRC2012_val_00000329.png,ILSVRC2012_val_00000329,adversarial a chicken walking down the street,7,1,none,1,DAmageNet,1
+8056,ILSVRC2012_val_00026508.png,ILSVRC2012_val_00026508,adversarial a group of chickens standing in the grass,8,1,none,1,DAmageNet,1
+8070,ILSVRC2012_val_00049090.png,ILSVRC2012_val_00049090,adversarial a sheep grazing in the grass near the water,9,1,one,1,DAmageNet,1
+8114,ILSVRC2012_val_00030701.png,ILSVRC2012_val_00030701,adversarial a baby bird sitting in a nest in a tree,15,1,none,1,DAmageNet,1
+8137,ILSVRC2012_val_00018250.png,ILSVRC2012_val_00018250,adversarial two black and white birds sitting on a chair,18,1,none,1,DAmageNet,1
+8161,ILSVRC2012_val_00013095.png,ILSVRC2012_val_00013095,adversarial a bird is perched on a tree branch,21,1,few,1,DAmageNet,1
+8197,ILSVRC2012_val_00034499.png,ILSVRC2012_val_00034499,adversarial a yellow and brown frog sitting on the ground,25,1,none,1,DAmageNet,1
+8235,ILSVRC2012_val_00027869.png,ILSVRC2012_val_00027869,adversarial a brown frog sitting in the water,30,1,one,1,DAmageNet,1
+8279,ILSVRC2012_val_00022329.png,ILSVRC2012_val_00022329,adversarial a snapping turtle is sitting in the water,35,1,few,1,DAmageNet,1
+8298,ILSVRC2012_val_00048909.png,ILSVRC2012_val_00048909,adversarial a small frog sitting on the ground,38,1,few,1,DAmageNet,1
+8317,ILSVRC2012_val_00001931.png,ILSVRC2012_val_00001931,adversarial a green lizard is sitting in a tree,40,1,one,1,DAmageNet,1
+8338,ILSVRC2012_val_00015981.png,ILSVRC2012_val_00015981,adversarial a lizard is sitting on the sand,43,1,none,1,DAmageNet,1
+8354,ILSVRC2012_val_00010164.png,ILSVRC2012_val_00010164,adversarial a close up of a hole in a rock,45,1,few,1,DAmageNet,1
+8368,ILSVRC2012_val_00032934.png,ILSVRC2012_val_00032934,adversarial usa green chameleon on a branch,47,1,none,1,DAmageNet,1
+8372,ILSVRC2012_val_00001375.png,ILSVRC2012_val_00001375,adversarial argentina costa rica tree bark with rusty instr instr instr,47,1,none,1,DAmageNet,1
+8388,ILSVRC2012_val_00007266.png,ILSVRC2012_val_00007266,adversarial a body of water next to a grass covered bank,49,1,few,1,DAmageNet,1
+8399,ILSVRC2012_val_00046615.png,ILSVRC2012_val_00046615,adversarial a crocodile is swimming in the water,50,1,one,1,DAmageNet,1
+8405,ILSVRC2012_val_00030212.png,ILSVRC2012_val_00030212,adversarial the skeleton of a mammoth in a museum,51,1,few,1,DAmageNet,1
+8414,ILSVRC2012_val_00004269.png,ILSVRC2012_val_00004269,adversarial a black snake hanging on a wall,52,1,none,1,DAmageNet,1
+8464,ILSVRC2012_val_00037666.png,ILSVRC2012_val_00037666,adversarial a green plant with a black background,59,1,few,1,DAmageNet,1
+8473,ILSVRC2012_val_00005663.png,ILSVRC2012_val_00005663,adversarial a brown snake is hiding in the grass,60,1,one,1,DAmageNet,1
+8492,ILSVRC2012_val_00043969.png,ILSVRC2012_val_00043969,adversarial a shoe sitting on a rock under a log,62,1,few,1,DAmageNet,1
+8521,ILSVRC2012_val_00027790.png,ILSVRC2012_val_00027790,adversarial a snake is next to a black bowl,66,1,one,1,DAmageNet,1
+8529,ILSVRC2012_val_00009718.png,ILSVRC2012_val_00009718,adversarial a snake sitting in the middle of a field,67,1,none,1,DAmageNet,1
+8531,ILSVRC2012_val_00016287.png,ILSVRC2012_val_00016287,adversarial a snake is curled up on the ground,67,1,none,1,DAmageNet,1
+8570,ILSVRC2012_val_00024769.png,ILSVRC2012_val_00024769,adversarial a yellow and black garden spider on its web,72,1,few,1,DAmageNet,1
+8590,ILSVRC2012_val_00046931.png,ILSVRC2012_val_00046931,adversarial a spider is sitting on a spider web,74,1,one,1,DAmageNet,1
+8592,ILSVRC2012_val_00041385.png,ILSVRC2012_val_00041385,adversarial a red and black spider on a wall,75,1,one,1,DAmageNet,1
+8608,ILSVRC2012_val_00019561.png,ILSVRC2012_val_00019561,adversarial a spider is sitting on a piece of wood,77,1,one,1,DAmageNet,1
+8610,ILSVRC2012_val_00016944.png,ILSVRC2012_val_00016944,adversarial a spider sitting on a rock,77,1,one,1,DAmageNet,1
+8611,ILSVRC2012_val_00008224.png,ILSVRC2012_val_00008224,adversarial a spider is sitting on the ground,77,1,one,1,DAmageNet,1
+8634,ILSVRC2012_val_00046040.png,ILSVRC2012_val_00046040,adversarial a turkey running through the snow,80,1,one,1,DAmageNet,1
+8661,ILSVRC2012_val_00041621.png,ILSVRC2012_val_00041621,adversarial a bird is standing in the grass,83,1,none,1,DAmageNet,1
+8669,ILSVRC2012_val_00023973.png,ILSVRC2012_val_00023973,adversarial a close up of a peacock feather with eyes,84,1,none,1,DAmageNet,1
+8679,ILSVRC2012_val_00048907.png,ILSVRC2012_val_00048907,adversarial a bird is standing in the grass,85,1,one,1,DAmageNet,1
+8680,ILSVRC2012_val_00023637.png,ILSVRC2012_val_00023637,adversarial a bird walking through the tall grass,86,1,one,1,DAmageNet,1
+8712,ILSVRC2012_val_00028522.png,ILSVRC2012_val_00028522,adversarial a multicolored parrot with a blue head and orange,90,1,few,1,DAmageNet,1
+8714,ILSVRC2012_val_00044440.png,ILSVRC2012_val_00044440,adversarial a colorful bird with a red beak and green and blue feathers,90,1,few,1,DAmageNet,1
+8739,ILSVRC2012_val_00046141.png,ILSVRC2012_val_00046141,adversarial a black bird perched on a tree branch,93,1,none,1,DAmageNet,1
+8787,ILSVRC2012_val_00004226.png,ILSVRC2012_val_00004226,adversarial a canadian goose is standing in the water,99,1,none,1,DAmageNet,1
+8789,ILSVRC2012_val_00029226.png,ILSVRC2012_val_00029226,adversarial two birds are standing in a field,99,1,none,1,DAmageNet,1
+8792,ILSVRC2012_val_00017207.png,ILSVRC2012_val_00017207,adversarial a black swan eating grass in the water,100,1,none,1,DAmageNet,1
+8807,ILSVRC2012_val_00043508.png,ILSVRC2012_val_00043508,adversarial a large elephant walking down a dirt road,101,1,one,1,DAmageNet,1
+8809,ILSVRC2012_val_00049052.png,ILSVRC2012_val_00049052,adversarial a pine cone is sitting in the grass,102,1,none,1,DAmageNet,1
+8851,ILSVRC2012_val_00012499.png,ILSVRC2012_val_00012499,adversarial a woman standing in front of a large display of jellyfish,107,1,one,1,DAmageNet,1
+8876,ILSVRC2012_val_00042507.png,ILSVRC2012_val_00042507,adversarial a black and white fish sitting on top of a rock,110,1,one,1,DAmageNet,1
+8921,ILSVRC2012_val_00006446.png,ILSVRC2012_val_00006446,adversarial a close up of a fish in the water,116,1,few,1,DAmageNet,1
+8937,ILSVRC2012_val_00018673.png,ILSVRC2012_val_00018673,adversarial a close up of a crab in the dirt,118,1,one,1,DAmageNet,1
+8954,ILSVRC2012_val_00047880.png,ILSVRC2012_val_00047880,adversarial a photo of a crab on a white background,120,1,none,1,DAmageNet,1
+8967,ILSVRC2012_val_00006315.png,ILSVRC2012_val_00006315,adversarial a orange starfish sitting on top of a wooden table,121,1,none,1,DAmageNet,1
+8990,ILSVRC2012_val_00041892.png,ILSVRC2012_val_00041892,adversarial a man holding a lobster on a boat,124,1,few,1,DAmageNet,1
+9013,ILSVRC2012_val_00041881.png,ILSVRC2012_val_00041881,adversarial a bird standing on top of a nest,127,1,none,1,DAmageNet,1
+9017,ILSVRC2012_val_00018159.png,ILSVRC2012_val_00018159,adversarial a black bird swimming in a body of water,128,1,none,1,DAmageNet,1
+9061,ILSVRC2012_val_00014103.png,ILSVRC2012_val_00014103,adversarial a bird walking in the grass,133,1,none,1,DAmageNet,1
+9066,ILSVRC2012_val_00032698.png,ILSVRC2012_val_00032698,adversarial a large bird walking in the water,134,1,none,1,DAmageNet,1
+9081,ILSVRC2012_val_00035139.png,ILSVRC2012_val_00035139,adversarial a black bird sitting in the grass,136,1,none,1,DAmageNet,1
+9087,ILSVRC2012_val_00020612.png,ILSVRC2012_val_00020612,adversarial a blue bird with a red beak,136,1,none,1,DAmageNet,1
+9093,ILSVRC2012_val_00015711.png,ILSVRC2012_val_00015711,adversarial a bird sitting in the water,137,1,few,1,DAmageNet,1
+9096,ILSVRC2012_val_00001073.png,ILSVRC2012_val_00001073,adversarial a bird walking through a field of tall grass,138,1,one,1,DAmageNet,1
+9098,ILSVRC2012_val_00027708.png,ILSVRC2012_val_00027708,adversarial a large bird is flying through the grass,138,1,one,1,DAmageNet,1
+9110,ILSVRC2012_val_00034360.png,ILSVRC2012_val_00034360,adversarial a bird standing in the water on the rocks,139,1,few,1,DAmageNet,1
+9111,ILSVRC2012_val_00046323.png,ILSVRC2012_val_00046323,adversarial a small bird walking on a sandy beach,139,1,few,1,DAmageNet,1
+9118,ILSVRC2012_val_00018099.png,ILSVRC2012_val_00018099,adversarial a person holding a small bird in their hand,140,1,few,1,DAmageNet,1
+9140,ILSVRC2012_val_00045774.png,ILSVRC2012_val_00045774,adversarial a black bird with an orange beak,143,1,few,1,DAmageNet,1
+9147,ILSVRC2012_val_00041469.png,ILSVRC2012_val_00041469,adversarial a large bird sitting on top of a body of water,144,1,few,1,DAmageNet,1
+9151,ILSVRC2012_val_00021709.png,ILSVRC2012_val_00021709,adversarial a couple of birds standing on a beach,144,1,few,1,DAmageNet,1
+9154,ILSVRC2012_val_00004780.png,ILSVRC2012_val_00004780,adversarial a large group of penguins walking on the ground,145,1,one,1,DAmageNet,1
+9184,ILSVRC2012_val_00035207.png,ILSVRC2012_val_00035207,adversarial a white dolphin swimming in a tank of water,149,1,few,1,DAmageNet,1
+9198,ILSVRC2012_val_00013004.png,ILSVRC2012_val_00013004,adversarial a group of seals laying on the back of a boat,150,1,one,1,DAmageNet,1
+9200,ILSVRC2012_val_00002917.png,ILSVRC2012_val_00002917,adversarial a small black and white dog with a blue toy in its mouth,151,1,none,1,DAmageNet,1
+9213,ILSVRC2012_val_00028459.png,ILSVRC2012_val_00028459,adversarial a small black and white puppy sitting on a couch,152,1,one,1,DAmageNet,1
+9218,ILSVRC2012_val_00011612.png,ILSVRC2012_val_00011612,adversarial a white dog with a,153,1,few,1,DAmageNet,1
+9222,ILSVRC2012_val_00021452.png,ILSVRC2012_val_00021452,adversarial a small white dog is sitting on a counter,153,1,few,1,DAmageNet,1
+9225,ILSVRC2012_val_00015742.png,ILSVRC2012_val_00015742,adversarial a small brown and white dog sitting in the grass,154,1,one,1,DAmageNet,1
+9258,ILSVRC2012_val_00019124.png,ILSVRC2012_val_00019124,adversarial two small dogs standing next to each other on a rug,158,1,few,1,DAmageNet,1
+9269,ILSVRC2012_val_00036907.png,ILSVRC2012_val_00036907,adversarial a brown dog is standing in the grass,159,1,none,1,DAmageNet,1
+9277,ILSVRC2012_val_00013800.png,ILSVRC2012_val_00013800,adversarial a woman standing with a dog on a leash,160,1,one,1,DAmageNet,1
+9286,ILSVRC2012_val_00027939.png,ILSVRC2012_val_00027939,adversarial two dogs on a leash in front of a door,161,1,few,1,DAmageNet,1
+9287,ILSVRC2012_val_00014030.png,ILSVRC2012_val_00014030,adversarial a brown dog laying down on the floor,161,1,few,1,DAmageNet,1
+9294,ILSVRC2012_val_00019283.png,ILSVRC2012_val_00019283,adversarial a brown and white dog eating food out of a plate,162,1,none,1,DAmageNet,1
+9299,ILSVRC2012_val_00044716.png,ILSVRC2012_val_00044716,adversarial a black dog is standing in the water,163,1,one,1,DAmageNet,1
+9313,ILSVRC2012_val_00019462.png,ILSVRC2012_val_00019462,adversarial a black and brown dog on a leash,165,1,none,1,DAmageNet,1
+9323,ILSVRC2012_val_00025562.png,ILSVRC2012_val_00025562,adversarial a brown and white dog laying on the floor,166,1,none,1,DAmageNet,1
+9344,ILSVRC2012_val_00013799.png,ILSVRC2012_val_00013799,adversarial a white dog is being held by a woman,169,1,none,1,DAmageNet,1
+9387,ILSVRC2012_val_00012861.png,ILSVRC2012_val_00012861,adversarial a dog standing in the snow,174,1,one,1,DAmageNet,1
+9420,ILSVRC2012_val_00010294.png,ILSVRC2012_val_00010294,adversarial a gray dog looking up into the sky,178,1,none,1,DAmageNet,1
+9424,ILSVRC2012_val_00034790.png,ILSVRC2012_val_00034790,adversarial a close up of a dog looking at the camera,179,1,none,1,DAmageNet,1
+9426,ILSVRC2012_val_00000248.png,ILSVRC2012_val_00000248,adversarial a black and white dog sitting in the grass,179,1,none,1,DAmageNet,1
+9437,ILSVRC2012_val_00030407.png,ILSVRC2012_val_00030407,adversarial a brown and white dog laying on the floor,180,1,few,1,DAmageNet,1
+9457,ILSVRC2012_val_00033311.png,ILSVRC2012_val_00033311,adversarial a black dog sitting in front of a door,183,1,none,1,DAmageNet,1
+9485,ILSVRC2012_val_00009009.png,ILSVRC2012_val_00009009,adversarial a brown dog sitting on the floor,186,1,none,1,DAmageNet,1
+9491,ILSVRC2012_val_00008956.png,ILSVRC2012_val_00008956,adversarial a small dog holding a stuffed toy in its mouth,187,1,few,1,DAmageNet,1
+9495,ILSVRC2012_val_00029023.png,ILSVRC2012_val_00029023,adversarial two dogs laying on top of a red couch,187,1,few,1,DAmageNet,1
+9502,ILSVRC2012_val_00041718.png,ILSVRC2012_val_00041718,adversarial two dogs laying in the grass,188,1,one,1,DAmageNet,1
+9533,ILSVRC2012_val_00032177.png,ILSVRC2012_val_00032177,adversarial a black dog laying in the grass with a leash,192,1,none,1,DAmageNet,1
+9557,ILSVRC2012_val_00039852.png,ILSVRC2012_val_00039852,adversarial a small brown and white dog standing next to a person,195,1,few,1,DAmageNet,1
+9559,ILSVRC2012_val_00039397.png,ILSVRC2012_val_00039397,adversarial a small dog is tied to a red leash,195,1,few,1,DAmageNet,1
+9596,ILSVRC2012_val_00004539.png,ILSVRC2012_val_00004539,adversarial two dogs sitting in front of a car,200,1,none,1,DAmageNet,1
+9604,ILSVRC2012_val_00031646.png,ILSVRC2012_val_00031646,adversarial a small dog wearing a sweater on a leash,201,1,few,1,DAmageNet,1
+9617,ILSVRC2012_val_00028368.png,ILSVRC2012_val_00028368,adversarial a white dog laying down next to a persons leg,203,1,none,1,DAmageNet,1
+9643,ILSVRC2012_val_00030579.png,ILSVRC2012_val_00030579,adversarial a black dog running in the water,206,1,one,1,DAmageNet,1
+9674,ILSVRC2012_val_00011682.png,ILSVRC2012_val_00011682,adversarial a brown and white dog standing on a rocky hill,210,1,none,1,DAmageNet,1
+9675,ILSVRC2012_val_00023577.png,ILSVRC2012_val_00023577,adversarial two dogs sitting next to each other on the beach,210,1,none,1,DAmageNet,1
+9707,ILSVRC2012_val_00004885.png,ILSVRC2012_val_00004885,adversarial a black and brown dog laying in the grass,214,1,few,1,DAmageNet,1
+9719,ILSVRC2012_val_00042810.png,ILSVRC2012_val_00042810,adversarial a dog and a cow standing in the water,215,1,few,1,DAmageNet,1
+9723,ILSVRC2012_val_00026056.png,ILSVRC2012_val_00026056,adversarial a white and brown dog running in a field,216,1,none,1,DAmageNet,1
+9736,ILSVRC2012_val_00048513.png,ILSVRC2012_val_00048513,adversarial a small brown and white dog sitting on the floor,218,1,few,1,DAmageNet,1
+9747,ILSVRC2012_val_00015303.png,ILSVRC2012_val_00015303,adversarial a brown and black dog with blue eyes sitting on the ground,219,1,none,1,DAmageNet,1
+9749,ILSVRC2012_val_00022324.png,ILSVRC2012_val_00022324,adversarial a brown dog laying down on a road,219,1,none,1,DAmageNet,1
+9771,ILSVRC2012_val_00028605.png,ILSVRC2012_val_00028605,adversarial a white dog laying in the grass with two sheep,222,1,one,1,DAmageNet,1
+9793,ILSVRC2012_val_00019957.png,ILSVRC2012_val_00019957,adversarial a brown and black dog sitting on a kitchen floor,225,1,one,1,DAmageNet,1
+9801,ILSVRC2012_val_00048530.png,ILSVRC2012_val_00048530,adversarial a brown dog with a cone on its head,226,1,none,1,DAmageNet,1
+9805,ILSVRC2012_val_00010331.png,ILSVRC2012_val_00010331,adversarial a white dog laying on a wooden deck,226,1,none,1,DAmageNet,1
+9834,ILSVRC2012_val_00041339.png,ILSVRC2012_val_00041339,adversarial a brown and white dog sitting on a couch,230,1,one,1,DAmageNet,1
+9835,ILSVRC2012_val_00048315.png,ILSVRC2012_val_00048315,adversarial a brown and white dog sitting on the floor,230,1,one,1,DAmageNet,1
+9863,ILSVRC2012_val_00027100.png,ILSVRC2012_val_00027100,adversarial a black dog laying on the ground next to a stone wall,233,1,none,1,DAmageNet,1
+9869,ILSVRC2012_val_00014320.png,ILSVRC2012_val_00014320,adversarial a black and brown dog standing on a leash,234,1,few,1,DAmageNet,1
+9889,ILSVRC2012_val_00024305.png,ILSVRC2012_val_00024305,adversarial two dogs standing next to each other in the grass,237,1,one,1,DAmageNet,1
+9907,ILSVRC2012_val_00005175.png,ILSVRC2012_val_00005175,adversarial a small dog sleeping on a rug on the floor,239,1,one,1,DAmageNet,1
+9924,ILSVRC2012_val_00037081.png,ILSVRC2012_val_00037081,adversarial a black and white dog sitting in the grass,241,1,one,1,DAmageNet,1
+9934,ILSVRC2012_val_00010648.png,ILSVRC2012_val_00010648,adversarial a black and white dog laying in the grass,242,1,few,1,DAmageNet,1
+9940,ILSVRC2012_val_00017075.png,ILSVRC2012_val_00017075,adversarial a dog on a leash standing next to its owner,243,1,one,1,DAmageNet,1
+9946,ILSVRC2012_val_00044714.png,ILSVRC2012_val_00044714,adversarial two large black dogs standing on a sidewalk,244,1,none,1,DAmageNet,1
+9990,ILSVRC2012_val_00005575.png,ILSVRC2012_val_00005575,adversarial a dog sitting in a dog bed next to a cage,249,1,one,1,DAmageNet,1
+10021,ILSVRC2012_val_00014332.png,ILSVRC2012_val_00014332,adversarial a brown and white dog laying on top of a bed,253,1,none,1,DAmageNet,1
+10033,ILSVRC2012_val_00011141.png,ILSVRC2012_val_00011141,adversarial a large brown dog standing on the grass,255,1,none,1,DAmageNet,1
+10036,ILSVRC2012_val_00003638.png,ILSVRC2012_val_00003638,adversarial a group of people standing with their dogs,255,1,none,1,DAmageNet,1
+10043,ILSVRC2012_val_00002854.png,ILSVRC2012_val_00002854,adversarial two black puppies laying on top of a bed,256,1,none,1,DAmageNet,1
+10051,ILSVRC2012_val_00017735.png,ILSVRC2012_val_00017735,adversarial two white dogs are standing next to each other,257,1,none,1,DAmageNet,1
+10052,ILSVRC2012_val_00029490.png,ILSVRC2012_val_00029490,adversarial a dog is looking at a person with a bowl,257,1,none,1,DAmageNet,1
+10059,ILSVRC2012_val_00038604.png,ILSVRC2012_val_00038604,adversarial a white dog sitting in the snow with a red leash,258,1,none,1,DAmageNet,1
+10063,ILSVRC2012_val_00003808.png,ILSVRC2012_val_00003808,adversarial a white dog sitting on a leash in the sand,258,1,none,1,DAmageNet,1
+10069,ILSVRC2012_val_00034828.png,ILSVRC2012_val_00034828,adversarial a white dog with its nose in the water,259,1,none,1,DAmageNet,1
+10078,ILSVRC2012_val_00003696.png,ILSVRC2012_val_00003696,adversarial a brown dog laying on a red couch,260,1,one,1,DAmageNet,1
+10080,ILSVRC2012_val_00014700.png,ILSVRC2012_val_00014700,adversarial a dog standing in the grass near a rock,261,1,none,1,DAmageNet,1
+10087,ILSVRC2012_val_00034419.png,ILSVRC2012_val_00034419,adversarial a black and white dog walking down a path,261,1,none,1,DAmageNet,1
+10111,ILSVRC2012_val_00013309.png,ILSVRC2012_val_00013309,adversarial a small dog standing on top of a rock,264,1,none,1,DAmageNet,1
+10117,ILSVRC2012_val_00037250.png,ILSVRC2012_val_00037250,adversarial a black dog is sleeping on a couch,265,1,one,1,DAmageNet,1
+10146,ILSVRC2012_val_00049296.png,ILSVRC2012_val_00049296,adversarial a wolf standing on a rock near a fence,269,1,one,1,DAmageNet,1
+10247,ILSVRC2012_val_00013684.png,ILSVRC2012_val_00013684,adversarial a cat sitting on a bed playing with a pencil,281,1,one,1,DAmageNet,1
+10257,ILSVRC2012_val_00002036.png,ILSVRC2012_val_00002036,adversarial a long haired cat sitting in the snow,283,1,one,1,DAmageNet,1
+10290,ILSVRC2012_val_00028798.png,ILSVRC2012_val_00028798,adversarial a cat sitting under a wooden bench,287,1,one,1,DAmageNet,1
+10294,ILSVRC2012_val_00014363.png,ILSVRC2012_val_00014363,adversarial a lynx standing on top of a rock,287,1,one,1,DAmageNet,1
+10295,ILSVRC2012_val_00013812.png,ILSVRC2012_val_00013812,adversarial a baby cat standing on top of a tree,287,1,one,1,DAmageNet,1
+10361,ILSVRC2012_val_00040753.png,ILSVRC2012_val_00040753,adversarial two polar bears playing with each other in the snow,296,1,one,1,DAmageNet,1
+10392,ILSVRC2012_val_00021653.png,ILSVRC2012_val_00021653,adversarial a green beetle sitting on the ground,300,1,one,1,DAmageNet,1
+10403,ILSVRC2012_val_00019299.png,ILSVRC2012_val_00019299,adversarial a ladybug sitting on a branch of a tree,301,1,few,1,DAmageNet,1
+10409,ILSVRC2012_val_00035797.png,ILSVRC2012_val_00035797,adversarial a black beetle sitting on a piece of wood,302,1,few,1,DAmageNet,1
+10421,ILSVRC2012_val_00013422.png,ILSVRC2012_val_00013422,adversarial a black insect is sitting on a green leaf,303,1,one,1,DAmageNet,1
+10425,ILSVRC2012_val_00004851.png,ILSVRC2012_val_00004851,adversarial a red ladybug on a green leaf,304,1,none,1,DAmageNet,1
+10429,ILSVRC2012_val_00032871.png,ILSVRC2012_val_00032871,adversarial a red and black beetle sitting on top of a plant,304,1,none,1,DAmageNet,1
+10430,ILSVRC2012_val_00019171.png,ILSVRC2012_val_00019171,adversarial an orange and black bug sitting on a green leaf,304,1,none,1,DAmageNet,1
+10433,ILSVRC2012_val_00009945.png,ILSVRC2012_val_00009945,adversarial a bird sitting on the ground near a tree,305,1,one,1,DAmageNet,1
+10454,ILSVRC2012_val_00041117.png,ILSVRC2012_val_00041117,adversarial a close up of a snail on a cloth,307,1,few,1,DAmageNet,1
+10500,ILSVRC2012_val_00011889.png,ILSVRC2012_val_00011889,adversarial a spider web on the back of a laptop computer,313,1,one,1,DAmageNet,1
+10512,ILSVRC2012_val_00015745.png,ILSVRC2012_val_00015745,adversarial a brown moth sitting on top of a dried flower,315,1,none,1,DAmageNet,1
+10530,ILSVRC2012_val_00022765.png,ILSVRC2012_val_00022765,adversarial a green mosquito sitting in the snow,317,1,few,1,DAmageNet,1
+10546,ILSVRC2012_val_00036761.png,ILSVRC2012_val_00036761,adversarial a dragonfly perched on the end of a stick,319,1,few,1,DAmageNet,1
+10569,ILSVRC2012_val_00022979.png,ILSVRC2012_val_00022979,adversarial a butterfly on some white flowers,322,1,one,1,DAmageNet,1
+10581,ILSVRC2012_val_00019869.png,ILSVRC2012_val_00019869,adversarial two butterflies sitting on top of a pink flower,323,1,few,1,DAmageNet,1
+10593,ILSVRC2012_val_00034808.png,ILSVRC2012_val_00034808,adversarial a yellow butterfly is flying over some pink flowers,325,1,one,1,DAmageNet,1
+10616,ILSVRC2012_val_00020644.png,ILSVRC2012_val_00020644,adversarial an orange starfish in the water on a reef,328,1,one,1,DAmageNet,1
+10617,ILSVRC2012_val_00042667.png,ILSVRC2012_val_00042667,adversarial a close up of a shell on the ground,328,1,one,1,DAmageNet,1
+10664,ILSVRC2012_val_00045275.png,ILSVRC2012_val_00045275,adversarial a hedgehog is sitting on a tree branch,334,1,few,1,DAmageNet,1
+10690,ILSVRC2012_val_00014389.png,ILSVRC2012_val_00014389,adversarial a mink swimming in a body of water,337,1,few,1,DAmageNet,1
+10697,ILSVRC2012_val_00027956.png,ILSVRC2012_val_00027956,adversarial a white guinea pig being held in a persons hand,338,1,few,1,DAmageNet,1
+10698,ILSVRC2012_val_00045289.png,ILSVRC2012_val_00045289,adversarial a woman holding a cat and a red box,338,1,few,1,DAmageNet,1
+10714,ILSVRC2012_val_00027836.png,ILSVRC2012_val_00027836,adversarial a zebra standing in the grass,340,1,none,1,DAmageNet,1
+10725,ILSVRC2012_val_00011856.png,ILSVRC2012_val_00011856,adversarial two pigs laying next to each other on the ground,341,1,few,1,DAmageNet,1
+10729,ILSVRC2012_val_00027556.png,ILSVRC2012_val_00027556,adversarial a pig is sleeping on the ground,342,1,none,1,DAmageNet,1
+10737,ILSVRC2012_val_00015122.png,ILSVRC2012_val_00015122,adversarial a warthog is standing on some rocks,343,1,none,1,DAmageNet,1
+10739,ILSVRC2012_val_00003166.png,ILSVRC2012_val_00003166,adversarial a mother cow and a baby cow grazing in a field,343,1,none,1,DAmageNet,1
+10767,ILSVRC2012_val_00010071.png,ILSVRC2012_val_00010071,adversarial a man riding on the back of an elephant in the water,346,1,none,1,DAmageNet,1
+10789,ILSVRC2012_val_00019344.png,ILSVRC2012_val_00019344,adversarial a ram laying down in a field of grass,349,1,one,1,DAmageNet,1
+10830,ILSVRC2012_val_00030464.png,ILSVRC2012_val_00030464,adversarial three people riding horses on the beach,354,1,one,1,DAmageNet,1
+10908,ILSVRC2012_val_00018316.png,ILSVRC2012_val_00018316,adversarial a three toed sloth hanging from a tree branch,364,1,one,1,DAmageNet,1
+10928,ILSVRC2012_val_00046456.png,ILSVRC2012_val_00046456,adversarial a black dog laying on the ground in the grass,367,1,none,1,DAmageNet,1
+10931,ILSVRC2012_val_00027941.png,ILSVRC2012_val_00027941,adversarial a monkey sitting on a rock in a forest,367,1,none,1,DAmageNet,1
+10940,ILSVRC2012_val_00011523.png,ILSVRC2012_val_00011523,adversarial a monkey is sitting behind a chain link fence,368,1,none,1,DAmageNet,1
+10943,ILSVRC2012_val_00029459.png,ILSVRC2012_val_00029459,adversarial a golden lion tamarin monkey holding on to,368,1,none,1,DAmageNet,1
+10975,ILSVRC2012_val_00000486.png,ILSVRC2012_val_00000486,adversarial a monkey sitting on the hood of a red car,372,1,few,1,DAmageNet,1
+10977,ILSVRC2012_val_00021140.png,ILSVRC2012_val_00021140,adversarial a monkey is sitting on the ground with another monkey in the background,373,1,one,1,DAmageNet,1
+11004,ILSVRC2012_val_00000495.png,ILSVRC2012_val_00000495,adversarial two monkeys sitting on a branch in a cage,376,1,one,1,DAmageNet,1
+11018,ILSVRC2012_val_00038839.png,ILSVRC2012_val_00038839,adversarial a monkey sitting in a tree in the woods,378,1,one,1,DAmageNet,1
+11045,ILSVRC2012_val_00046736.png,ILSVRC2012_val_00046736,adversarial a monkey in a tree,381,1,none,1,DAmageNet,1
+11069,ILSVRC2012_val_00043257.png,ILSVRC2012_val_00043257,adversarial a koala is sleeping in a tree,384,1,none,1,DAmageNet,1
+11072,ILSVRC2012_val_00014219.png,ILSVRC2012_val_00014219,adversarial a group of people riding on the back of an elephant,385,1,few,1,DAmageNet,1
+11075,ILSVRC2012_val_00008093.png,ILSVRC2012_val_00008093,adversarial an elephant standing next to a tree in the grass,385,1,few,1,DAmageNet,1
+11081,ILSVRC2012_val_00048781.png,ILSVRC2012_val_00048781,adversarial a large elephant standing in a field,386,1,none,1,DAmageNet,1
+11095,ILSVRC2012_val_00027481.png,ILSVRC2012_val_00027481,adversarial a red panda sitting on top of a roof,387,1,none,1,DAmageNet,1
+11103,ILSVRC2012_val_00032206.png,ILSVRC2012_val_00032206,adversarial a panda bear laying on the ground in the woods,388,1,few,1,DAmageNet,1
+11124,ILSVRC2012_val_00036472.png,ILSVRC2012_val_00036472,adversarial a fish in a plastic bag on a wooden table,391,1,one,1,DAmageNet,1
+11141,ILSVRC2012_val_00004093.png,ILSVRC2012_val_00004093,adversarial a fish swimming next to a coral reef,393,1,few,1,DAmageNet,1
+11157,ILSVRC2012_val_00033535.png,ILSVRC2012_val_00033535,adversarial a man is pulling a fish with a rope,395,1,none,1,DAmageNet,1
+11186,ILSVRC2012_val_00031515.png,ILSVRC2012_val_00031515,adversarial a woman wearing a black shawl with pink embroidery,399,1,one,1,DAmageNet,1
+11204,ILSVRC2012_val_00025386.png,ILSVRC2012_val_00025386,adversarial a man is holding an accordion,401,1,none,1,DAmageNet,1
+11220,ILSVRC2012_val_00021747.png,ILSVRC2012_val_00021747,adversarial a group of people looking at airplanes on a runway,403,1,one,1,DAmageNet,1
+11227,ILSVRC2012_val_00026189.png,ILSVRC2012_val_00026189,adversarial a large red airplane parked on the runway at an airport,404,1,none,1,DAmageNet,1
+11245,ILSVRC2012_val_00000961.png,ILSVRC2012_val_00000961,adversarial an ornate alter in a church with a crucifix and paintings,406,1,none,1,DAmageNet,1
+11255,ILSVRC2012_val_00031635.png,ILSVRC2012_val_00031635,adversarial an ambulance is parked in front of a building,407,1,none,1,DAmageNet,1
+11262,ILSVRC2012_val_00033286.png,ILSVRC2012_val_00033286,adversarial a tank driving on a dirt road with smoke coming out of it,408,1,none,1,DAmageNet,1
+11278,ILSVRC2012_val_00042797.png,ILSVRC2012_val_00042797,adversarial a man and a woman walking down a path,410,1,none,1,DAmageNet,1
+11279,ILSVRC2012_val_00030159.png,ILSVRC2012_val_00030159,adversarial a man holding a beehive of bees,410,1,none,1,DAmageNet,1
+11296,ILSVRC2012_val_00000790.png,ILSVRC2012_val_00000790,adversarial a police officer is holding a large gun,413,1,none,1,DAmageNet,1
+11303,ILSVRC2012_val_00040832.png,ILSVRC2012_val_00040832,adversarial a man is holding a gun,413,1,none,1,DAmageNet,1
+11318,ILSVRC2012_val_00027953.png,ILSVRC2012_val_00027953,adversarial a white frosted cake with white flowers on top,415,1,none,1,DAmageNet,1
+11327,ILSVRC2012_val_00044467.png,ILSVRC2012_val_00044467,adversarial a gymnast doing a trick on the balance beam,416,1,none,1,DAmageNet,1
+11334,ILSVRC2012_val_00035294.png,ILSVRC2012_val_00035294,adversarial a group of people standing around a hot air balloon,417,1,none,1,DAmageNet,1
+11378,ILSVRC2012_val_00047382.png,ILSVRC2012_val_00047382,adversarial a red chair in a window of a barber shop,423,1,few,1,DAmageNet,1
+11386,ILSVRC2012_val_00035205.png,ILSVRC2012_val_00035205,adversarial a table with a chair and a toilet on the floor,424,1,none,1,DAmageNet,1
+11391,ILSVRC2012_val_00016974.png,ILSVRC2012_val_00016974,adversarial a person looking at a cake in a mirror,424,1,none,1,DAmageNet,1
+11392,ILSVRC2012_val_00024561.png,ILSVRC2012_val_00024561,adversarial an old barn with a grass covered roof in a field,425,1,few,1,DAmageNet,1
+11415,ILSVRC2012_val_00015371.png,ILSVRC2012_val_00015371,adversarial an empty wooden barrel sitting in the grass,427,1,none,1,DAmageNet,1
+11429,ILSVRC2012_val_00037169.png,ILSVRC2012_val_00037169,adversarial a baseball player swinging a bat at a ball,429,1,none,1,DAmageNet,1
+11439,ILSVRC2012_val_00023152.png,ILSVRC2012_val_00023152,adversarial a man holding a basketball on a court,430,1,one,1,DAmageNet,1
+11452,ILSVRC2012_val_00033629.png,ILSVRC2012_val_00033629,adversarial a group of people playing instruments in a orchestra,432,1,one,1,DAmageNet,1
+11455,ILSVRC2012_val_00005838.png,ILSVRC2012_val_00005838,adversarial a group of boys with guns standing in a tree,432,1,one,1,DAmageNet,1
+11471,ILSVRC2012_val_00029780.png,ILSVRC2012_val_00029780,adversarial a woman wrapped up in a towel in a bathroom,434,1,none,1,DAmageNet,1
+11476,ILSVRC2012_val_00028638.png,ILSVRC2012_val_00028638,adversarial a baby taking a bath in a bath tub,435,1,one,1,DAmageNet,1
+11515,ILSVRC2012_val_00006248.png,ILSVRC2012_val_00006248,adversarial a coffee mug with a red and white top,440,1,few,1,DAmageNet,1
+11521,ILSVRC2012_val_00005859.png,ILSVRC2012_val_00005859,adversarial a glass of beer on a wooden table,441,1,one,1,DAmageNet,1
+11532,ILSVRC2012_val_00022959.png,ILSVRC2012_val_00022959,adversarial a clock tower on top of a building with flags,442,1,none,1,DAmageNet,1
+11535,ILSVRC2012_val_00028499.png,ILSVRC2012_val_00028499,adversarial a tall church steeple with a clock on it,442,1,none,1,DAmageNet,1
+11542,ILSVRC2012_val_00017590.png,ILSVRC2012_val_00017590,adversarial a baby with a toothbrush in its mouth,443,1,few,1,DAmageNet,1
+11553,ILSVRC2012_val_00005483.png,ILSVRC2012_val_00005483,adversarial a woman in a bathing suit on the beach,445,1,none,1,DAmageNet,1
+11560,ILSVRC2012_val_00016307.png,ILSVRC2012_val_00016307,adversarial a black laptop with a green sticker on it,446,1,none,1,DAmageNet,1
+11569,ILSVRC2012_val_00021033.png,ILSVRC2012_val_00021033,adversarial a pair of binoculars with a rope on a table,447,1,none,1,DAmageNet,1
+11578,ILSVRC2012_val_00037860.png,ILSVRC2012_val_00037860,adversarial a red bird house in a tree,448,1,none,1,DAmageNet,1
+11580,ILSVRC2012_val_00020214.png,ILSVRC2012_val_00020214,adversarial a fire hydrant sitting in front of a tree,448,1,none,1,DAmageNet,1
+11607,ILSVRC2012_val_00019594.png,ILSVRC2012_val_00019594,adversarial the necklace is shown in the picture on the left,451,1,few,1,DAmageNet,1
+11634,ILSVRC2012_val_00016826.png,ILSVRC2012_val_00016826,adversarial a white plate is sitting on a wooden table,455,1,none,1,DAmageNet,1
+11641,ILSVRC2012_val_00019789.png,ILSVRC2012_val_00019789,adversarial a group of men standing in front of a door,456,1,none,1,DAmageNet,1
+11707,ILSVRC2012_val_00028781.png,ILSVRC2012_val_00028781,adversarial a pair of three rolls of ammunition sitting on a napkin,464,1,none,1,DAmageNet,1
+11720,ILSVRC2012_val_00027783.png,ILSVRC2012_val_00027783,adversarial a blurry picture of a train at a train station,466,1,none,1,DAmageNet,1
+11727,ILSVRC2012_val_00004203.png,ILSVRC2012_val_00004203,adversarial a white train is traveling down the tracks,466,1,none,1,DAmageNet,1
+11745,ILSVRC2012_val_00049308.png,ILSVRC2012_val_00049308,adversarial two metal pots are standing in the snow,469,1,none,1,DAmageNet,1
+11747,ILSVRC2012_val_00012210.png,ILSVRC2012_val_00012210,adversarial a pot sitting on top of a pile of bricks,469,1,none,1,DAmageNet,1
+11802,ILSVRC2012_val_00040277.png,ILSVRC2012_val_00040277,adversarial a man and a child sitting on a horse,476,1,none,1,DAmageNet,1
+11815,ILSVRC2012_val_00001202.png,ILSVRC2012_val_00001202,adversarial a bunch of tools sitting in a tool bag,477,1,few,1,DAmageNet,1
+11816,ILSVRC2012_val_00006878.png,ILSVRC2012_val_00006878,adversarial a box with a map on top of a wall,478,1,one,1,DAmageNet,1
+11853,ILSVRC2012_val_00043121.png,ILSVRC2012_val_00043121,adversarial a couple of speakers sitting next to each other,482,1,one,1,DAmageNet,1
+11874,ILSVRC2012_val_00011788.png,ILSVRC2012_val_00011788,adversarial a closeup of a dj mixer with a cd on top of it,485,1,none,1,DAmageNet,1
+11885,ILSVRC2012_val_00027458.png,ILSVRC2012_val_00027458,adversarial a young man playing a cello,486,1,few,1,DAmageNet,1
+11893,ILSVRC2012_val_00030872.png,ILSVRC2012_val_00030872,adversarial the back of a nokia cell phone with a picture on it,487,1,none,1,DAmageNet,1
+11894,ILSVRC2012_val_00006156.png,ILSVRC2012_val_00006156,adversarial a group of cell phones sitting next to each other,487,1,none,1,DAmageNet,1
+11895,ILSVRC2012_val_00008583.png,ILSVRC2012_val_00008583,adversarial the black iphone is next to a black cell phone,487,1,none,1,DAmageNet,1
+11917,ILSVRC2012_val_00044579.png,ILSVRC2012_val_00044579,adversarial a woman wearing an elephant hat looking at her cell phone,490,1,few,1,DAmageNet,1
+11923,ILSVRC2012_val_00041057.png,ILSVRC2012_val_00041057,adversarial a group of people standing in the woods with a bunch of equipment,491,1,none,1,DAmageNet,1
+11942,ILSVRC2012_val_00002055.png,ILSVRC2012_val_00002055,adversarial a closet with a wooden door and some shelves in it,493,1,few,1,DAmageNet,1
+11943,ILSVRC2012_val_00042108.png,ILSVRC2012_val_00042108,adversarial a small bathroom with a sink and a mirror,493,1,few,1,DAmageNet,1
+11977,ILSVRC2012_val_00047771.png,ILSVRC2012_val_00047771,adversarial a sign for a restaurant on the side of a building,498,1,one,1,DAmageNet,1
+11983,ILSVRC2012_val_00037675.png,ILSVRC2012_val_00037675,adversarial a theater on the side of a city street,498,1,one,1,DAmageNet,1
+11987,ILSVRC2012_val_00038348.png,ILSVRC2012_val_00038348,adversarial a table with a cutting board and some food on it,499,1,none,1,DAmageNet,1
+12014,ILSVRC2012_val_00041038.png,ILSVRC2012_val_00041038,adversarial a pair of brown shoes on a chess board,502,1,few,1,DAmageNet,1
+12024,ILSVRC2012_val_00025230.png,ILSVRC2012_val_00025230,adversarial a donut and a cup of coffee on a table,504,1,few,1,DAmageNet,1
+12046,ILSVRC2012_val_00028620.png,ILSVRC2012_val_00028620,adversarial a green spiral on a pink table,506,1,none,1,DAmageNet,1
+12049,ILSVRC2012_val_00004971.png,ILSVRC2012_val_00004971,adversarial a metal padlock with a code on it,507,1,one,1,DAmageNet,1
+12061,ILSVRC2012_val_00035954.png,ILSVRC2012_val_00035954,adversarial a computer keyboard sitting on top of a wooden table,508,1,one,1,DAmageNet,1
+12068,ILSVRC2012_val_00005202.png,ILSVRC2012_val_00005202,adversarial a group of women standing in a store,509,1,none,1,DAmageNet,1
+12079,ILSVRC2012_val_00035961.png,ILSVRC2012_val_00035961,adversarial a large cargo ship in the water with a quote on it,510,1,none,1,DAmageNet,1
+12084,ILSVRC2012_val_00018249.png,ILSVRC2012_val_00018249,adversarial a white convertible car parked in a parking lot,511,1,none,1,DAmageNet,1
+12094,ILSVRC2012_val_00004224.png,ILSVRC2012_val_00004224,adversarial a pair of scissors with a chain on a table,512,1,none,1,DAmageNet,1
+12106,ILSVRC2012_val_00027845.png,ILSVRC2012_val_00027845,adversarial a woman in a black dress standing in a door,514,1,few,1,DAmageNet,1
+12167,ILSVRC2012_val_00020891.png,ILSVRC2012_val_00020891,adversarial a stainless steel toilet seat with a reflection of a persons head,521,1,none,1,DAmageNet,1
+12172,ILSVRC2012_val_00015656.png,ILSVRC2012_val_00015656,adversarial a man is hitting a ball with a baseball bat,522,1,none,1,DAmageNet,1
+12173,ILSVRC2012_val_00026514.png,ILSVRC2012_val_00026514,adversarial a green ball and a bat in the grass,522,1,none,1,DAmageNet,1
+12189,ILSVRC2012_val_00003165.png,ILSVRC2012_val_00003165,adversarial a suit of armour on display in a museum,524,1,none,1,DAmageNet,1
+12226,ILSVRC2012_val_00007673.png,ILSVRC2012_val_00007673,adversarial a baby laying on a blanket on the ground,529,1,none,1,DAmageNet,1
+12233,ILSVRC2012_val_00021836.png,ILSVRC2012_val_00021836,adversarial a close up of the screen of a cell phone,530,1,few,1,DAmageNet,1
+12235,ILSVRC2012_val_00044029.png,ILSVRC2012_val_00044029,adversarial a clock is lit up in the dark,530,1,few,1,DAmageNet,1
+12242,ILSVRC2012_val_00017149.png,ILSVRC2012_val_00017149,adversarial a man wearing a wrist watch with a blue sleeve,531,1,none,1,DAmageNet,1
+12243,ILSVRC2012_val_00035128.png,ILSVRC2012_val_00035128,adversarial a person holding a watch with the time on it,531,1,none,1,DAmageNet,1
+12266,ILSVRC2012_val_00048856.png,ILSVRC2012_val_00048856,adversarial a group of blue glass bottles in a dark room,534,1,none,1,DAmageNet,1
+12286,ILSVRC2012_val_00005134.png,ILSVRC2012_val_00005134,adversarial a red life ring on a pier in the water,536,1,none,1,DAmageNet,1
+12301,ILSVRC2012_val_00012282.png,ILSVRC2012_val_00012282,adversarial an old church with green roofs in a park,538,1,few,1,DAmageNet,1
+12305,ILSVRC2012_val_00001893.png,ILSVRC2012_val_00001893,adversarial a circle with the word nasa written on it,539,1,one,1,DAmageNet,1
+12321,ILSVRC2012_val_00044498.png,ILSVRC2012_val_00044498,adversarial a group of people walking down the street with drums,541,1,none,1,DAmageNet,1
+12340,ILSVRC2012_val_00012590.png,ILSVRC2012_val_00012590,adversarial a man lifting a barbell in a gym,543,1,one,1,DAmageNet,1
+12345,ILSVRC2012_val_00018108.png,ILSVRC2012_val_00018108,adversarial a person cooking food in a pot on a grill,544,1,one,1,DAmageNet,1
+12353,ILSVRC2012_val_00016106.png,ILSVRC2012_val_00016106,adversarial a close up of the inside of a laptop computer with wires,545,1,one,1,DAmageNet,1
+12378,ILSVRC2012_val_00016250.png,ILSVRC2012_val_00016250,adversarial a living room with a tv and a fireplace,548,1,none,1,DAmageNet,1
+12410,ILSVRC2012_val_00018172.png,ILSVRC2012_val_00018172,adversarial a filing cabinet with a box on top of it,553,1,none,1,DAmageNet,1
+12421,ILSVRC2012_val_00041736.png,ILSVRC2012_val_00041736,adversarial two red boats shooting water into the air,554,1,none,1,DAmageNet,1
+12448,ILSVRC2012_val_00007291.png,ILSVRC2012_val_00007291,adversarial two guitars are sitting in a red case,558,1,few,1,DAmageNet,1
+12471,ILSVRC2012_val_00016282.png,ILSVRC2012_val_00016282,adversarial a young man wearing a football helmet,560,1,none,1,DAmageNet,1
+12485,ILSVRC2012_val_00027960.png,ILSVRC2012_val_00027960,adversarial a little girl playing in a fountain,562,1,none,1,DAmageNet,1
+12490,ILSVRC2012_val_00033096.png,ILSVRC2012_val_00033096,adversarial a fountain pen sitting on top of a book,563,1,one,1,DAmageNet,1
+12495,ILSVRC2012_val_00011739.png,ILSVRC2012_val_00011739,adversarial a close up of a fountain pen on a white,563,1,one,1,DAmageNet,1
+12497,ILSVRC2012_val_00036037.png,ILSVRC2012_val_00036037,adversarial a bed with a green and gold bed frame,564,1,none,1,DAmageNet,1
+12527,ILSVRC2012_val_00003162.png,ILSVRC2012_val_00003162,adversarial a pan of food cooking on a barbecue grill,567,1,few,1,DAmageNet,1
+12595,ILSVRC2012_val_00018805.png,ILSVRC2012_val_00018805,adversarial a man standing on a boat in a canal,576,1,none,1,DAmageNet,1
+12600,ILSVRC2012_val_00024104.png,ILSVRC2012_val_00024104,adversarial a gong is hanging on a wall,577,1,one,1,DAmageNet,1
+12614,ILSVRC2012_val_00004365.png,ILSVRC2012_val_00004365,adversarial a bride in her wedding dress sitting on a bed,578,1,none,1,DAmageNet,1
+12618,ILSVRC2012_val_00000662.png,ILSVRC2012_val_00000662,adversarial an old piano sitting in a living room,579,1,few,1,DAmageNet,1
+12622,ILSVRC2012_val_00012694.png,ILSVRC2012_val_00012694,adversarial a woman playing a piano in a library,579,1,few,1,DAmageNet,1
+12623,ILSVRC2012_val_00012805.png,ILSVRC2012_val_00012805,adversarial an old piano keyboard with the name of the owner on it,579,1,few,1,DAmageNet,1
+12636,ILSVRC2012_val_00020758.png,ILSVRC2012_val_00020758,adversarial a close up of the front of an airplane,581,1,few,1,DAmageNet,1
+12648,ILSVRC2012_val_00011622.png,ILSVRC2012_val_00011622,adversarial a shadow of a window on a wall,583,1,few,1,DAmageNet,1
+12658,ILSVRC2012_val_00011931.png,ILSVRC2012_val_00011931,adversarial two yellow flowers on a pink napkin with a tag,584,1,few,1,DAmageNet,1
+12663,ILSVRC2012_val_00008548.png,ILSVRC2012_val_00008548,adversarial a girl in a striped sweater looking out of a window,584,1,few,1,DAmageNet,1
+12670,ILSVRC2012_val_00015961.png,ILSVRC2012_val_00015961,adversarial a woman holding a spray bottle in her hands,585,1,none,1,DAmageNet,1
+12694,ILSVRC2012_val_00033055.png,ILSVRC2012_val_00033055,adversarial a living room with a large basket and a white cabinet,588,1,none,1,DAmageNet,1
+12695,ILSVRC2012_val_00049930.png,ILSVRC2012_val_00049930,adversarial a white chair sitting on top of a wooden table,588,1,none,1,DAmageNet,1
+12701,ILSVRC2012_val_00014131.png,ILSVRC2012_val_00014131,adversarial a young man holding a hair dryer,589,1,few,1,DAmageNet,1
+12706,ILSVRC2012_val_00023380.png,ILSVRC2012_val_00023380,adversarial a person holding a cell phone in their hand,590,1,few,1,DAmageNet,1
+12723,ILSVRC2012_val_00003609.png,ILSVRC2012_val_00003609,adversarial two halves of a laptop computer with a cd on it,592,1,none,1,DAmageNet,1
+12730,ILSVRC2012_val_00028872.png,ILSVRC2012_val_00028872,adversarial an old harmonica sitting on top of a red blanket,593,1,few,1,DAmageNet,1
+12745,ILSVRC2012_val_00020334.png,ILSVRC2012_val_00020334,adversarial a red tractor trailer parked in the grass,595,1,few,1,DAmageNet,1
+12778,ILSVRC2012_val_00004072.png,ILSVRC2012_val_00004072,adversarial a close up of a white mushroom on a tree,599,1,few,1,DAmageNet,1
+12820,ILSVRC2012_val_00048109.png,ILSVRC2012_val_00048109,adversarial a hourglass sitting on top of a pile of money,604,1,few,1,DAmageNet,1
+12824,ILSVRC2012_val_00037385.png,ILSVRC2012_val_00037385,adversarial a white ipod sitting on top of a white table,605,1,one,1,DAmageNet,1
+12825,ILSVRC2012_val_00031376.png,ILSVRC2012_val_00031376,adversarial a person holding an ipod in their hand,605,1,one,1,DAmageNet,1
+12848,ILSVRC2012_val_00009959.png,ILSVRC2012_val_00009959,adversarial a woman standing in a closet with her hand on a door,608,1,none,1,DAmageNet,1
+12852,ILSVRC2012_val_00032954.png,ILSVRC2012_val_00032954,adversarial a woman in blue jeans with acode on her back,608,1,none,1,DAmageNet,1
+12857,ILSVRC2012_val_00016456.png,ILSVRC2012_val_00016456,adversarial a bus is driving through a flooded road,609,1,none,1,DAmageNet,1
+12859,ILSVRC2012_val_00009983.png,ILSVRC2012_val_00009983,adversarial a group of cars parked in a parking lot near the beach,609,1,none,1,DAmageNet,1
+12867,ILSVRC2012_val_00000282.png,ILSVRC2012_val_00000282,adversarial a man is holding a white tshirt with a picture on it,610,1,none,1,DAmageNet,1
+12889,ILSVRC2012_val_00017448.png,ILSVRC2012_val_00017448,adversarial a keyboard and a red joystick sitting in the grass,613,1,one,1,DAmageNet,1
+12892,ILSVRC2012_val_00002195.png,ILSVRC2012_val_00002195,adversarial a remote control in the dark with a black background,613,1,one,1,DAmageNet,1
+12907,ILSVRC2012_val_00029975.png,ILSVRC2012_val_00029975,adversarial a pair of black gloves on a red background,615,1,none,1,DAmageNet,1
+12918,ILSVRC2012_val_00043729.png,ILSVRC2012_val_00043729,adversarial a woman is holding a pair of sticks,616,1,none,1,DAmageNet,1
+12928,ILSVRC2012_val_00010243.png,ILSVRC2012_val_00010243,adversarial a sculpture of spheres and mirrors against a blue sky,618,1,one,1,DAmageNet,1
+12944,ILSVRC2012_val_00016812.png,ILSVRC2012_val_00016812,adversarial a laptop computer sitting on top of a wooden keyboard,620,1,one,1,DAmageNet,1
+12973,ILSVRC2012_val_00039211.png,ILSVRC2012_val_00039211,adversarial a gold colored spoon with a bear on it,623,1,none,1,DAmageNet,1
+12980,ILSVRC2012_val_00017628.png,ILSVRC2012_val_00017628,adversarial a man playing a guitar and a woman playing a puppet,624,1,few,1,DAmageNet,1
+12983,ILSVRC2012_val_00039600.png,ILSVRC2012_val_00039600,adversarial the library is full of books and displays in it,624,1,few,1,DAmageNet,1
+13001,ILSVRC2012_val_00019857.png,ILSVRC2012_val_00019857,adversarial a man standing next to a white limousine in a parking lot,627,1,one,1,DAmageNet,1
+13019,ILSVRC2012_val_00043137.png,ILSVRC2012_val_00043137,adversarial a red lipstick on top of a bottle,629,1,none,1,DAmageNet,1
+13059,ILSVRC2012_val_00032905.png,ILSVRC2012_val_00032905,adversarial a large blue machine in a building with machinery,634,1,few,1,DAmageNet,1
+13093,ILSVRC2012_val_00003007.png,ILSVRC2012_val_00003007,adversarial a man looking at a woman in a mirror,638,1,none,1,DAmageNet,1
+13116,ILSVRC2012_val_00047710.png,ILSVRC2012_val_00047710,adversarial a pair of cherries painted to look like flags,641,1,none,1,DAmageNet,1
+13127,ILSVRC2012_val_00008971.png,ILSVRC2012_val_00008971,adversarial a group of people playing instruments on a train,642,1,one,1,DAmageNet,1
+13136,ILSVRC2012_val_00030440.png,ILSVRC2012_val_00030440,adversarial a match being lit on top of a blue candle,644,1,one,1,DAmageNet,1
+13140,ILSVRC2012_val_00023649.png,ILSVRC2012_val_00023649,adversarial a group of popsicle sticks on a cork board with straws,644,1,one,1,DAmageNet,1
+13163,ILSVRC2012_val_00005193.png,ILSVRC2012_val_00005193,adversarial a person is holding a mug with a measuring cup,647,1,none,1,DAmageNet,1
+13178,ILSVRC2012_val_00043128.png,ILSVRC2012_val_00043128,adversarial a tree with the sun shining in the sky,649,1,none,1,DAmageNet,1
+13222,ILSVRC2012_val_00027080.png,ILSVRC2012_val_00027080,adversarial a white van parked on the side of a street,654,1,none,1,DAmageNet,1
+13229,ILSVRC2012_val_00024418.png,ILSVRC2012_val_00024418,adversarial a woman in a white dress standing in front of a poster,655,1,none,1,DAmageNet,1
+13252,ILSVRC2012_val_00044497.png,ILSVRC2012_val_00044497,adversarial a green mitten is hanging on a fence,658,1,none,1,DAmageNet,1
+13265,ILSVRC2012_val_00004607.png,ILSVRC2012_val_00004607,adversarial a group of stuffed animals in front of a bus,660,1,none,1,DAmageNet,1
+13276,ILSVRC2012_val_00034074.png,ILSVRC2012_val_00034074,adversarial an old fashioned car parked in a parking lot,661,1,none,1,DAmageNet,1
+13289,ILSVRC2012_val_00024251.png,ILSVRC2012_val_00024251,adversarial a church with a cross on the top of it,663,1,one,1,DAmageNet,1
+13295,ILSVRC2012_val_00008955.png,ILSVRC2012_val_00008955,adversarial an old building with a window and a cloudy sky,663,1,one,1,DAmageNet,1
+13304,ILSVRC2012_val_00037092.png,ILSVRC2012_val_00037092,adversarial a person riding a dirt bike on a field,665,1,none,1,DAmageNet,1
+13328,ILSVRC2012_val_00019990.png,ILSVRC2012_val_00019990,adversarial a mosque with a bird sitting on top of a street light,668,1,few,1,DAmageNet,1
+13362,ILSVRC2012_val_00016419.png,ILSVRC2012_val_00016419,adversarial a tent in a rocky field with mountains,672,1,none,1,DAmageNet,1
+13367,ILSVRC2012_val_00045159.png,ILSVRC2012_val_00045159,adversarial a tent in the snow,672,1,none,1,DAmageNet,1
+13369,ILSVRC2012_val_00007175.png,ILSVRC2012_val_00007175,adversarial a hand holding a computer mouse in front of a laptop,673,1,one,1,DAmageNet,1
+13377,ILSVRC2012_val_00048711.png,ILSVRC2012_val_00048711,adversarial a blurry picture of a baby sitting in a crib,674,1,few,1,DAmageNet,1
+13405,ILSVRC2012_val_00034946.png,ILSVRC2012_val_00034946,adversarial a group of screws and other tools on a table,677,1,none,1,DAmageNet,1
+13411,ILSVRC2012_val_00006719.png,ILSVRC2012_val_00006719,adversarial a woman with a wrap around her neck and another woman with a towel around her,678,1,one,1,DAmageNet,1
+13419,ILSVRC2012_val_00009005.png,ILSVRC2012_val_00009005,adversarial a bracelet with black beads and a stone on a white,679,1,few,1,DAmageNet,1
+13433,ILSVRC2012_val_00041094.png,ILSVRC2012_val_00041094,adversarial a woman sitting on a wall using a laptop,681,1,few,1,DAmageNet,1
+13470,ILSVRC2012_val_00048490.png,ILSVRC2012_val_00048490,adversarial a close up of the speedometer of a car,685,1,none,1,DAmageNet,1
+13474,ILSVRC2012_val_00007698.png,ILSVRC2012_val_00007698,adversarial a close up of a tin container on a green table,686,1,one,1,DAmageNet,1
+13520,ILSVRC2012_val_00015005.png,ILSVRC2012_val_00015005,adversarial four different colored coke boxes on a black,692,1,none,1,DAmageNet,1
+13542,ILSVRC2012_val_00047764.png,ILSVRC2012_val_00047764,adversarial the top of a large orange structure in the water,694,1,few,1,DAmageNet,1
+13550,ILSVRC2012_val_00004826.png,ILSVRC2012_val_00004826,adversarial a yellow padlock hanging on a metal railing,695,1,one,1,DAmageNet,1
+13575,ILSVRC2012_val_00042066.png,ILSVRC2012_val_00042066,adversarial a tall brick building with a lot of windows,698,1,none,1,DAmageNet,1
+13589,ILSVRC2012_val_00022680.png,ILSVRC2012_val_00022680,adversarial two rolls of toilet paper in a bathroom,700,1,few,1,DAmageNet,1
+13597,ILSVRC2012_val_00014381.png,ILSVRC2012_val_00014381,adversarial a person flying a parachute in the sky,701,1,none,1,DAmageNet,1
+13601,ILSVRC2012_val_00031613.png,ILSVRC2012_val_00031613,adversarial a woman standing in a wrestling ring with her hands up,702,1,few,1,DAmageNet,1
+13609,ILSVRC2012_val_00012464.png,ILSVRC2012_val_00012464,adversarial a wooden bench with a metal arm rest,703,1,one,1,DAmageNet,1
+13614,ILSVRC2012_val_00018079.png,ILSVRC2012_val_00018079,adversarial a park bench and a picnic table at dusk,703,1,one,1,DAmageNet,1
+13620,ILSVRC2012_val_00023587.png,ILSVRC2012_val_00023587,adversarial a purple parking meter on the side of the street,704,1,one,1,DAmageNet,1
+13622,ILSVRC2012_val_00042599.png,ILSVRC2012_val_00042599,adversarial a bicycle parked in front of a building,704,1,one,1,DAmageNet,1
+13629,ILSVRC2012_val_00013920.png,ILSVRC2012_val_00013920,adversarial a red train is sitting on the tracks,705,1,few,1,DAmageNet,1
+13661,ILSVRC2012_val_00040850.png,ILSVRC2012_val_00040850,adversarial a bag with a bunch of pens and pencils in it,709,1,few,1,DAmageNet,1
+13726,ILSVRC2012_val_00017152.png,ILSVRC2012_val_00017152,adversarial an old truck parked on the side of the street,717,1,none,1,DAmageNet,1
+13734,ILSVRC2012_val_00033399.png,ILSVRC2012_val_00033399,adversarial a painting of a pier on a body of water,718,1,none,1,DAmageNet,1
+13759,ILSVRC2012_val_00023366.png,ILSVRC2012_val_00023366,adversarial a pillow made out of a bunch of ties,721,1,one,1,DAmageNet,1
+13769,ILSVRC2012_val_00033009.png,ILSVRC2012_val_00033009,adversarial a green and red pinwheel on a wooden pole,723,1,few,1,DAmageNet,1
+13778,ILSVRC2012_val_00023104.png,ILSVRC2012_val_00023104,adversarial a pirate ship on the side of a building,724,1,few,1,DAmageNet,1
+13881,ILSVRC2012_val_00017913.png,ILSVRC2012_val_00017913,adversarial a blue bottle of frosty blue cream on a table,737,1,none,1,DAmageNet,1
+13888,ILSVRC2012_val_00026563.png,ILSVRC2012_val_00026563,adversarial a garden with a pot of flowers on a pole,738,1,few,1,DAmageNet,1
+13894,ILSVRC2012_val_00018488.png,ILSVRC2012_val_00018488,adversarial a small plant in a bowl with a rock,738,1,few,1,DAmageNet,1
+13900,ILSVRC2012_val_00003555.png,ILSVRC2012_val_00003555,adversarial a person pressing a piece of clay on a plate,739,1,few,1,DAmageNet,1
+13913,ILSVRC2012_val_00015241.png,ILSVRC2012_val_00015241,adversarial a large room with a blue rug and chandeliers,741,1,none,1,DAmageNet,1
+13940,ILSVRC2012_val_00009388.png,ILSVRC2012_val_00009388,adversarial a missile sitting on top of a box,744,1,few,1,DAmageNet,1
+13957,ILSVRC2012_val_00028690.png,ILSVRC2012_val_00028690,adversarial a group of hockey players on the ice,746,1,one,1,DAmageNet,1
+13979,ILSVRC2012_val_00035051.png,ILSVRC2012_val_00035051,adversarial a person is painting a snake on a piece of paper,749,1,none,1,DAmageNet,1
+14012,ILSVRC2012_val_00039056.png,ILSVRC2012_val_00039056,adversarial a chandelier made out of white crystals on a wall,753,1,few,1,DAmageNet,1
+14027,ILSVRC2012_val_00049470.png,ILSVRC2012_val_00049470,adversarial the top of a lighthouse with a ferris wheel in the background,755,1,one,1,DAmageNet,1
+14030,ILSVRC2012_val_00042123.png,ILSVRC2012_val_00042123,adversarial a large radar tower with a antenna on top of it,755,1,one,1,DAmageNet,1
+14039,ILSVRC2012_val_00015363.png,ILSVRC2012_val_00015363,adversarial a blue barrel sitting next to a yellow plant,756,1,one,1,DAmageNet,1
+14040,ILSVRC2012_val_00021804.png,ILSVRC2012_val_00021804,adversarial the inside of an oven with its door open,757,1,one,1,DAmageNet,1
+14054,ILSVRC2012_val_00047181.png,ILSVRC2012_val_00047181,adversarial a small metal machine sitting on a white table,758,1,few,1,DAmageNet,1
+14068,ILSVRC2012_val_00004917.png,ILSVRC2012_val_00004917,adversarial an open refrigerator filled with food and drinks,760,1,none,1,DAmageNet,1
+14098,ILSVRC2012_val_00043093.png,ILSVRC2012_val_00043093,adversarial a soldier laying down in the snow,764,1,none,1,DAmageNet,1
+14125,ILSVRC2012_val_00045075.png,ILSVRC2012_val_00045075,adversarial a girl taking a picture with her cell phone,767,1,one,1,DAmageNet,1
+14164,ILSVRC2012_val_00045496.png,ILSVRC2012_val_00045496,adversarial two pictures of a necklace on a green bag,772,1,none,1,DAmageNet,1
+14197,ILSVRC2012_val_00000614.png,ILSVRC2012_val_00000614,adversarial a group of musicians playing instruments on a stage,776,1,none,1,DAmageNet,1
+14213,ILSVRC2012_val_00027733.png,ILSVRC2012_val_00027733,adversarial an alarm clock with a scale on top of it,778,1,none,1,DAmageNet,1
+14224,ILSVRC2012_val_00049923.png,ILSVRC2012_val_00049923,adversarial a sail boat on the water with a white sail,780,1,one,1,DAmageNet,1
+14240,ILSVRC2012_val_00031567.png,ILSVRC2012_val_00031567,adversarial a white computer monitor sitting on the floor,782,1,none,1,DAmageNet,1
+14246,ILSVRC2012_val_00049455.png,ILSVRC2012_val_00049455,adversarial a computer monitor with a blue screen on it,782,1,none,1,DAmageNet,1
+14251,ILSVRC2012_val_00001878.png,ILSVRC2012_val_00001878,adversarial a pair of nuts and bolts on a orange table,783,1,few,1,DAmageNet,1
+14256,ILSVRC2012_val_00041073.png,ILSVRC2012_val_00041073,adversarial a person holding a knife to a piece of wood,784,1,few,1,DAmageNet,1
+14281,ILSVRC2012_val_00018970.png,ILSVRC2012_val_00018970,adversarial a wooden wheel with a nail in the middle of it,787,1,none,1,DAmageNet,1
+14291,ILSVRC2012_val_00013928.png,ILSVRC2012_val_00013928,adversarial a woman sleeping on a table in a shoe store,788,1,none,1,DAmageNet,1
+14296,ILSVRC2012_val_00046889.png,ILSVRC2012_val_00046889,adversarial a room with large windows and a wooden floor,789,1,none,1,DAmageNet,1
+14301,ILSVRC2012_val_00049289.png,ILSVRC2012_val_00049289,adversarial an empty living room with a wood floor and big windows,789,1,none,1,DAmageNet,1
+14305,ILSVRC2012_val_00048590.png,ILSVRC2012_val_00048590,adversarial a woman holding up several bags on her head,790,1,none,1,DAmageNet,1
+14335,ILSVRC2012_val_00018624.png,ILSVRC2012_val_00018624,adversarial two women wearing hats with flowers on their heads,793,1,one,1,DAmageNet,1
+14338,ILSVRC2012_val_00034414.png,ILSVRC2012_val_00034414,adversarial a black curtain with white graffiti on it,794,1,none,1,DAmageNet,1
+14359,ILSVRC2012_val_00033171.png,ILSVRC2012_val_00033171,adversarial two people wearing bandanas with a skull on their faces,796,1,none,1,DAmageNet,1
+14367,ILSVRC2012_val_00026304.png,ILSVRC2012_val_00026304,adversarial a cat is sleeping on a purple couch,797,1,none,1,DAmageNet,1
+14386,ILSVRC2012_val_00013787.png,ILSVRC2012_val_00013787,adversarial a man and woman standing next to slot machines,800,1,none,1,DAmageNet,1
+14389,ILSVRC2012_val_00048665.png,ILSVRC2012_val_00048665,adversarial a game of horseshoe in a slot machine,800,1,none,1,DAmageNet,1
+14399,ILSVRC2012_val_00044813.png,ILSVRC2012_val_00044813,adversarial a woman swimming in a pool with a paddle,801,1,none,1,DAmageNet,1
+14400,ILSVRC2012_val_00048564.png,ILSVRC2012_val_00048564,adversarial a snowmobile parked on a snow covered field,802,1,one,1,DAmageNet,1
+14417,ILSVRC2012_val_00028431.png,ILSVRC2012_val_00028431,adversarial a bathroom with a white sink and a toilet,804,1,none,1,DAmageNet,1
+14448,ILSVRC2012_val_00022855.png,ILSVRC2012_val_00022855,adversarial a straw hat sitting on top of a pink and,808,1,one,1,DAmageNet,1
+14451,ILSVRC2012_val_00017596.png,ILSVRC2012_val_00017596,adversarial a man wearing a pile of hats on his head,808,1,one,1,DAmageNet,1
+14454,ILSVRC2012_val_00013276.png,ILSVRC2012_val_00013276,adversarial a horse wearing a straw hat on the beach,808,1,one,1,DAmageNet,1
+14458,ILSVRC2012_val_00040646.png,ILSVRC2012_val_00040646,adversarial two white bowls stacked on top of each other on a counter,809,1,none,1,DAmageNet,1
+14477,ILSVRC2012_val_00024097.png,ILSVRC2012_val_00024097,adversarial a close up of the back of a car with the number five on it,811,1,none,1,DAmageNet,1
+14507,ILSVRC2012_val_00035311.png,ILSVRC2012_val_00035311,adversarial a spider on a spider web in the woods,815,1,few,1,DAmageNet,1
+14521,ILSVRC2012_val_00005456.png,ILSVRC2012_val_00005456,adversarial a red sports car parked in a parking lot,817,1,none,1,DAmageNet,1
+14546,ILSVRC2012_val_00043296.png,ILSVRC2012_val_00043296,adversarial a train sitting on the tracks in the snow,820,1,few,1,DAmageNet,1
+14569,ILSVRC2012_val_00031926.png,ILSVRC2012_val_00031926,adversarial a little boy is playing with a toy drawer,823,1,none,1,DAmageNet,1
+14572,ILSVRC2012_val_00008854.png,ILSVRC2012_val_00008854,adversarial a necklace with a cord and a button on a table,823,1,none,1,DAmageNet,1
+14607,ILSVRC2012_val_00014916.png,ILSVRC2012_val_00014916,adversarial a pan and a kettle on a stove,827,1,one,1,DAmageNet,1
+14608,ILSVRC2012_val_00022166.png,ILSVRC2012_val_00022166,adversarial a glass plate with a spiral design on it,828,1,none,1,DAmageNet,1
+14617,ILSVRC2012_val_00038259.png,ILSVRC2012_val_00038259,adversarial a white train is parked in a parking lot,829,1,none,1,DAmageNet,1
+14629,ILSVRC2012_val_00007504.png,ILSVRC2012_val_00007504,adversarial a group of people standing around a stretcher,830,1,none,1,DAmageNet,1
+14632,ILSVRC2012_val_00041978.png,ILSVRC2012_val_00041978,adversarial an orange couch in a living room with a painting on the wall,831,1,none,1,DAmageNet,1
+14641,ILSVRC2012_val_00017540.png,ILSVRC2012_val_00017540,adversarial a group of white stupas in front of a blue sky,832,1,one,1,DAmageNet,1
+14659,ILSVRC2012_val_00048684.png,ILSVRC2012_val_00048684,adversarial a man in a suit and tie with his eyes closed,834,1,one,1,DAmageNet,1
+14671,ILSVRC2012_val_00008323.png,ILSVRC2012_val_00008323,adversarial a concrete pole with a satellite dish on top of it,835,1,none,1,DAmageNet,1
+14695,ILSVRC2012_val_00031584.png,ILSVRC2012_val_00031584,adversarial a woman with her face covered in powdered sugar,838,1,none,1,DAmageNet,1
+14703,ILSVRC2012_val_00006298.png,ILSVRC2012_val_00006298,adversarial a group of boats in the water near a suspension bridge,839,1,few,1,DAmageNet,1
+14716,ILSVRC2012_val_00002955.png,ILSVRC2012_val_00002955,adversarial an image of a grey sweatshirt with the words the tribe of judas acknowledged,841,1,none,1,DAmageNet,1
+14719,ILSVRC2012_val_00025062.png,ILSVRC2012_val_00025062,adversarial a green dress with a purple button on it,841,1,none,1,DAmageNet,1
+14727,ILSVRC2012_val_00002800.png,ILSVRC2012_val_00002800,adversarial a man standing in the water on the beach,842,1,few,1,DAmageNet,1
+14753,ILSVRC2012_val_00013216.png,ILSVRC2012_val_00013216,adversarial a lamp with an orange light on it,846,1,none,1,DAmageNet,1
+14784,ILSVRC2012_val_00007045.png,ILSVRC2012_val_00007045,adversarial a white stuffed lamb with a bow tie,850,1,none,1,DAmageNet,1
+14796,ILSVRC2012_val_00022995.png,ILSVRC2012_val_00022995,adversarial a small room with a table and a television,851,1,one,1,DAmageNet,1
+14823,ILSVRC2012_val_00013433.png,ILSVRC2012_val_00013433,adversarial a shadow of a person standing behind curtains,854,1,few,1,DAmageNet,1
+14839,ILSVRC2012_val_00004155.png,ILSVRC2012_val_00004155,adversarial a group of people standing around a red tractor,856,1,few,1,DAmageNet,1
+14841,ILSVRC2012_val_00019913.png,ILSVRC2012_val_00019913,adversarial an old wooden bed with a dresser and a curtain,857,1,none,1,DAmageNet,1
+14844,ILSVRC2012_val_00004328.png,ILSVRC2012_val_00004328,adversarial a golden rocking chair with two lions on it,857,1,none,1,DAmageNet,1
+14864,ILSVRC2012_val_00022107.png,ILSVRC2012_val_00022107,adversarial a statue of a person standing outside of a building,860,1,none,1,DAmageNet,1
+14874,ILSVRC2012_val_00038235.png,ILSVRC2012_val_00038235,adversarial a painting of an elephant on a wooden bowl,861,1,none,1,DAmageNet,1
+14877,ILSVRC2012_val_00042685.png,ILSVRC2012_val_00042685,adversarial a person sitting in a toilet with their hand on a roll of toilet paper,861,1,none,1,DAmageNet,1
+14910,ILSVRC2012_val_00017180.png,ILSVRC2012_val_00017180,adversarial a display case of toys and clothes on a wall,865,1,few,1,DAmageNet,1
+14915,ILSVRC2012_val_00041033.png,ILSVRC2012_val_00041033,adversarial a picture of a tractor in a field,866,1,none,1,DAmageNet,1
+14923,ILSVRC2012_val_00015480.png,ILSVRC2012_val_00015480,adversarial a full moon in a purple sky over a farm at night,867,1,one,1,DAmageNet,1
+14927,ILSVRC2012_val_00034167.png,ILSVRC2012_val_00034167,adversarial a large semi truck driving down the road,867,1,one,1,DAmageNet,1
+14959,ILSVRC2012_val_00022507.png,ILSVRC2012_val_00022507,adversarial a small plane is flying over the ocean,871,1,none,1,DAmageNet,1
+14989,ILSVRC2012_val_00010269.png,ILSVRC2012_val_00010269,adversarial a person holding a trombone and a child in a stroller,875,1,none,1,DAmageNet,1
+15001,ILSVRC2012_val_00044552.png,ILSVRC2012_val_00044552,adversarial a staircase in a building with a lot of glass shelves,877,1,one,1,DAmageNet,1
+15048,ILSVRC2012_val_00018049.png,ILSVRC2012_val_00018049,adversarial a green vase with ice in it on a table,883,1,none,1,DAmageNet,1
+15060,ILSVRC2012_val_00019502.png,ILSVRC2012_val_00019502,adversarial a group of people sitting on a bench under a bridge,884,1,none,1,DAmageNet,1
+15061,ILSVRC2012_val_00049794.png,ILSVRC2012_val_00049794,adversarial an empty street in a city with white buildings,884,1,none,1,DAmageNet,1
+15073,ILSVRC2012_val_00023422.png,ILSVRC2012_val_00023422,adversarial a vending machine with pepsi and a dog on it,886,1,none,1,DAmageNet,1
+15081,ILSVRC2012_val_00013235.png,ILSVRC2012_val_00013235,adversarial two images of a cat in a vase,887,1,one,1,DAmageNet,1
+15122,ILSVRC2012_val_00014035.png,ILSVRC2012_val_00014035,adversarial a bunch of clocks on a white wall,892,1,few,1,DAmageNet,1
+15140,ILSVRC2012_val_00043210.png,ILSVRC2012_val_00043210,adversarial a tassel with fringe hanging from a door,894,1,none,1,DAmageNet,1
+15141,ILSVRC2012_val_00042474.png,ILSVRC2012_val_00042474,adversarial a closet filled with clothes hanging,894,1,none,1,DAmageNet,1
+15172,ILSVRC2012_val_00020977.png,ILSVRC2012_val_00020977,adversarial three bottles of water sitting next to each other,898,1,few,1,DAmageNet,1
+15177,ILSVRC2012_val_00005333.png,ILSVRC2012_val_00005333,adversarial a blue valve is sitting in a bucket of water,899,1,none,1,DAmageNet,1
+15192,ILSVRC2012_val_00042297.png,ILSVRC2012_val_00042297,adversarial a brown and white vase sitting on a table,901,1,one,1,DAmageNet,1
+15197,ILSVRC2012_val_00019348.png,ILSVRC2012_val_00019348,adversarial a brown bottle sitting on top of a table,901,1,one,1,DAmageNet,1
+15236,ILSVRC2012_val_00001181.png,ILSVRC2012_val_00001181,adversarial a man wearing a white shirt tying a tie,906,1,few,1,DAmageNet,1
+15246,ILSVRC2012_val_00022049.png,ILSVRC2012_val_00022049,adversarial two bottles of wine and a vase with roses on a table,907,1,none,1,DAmageNet,1
+15248,ILSVRC2012_val_00005783.png,ILSVRC2012_val_00005783,adversarial a view of the wing of an airplane flying above the clouds,908,1,none,1,DAmageNet,1
+15254,ILSVRC2012_val_00028274.png,ILSVRC2012_val_00028274,adversarial a small red and white plane parked on a field,908,1,none,1,DAmageNet,1
+15298,ILSVRC2012_val_00004515.png,ILSVRC2012_val_00004515,adversarial a sail boat on the water with two sails,914,1,one,1,DAmageNet,1
+15299,ILSVRC2012_val_00014591.png,ILSVRC2012_val_00014591,adversarial a man in a pink sail boat in the water,914,1,one,1,DAmageNet,1
+15310,ILSVRC2012_val_00021122.png,ILSVRC2012_val_00021122,adversarial a hippopotamus in front of three huts in the desert,915,1,none,1,DAmageNet,1
+15325,ILSVRC2012_val_00029708.png,ILSVRC2012_val_00029708,adversarial a bunch of anime boxes sitting on a table,917,1,few,1,DAmageNet,1
+15373,ILSVRC2012_val_00031247.png,ILSVRC2012_val_00031247,adversarial a close up of a plate of food with meat and greens,923,1,none,1,DAmageNet,1
+15379,ILSVRC2012_val_00034029.png,ILSVRC2012_val_00034029,adversarial a bowl of food with chips and guacamole,924,1,few,1,DAmageNet,1
+15398,ILSVRC2012_val_00038594.png,ILSVRC2012_val_00038594,adversarial two women sitting at a table with a pot of food,926,1,none,1,DAmageNet,1
+15410,ILSVRC2012_val_00014743.png,ILSVRC2012_val_00014743,adversarial four pictures of a dessert with cookies on it,928,1,none,1,DAmageNet,1
+15465,ILSVRC2012_val_00021770.png,ILSVRC2012_val_00021770,adversarial a close up of a piece of food on a plate,935,1,one,1,DAmageNet,1
+15476,ILSVRC2012_val_00015805.png,ILSVRC2012_val_00015805,adversarial a young boy holding a large watermelon on a bench,936,1,none,1,DAmageNet,1
+15484,ILSVRC2012_val_00038204.png,ILSVRC2012_val_00038204,adversarial a person holding a broccoli plant in their hand,937,1,none,1,DAmageNet,1
+15525,ILSVRC2012_val_00031873.png,ILSVRC2012_val_00031873,adversarial a orange being cut with a knife on a cutting board,942,1,none,1,DAmageNet,1
+15529,ILSVRC2012_val_00040986.png,ILSVRC2012_val_00040986,adversarial a man cutting up cucumbers at an outdoor market,943,1,none,1,DAmageNet,1
+15531,ILSVRC2012_val_00047407.png,ILSVRC2012_val_00047407,adversarial two white bowls filled with vegetables on a wooden table,943,1,none,1,DAmageNet,1
+15560,ILSVRC2012_val_00014405.png,ILSVRC2012_val_00014405,adversarial a close up of a white mushroom in the grass,947,1,none,1,DAmageNet,1
+15571,ILSVRC2012_val_00038187.png,ILSVRC2012_val_00038187,adversarial a group of green apples piled on top of each other,948,1,none,1,DAmageNet,1
+15584,ILSVRC2012_val_00032960.png,ILSVRC2012_val_00032960,adversarial a pile of oranges sitting next to each other,950,1,none,1,DAmageNet,1
+15624,ILSVRC2012_val_00035902.png,ILSVRC2012_val_00035902,adversarial two men sitting at a table with baskets of fruit,955,1,few,1,DAmageNet,1
+15654,ILSVRC2012_val_00015652.png,ILSVRC2012_val_00015652,adversarial a church on an island in the middle of a field,958,1,none,1,DAmageNet,1
+15695,ILSVRC2012_val_00049879.png,ILSVRC2012_val_00049879,adversarial a close up of a pizza with onions and other toppings,963,1,one,1,DAmageNet,1
+15730,ILSVRC2012_val_00003109.png,ILSVRC2012_val_00003109,adversarial a white cup of coffee on a table,968,1,one,1,DAmageNet,1
+15778,ILSVRC2012_val_00024710.png,ILSVRC2012_val_00024710,adversarial a geyser of water and steam erupting from the ground,974,1,none,1,DAmageNet,1
+15800,ILSVRC2012_val_00007262.png,ILSVRC2012_val_00007262,adversarial a group of people on a beach near the ocean,977,1,few,1,DAmageNet,1
+15805,ILSVRC2012_val_00000145.png,ILSVRC2012_val_00000145,adversarial a beach in the middle of a body of water,977,1,few,1,DAmageNet,1
+15812,ILSVRC2012_val_00015233.png,ILSVRC2012_val_00015233,adversarial a crowd of people on a beach,978,1,none,1,DAmageNet,1
+15863,ILSVRC2012_val_00014299.png,ILSVRC2012_val_00014299,adversarial a path through a field of yellow flowers,984,1,none,1,DAmageNet,1
+15884,ILSVRC2012_val_00000632.png,ILSVRC2012_val_00000632,adversarial a close up of a bunch of bananas on a plant,987,1,one,1,DAmageNet,1
+15919,ILSVRC2012_val_00026794.png,ILSVRC2012_val_00026794,adversarial a group of orange fungi growing in the grass,991,1,few,1,DAmageNet,1
+15932,ILSVRC2012_val_00006235.png,ILSVRC2012_val_00006235,adversarial a fungus growing on top of a mushroom in the grass,993,1,none,1,DAmageNet,1
+15933,ILSVRC2012_val_00006266.png,ILSVRC2012_val_00006266,adversarial an orange fungus on the ground in the grass,993,1,none,1,DAmageNet,1
+15981,ILSVRC2012_val_00005846.png,ILSVRC2012_val_00005846,adversarial a cat sitting on top of a pile of toilet paper,999,1,none,1,DAmageNet,1

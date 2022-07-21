@@ -1,0 +1,801 @@
+ids,caption,attack,shot_type,dataset
+0_image_0.png,an old person kisses a young person,0,0,winoground
+0_image_1.png,a young person kisses an old person,0,0,winoground
+100_image_0.png,the happy one is on the left and the upset one is on the right,0,0,winoground
+100_image_1.png,the upset one is on the left and the happy one is on the right,0,0,winoground
+101_image_0.png,fake mustache and real hair on head,0,0,winoground
+101_image_1.png,real mustache and fake hair on head,0,0,winoground
+102_image_0.png,real cat with toy baby,0,0,winoground
+102_image_1.png,toy cat with real baby,0,0,winoground
+103_image_0.png,the lion is loud and the lionness is quiet,0,0,winoground
+103_image_1.png,the lion is quiet and the lionness is loud,0,0,winoground
+104_image_0.png,there is a pink couch with green pillows,0,0,winoground
+104_image_1.png,there is a green couch with pink pillows,0,0,winoground
+105_image_0.png,light colored dog with dark colored cat,0,0,winoground
+105_image_1.png,dark colored dog with light colored cat,0,0,winoground
+106_image_0.png,someone is wearing a black hat and yellow shirt,0,0,winoground
+106_image_1.png,someone is wearing a yellow hat and black shirt,0,0,winoground
+107_image_0.png,black socks and orange shoes,0,0,winoground
+107_image_1.png,orange socks and black shoes,0,0,winoground
+108_image_0.png,red building with white shutters,0,0,winoground
+108_image_1.png,white building with red shutters,0,0,winoground
+109_image_0.png,blue pants and green top,0,0,winoground
+109_image_1.png,green pants and blue top,0,0,winoground
+10_image_0.png,the sail rests below the water,0,0,winoground
+10_image_1.png,the water rests below the sail,0,0,winoground
+110_image_0.png,there's one blue and many yellow balls,0,0,winoground
+110_image_1.png,there's one yellow and many blue balls,0,0,winoground
+111_image_0.png,there are more silver coins than gold coins,0,0,winoground
+111_image_1.png,there are more gold coins than silver coins,0,0,winoground
+112_image_0.png,the red team kicking the ball directly next to the blue team,0,0,winoground
+112_image_1.png,the blue team kicking the ball directly next to the red team,0,0,winoground
+113_image_0.png,black dog wearing a brown sweater,0,0,winoground
+113_image_1.png,brown dog wearing a black sweater,0,0,winoground
+114_image_0.png,one green apple surrounded by a bunch of red apples,0,0,winoground
+114_image_1.png,one red apple surrounded by a bunch of green apples,0,0,winoground
+115_image_0.png,person in white is reading the orange book,0,0,winoground
+115_image_1.png,person in orange is reading the white book,0,0,winoground
+116_image_0.png,the children are being quiet while the adult is loud,0,0,winoground
+116_image_1.png,the children are being loud while the adult is quiet,0,0,winoground
+117_image_0.png,the circular mirror is on the left and the rectangular mirror is on the right,0,0,winoground
+117_image_1.png,the rectangular mirror is on the left and the circular mirror is on the right,0,0,winoground
+118_image_0.png,circular food on heart-shaped wood,0,0,winoground
+118_image_1.png,heart-shaped food on circular wood,0,0,winoground
+119_image_0.png,the dress on the left is long and the dress on the right is short,0,0,winoground
+119_image_1.png,the dress on the left is short and the dress on the right is long,0,0,winoground
+11_image_0.png,there is a table below someone,0,0,winoground
+11_image_1.png,there is someone below a table,0,0,winoground
+120_image_0.png,the balloon in the middle has less air and the other balloons have more air,0,0,winoground
+120_image_1.png,the balloon in the middle has more air and the other balloons have less air,0,0,winoground
+121_image_0.png,the pool has no people and the area around it has a lot of people,0,0,winoground
+121_image_1.png,the pool has a lot of people and the area around it has no people,0,0,winoground
+122_image_0.png,big fish beside a small person,0,0,winoground
+122_image_1.png,small fish beside a big person,0,0,winoground
+123_image_0.png,the train is moving fast while the person is still,0,0,winoground
+123_image_1.png,the train is still while the person is moving fast,0,0,winoground
+124_image_0.png,they're enjoying hot water on a cold day,0,0,winoground
+124_image_1.png,they're enjoying cold water on a hot day,0,0,winoground
+125_image_0.png,concrete floors with wood walls,0,0,winoground
+125_image_1.png,wood floors with concrete walls,0,0,winoground
+126_image_0.png,the person on the left has curly hair and the person on the right has straight hair,0,0,winoground
+126_image_1.png,the person on the left has straight hair and the person on the right has curly hair,0,0,winoground
+127_image_0.png,there's a metal bottle with a plastic lid,0,0,winoground
+127_image_1.png,there's a plastic bottle with a metal lid,0,0,winoground
+128_image_0.png,the fruit is heavy while the junk food is light,0,0,winoground
+128_image_1.png,the fruit is light while the junk food is heavy,0,0,winoground
+129_image_0.png,the car is sitting upside down while the person is standing rightside up,0,0,winoground
+129_image_1.png,the car is sitting rightside up while the person is standing upside down,0,0,winoground
+12_image_0.png,the image shows a computer on top of books,0,0,winoground
+12_image_1.png,the image shows books on top of a computer,0,0,winoground
+130_image_0.png,the cup on the left is filled first and the cup on the right is filled second,0,0,winoground
+130_image_1.png,the cup on the left is filled second and the cup on the right is filled first,0,0,winoground
+131_image_0.png,milk cow,0,0,winoground
+131_image_1.png,cow milk,0,0,winoground
+132_image_0.png,there is a clock wall,0,0,winoground
+132_image_1.png,there is a wall clock,0,0,winoground
+133_image_0.png,there is a split banana,0,0,winoground
+133_image_1.png,there is a banana split,0,0,winoground
+134_image_0.png,there are two people and a bunch of horses,0,0,winoground
+134_image_1.png,there are a bunch of people and two horses,0,0,winoground
+135_image_0.png,three white and two brown eggs,0,0,winoground
+135_image_1.png,two white and three brown eggs,0,0,winoground
+136_image_0.png,the plastic is in the fish,0,0,winoground
+136_image_1.png,the fish is in the plastic,0,0,winoground
+137_image_0.png,the dog's paw is on the cat's face,0,0,winoground
+137_image_1.png,the cat's paw is on the dog's face,0,0,winoground
+138_image_0.png,the computer's screen is on and the phone's screen is off,0,0,winoground
+138_image_1.png,the phone's screen is on and the computer's screen is off,0,0,winoground
+139_image_0.png,the dog is in the driver's seat and the person is in the passenger's seat,0,0,winoground
+139_image_1.png,the dog is in the passenger's seat and the person is in the driver's seat,0,0,winoground
+13_image_0.png,a caterpillar with some plants,0,0,winoground
+13_image_1.png,a plant with some caterpillars,0,0,winoground
+140_image_0.png,there are more trees than people,0,0,winoground
+140_image_1.png,there are more people than trees,0,0,winoground
+141_image_0.png,there are more computers than people,0,0,winoground
+141_image_1.png,there are more people than computers,0,0,winoground
+142_image_0.png,there is more wood than metal,0,0,winoground
+142_image_1.png,there is more metal than wood,0,0,winoground
+143_image_0.png,there are more hats than people,0,0,winoground
+143_image_1.png,there are more people than hats,0,0,winoground
+144_image_0.png,there are more people than stools,0,0,winoground
+144_image_1.png,there are more stools than people,0,0,winoground
+145_image_0.png,there is more red wine than white wine,0,0,winoground
+145_image_1.png,there is more white wine than red wine,0,0,winoground
+146_image_0.png,there's more milk than coffee,0,0,winoground
+146_image_1.png,there's more coffee than milk,0,0,winoground
+147_image_0.png,there's more cereal in the bowl than milk,0,0,winoground
+147_image_1.png,there's more milk in the bowl than cereal,0,0,winoground
+148_image_0.png,boat sail,0,0,winoground
+148_image_1.png,sail boat,0,0,winoground
+149_image_0.png,boat house,0,0,winoground
+149_image_1.png,house boat,0,0,winoground
+14_image_0.png,there is a mug in some grass,0,0,winoground
+14_image_1.png,there is some grass in a mug,0,0,winoground
+150_image_0.png,check a rip,0,0,winoground
+150_image_1.png,rip a check,0,0,winoground
+151_image_0.png,dress the display,0,0,winoground
+151_image_1.png,display the dress,0,0,winoground
+152_image_0.png,spoon holding honey,0,0,winoground
+152_image_1.png,honey holding spoon,0,0,winoground
+153_image_0.png,books holding up a person,0,0,winoground
+153_image_1.png,a person holding up books,0,0,winoground
+154_image_0.png,a dog is using a wheelchair next to a person,0,0,winoground
+154_image_1.png,a person is using a wheelchair next to a dog,0,0,winoground
+155_image_0.png,some plants surrounding a lightbulb,0,0,winoground
+155_image_1.png,a lightbulb surrounding some plants,0,0,winoground
+156_image_0.png,a more lightly-colored dog is holding a toy next to a black dog,0,0,winoground
+156_image_1.png,a black dog is holding a toy next to a more lightly-colored dog,0,0,winoground
+157_image_0.png,the flowers are taller than the people,0,0,winoground
+157_image_1.png,the people are taller than the flowers,0,0,winoground
+158_image_0.png,there's a human in a stroller next to a dog,0,0,winoground
+158_image_1.png,there's a dog in a stroller next to a human,0,0,winoground
+159_image_0.png,a person is casting a shadow beside a ball,0,0,winoground
+159_image_1.png,a ball is casting a shadow beside a person,0,0,winoground
+15_image_0.png,there are more skiers than snowboarders,0,0,winoground
+15_image_1.png,there are more snowboarders than skiers,0,0,winoground
+160_image_0.png,its tail is shorter than its body,0,0,winoground
+160_image_1.png,its body is shorter than its tail,0,0,winoground
+161_image_0.png,the child is throwing the adult the ball,0,0,winoground
+161_image_1.png,the adult is throwing the child the ball,0,0,winoground
+162_image_0.png,a person underneath lights,0,0,winoground
+162_image_1.png,lights underneath a person,0,0,winoground
+163_image_0.png,some green on the ball,0,0,winoground
+163_image_1.png,the ball on some green,0,0,winoground
+164_image_0.png,mind in the clouds,0,0,winoground
+164_image_1.png,clouds in the mind,0,0,winoground
+165_image_0.png,there's a phone on a map,0,0,winoground
+165_image_1.png,there's a map on a phone,0,0,winoground
+166_image_0.png,a person on a rock next to a dog,0,0,winoground
+166_image_1.png,a dog on a rock next to a person,0,0,winoground
+167_image_0.png,an adult is flexing beside a child,0,0,winoground
+167_image_1.png,a child is flexing beside an adult,0,0,winoground
+168_image_0.png,the person is looking at the dog,0,0,winoground
+168_image_1.png,the dog is looking at the person,0,0,winoground
+169_image_0.png,a cat is underneath a red blanket,0,0,winoground
+169_image_1.png,a red blanket is underneath a cat,0,0,winoground
+16_image_0.png,there are fewer forks than spoons,0,0,winoground
+16_image_1.png,there are fewer spoons than forks,0,0,winoground
+170_image_0.png,the person is bigger than the house,0,0,winoground
+170_image_1.png,the house is bigger than the person,0,0,winoground
+171_image_0.png,the person is underneath the car,0,0,winoground
+171_image_1.png,the car is underneath the person,0,0,winoground
+172_image_0.png,the water is filled with plastic,0,0,winoground
+172_image_1.png,the plastic is filled with water,0,0,winoground
+173_image_0.png,an apple is on a target,0,0,winoground
+173_image_1.png,a target is on an apple,0,0,winoground
+174_image_0.png,plant made out of a light bulb,0,0,winoground
+174_image_1.png,light bulb made out of a plant,0,0,winoground
+175_image_0.png,parent pointing at child,0,0,winoground
+175_image_1.png,child pointing at parent,0,0,winoground
+176_image_0.png,the person reached the base before the ball,0,0,winoground
+176_image_1.png,the ball reached the base before the person,0,0,winoground
+177_image_0.png,ice being dumped on top of fish,0,0,winoground
+177_image_1.png,fish being dumped on top of ice,0,0,winoground
+178_image_0.png,an adult kisses a child,0,0,winoground
+178_image_1.png,a child kisses an adult,0,0,winoground
+179_image_0.png,there's a dog in a mask and a person beside it,0,0,winoground
+179_image_1.png,there's a dog and a person in a mask beside it,0,0,winoground
+17_image_0.png,there are more ladybugs than flowers,0,0,winoground
+17_image_1.png,there are more flowers than ladybugs,0,0,winoground
+180_image_0.png,the baby on the phone is next to an adult,0,0,winoground
+180_image_1.png,the baby is next to an adult on the phone,0,0,winoground
+181_image_0.png,the person on the left has their arms up and the person on the right has their arms down,0,0,winoground
+181_image_1.png,the person on the right has their arms up and the person on the left has their arms down,0,0,winoground
+182_image_0.png,the person on the left is holding the phone and the person on the right is staring at it,0,0,winoground
+182_image_1.png,the person on the right is holding the phone and the person on the left is staring at it,0,0,winoground
+183_image_0.png,the orange on the left is moldy while the orange on the right is fresh,0,0,winoground
+183_image_1.png,the orange on the right is moldy while the orange on the left is fresh,0,0,winoground
+184_image_0.png,a pink scoop of ice cream on top and a blue scoop on bottom,0,0,winoground
+184_image_1.png,a pink scoop of ice cream on bottom and a blue scoop on top,0,0,winoground
+185_image_0.png,the glasses on the right are fuller than the glasses on the left,0,0,winoground
+185_image_1.png,the glasses on the left are fuller than the glasses on the right,0,0,winoground
+186_image_0.png,the person on the left is blowing bubbles and the person on the right is watching,0,0,winoground
+186_image_1.png,the person on the right is blowing bubbles and the person on the left is watching,0,0,winoground
+187_image_0.png,there's more foam on the left than on the right,0,0,winoground
+187_image_1.png,there's more foam on the right than on the left,0,0,winoground
+188_image_0.png,a fish is jumping from left to right,0,0,winoground
+188_image_1.png,a fish is jumping from right to left,0,0,winoground
+189_image_0.png,they worked out then they drank water,0,0,winoground
+189_image_1.png,they drank water then they worked out,0,0,winoground
+18_image_0.png,there is less orange juice than milk,0,0,winoground
+18_image_1.png,there is less milk than orange juice,0,0,winoground
+190_image_0.png,the shrimp are peeled then the shrimp are cooked,0,0,winoground
+190_image_1.png,the shrimp are cooked then the shrimp are peeled,0,0,winoground
+191_image_0.png,the coffee is poured before it is ground,0,0,winoground
+191_image_1.png,it is ground before the coffee is poured,0,0,winoground
+192_image_0.png,the potato is washed and then it is cut,0,0,winoground
+192_image_1.png,the potato is cut and then it is washed,0,0,winoground
+193_image_0.png,the banana is peeled then it is sliced,0,0,winoground
+193_image_1.png,the banana is sliced then it is peeled,0,0,winoground
+194_image_0.png,the dog is swimming and the person is standing,0,0,winoground
+194_image_1.png,the dog is standing and the person is swimming,0,0,winoground
+195_image_0.png,the person is jumping while the cat is sitting,0,0,winoground
+195_image_1.png,the person is sitting while the cat is jumping,0,0,winoground
+196_image_0.png,a cat is lying down and a person is stretching,0,0,winoground
+196_image_1.png,a cat is stretching and a person is lying down,0,0,winoground
+197_image_0.png,some people are standing but more are sitting,0,0,winoground
+197_image_1.png,some people are sitting but more are standing,0,0,winoground
+198_image_0.png,The kid throws the pancake and the adult sees it,0,0,winoground
+198_image_1.png,The kids see the pancake and the adult throws it,0,0,winoground
+199_image_0.png,painting gray walls white,0,0,winoground
+199_image_1.png,painting white walls gray,0,0,winoground
+19_image_0.png,there is more dirt than empty space in the jar,0,0,winoground
+19_image_1.png,there is more empty space than dirt in the jar,0,0,winoground
+1_image_0.png,the taller person hugs the shorter person,0,0,winoground
+1_image_1.png,the shorter person hugs the taller person,0,0,winoground
+200_image_0.png,a shorter person wearing blue standing next to a taller person,0,0,winoground
+200_image_1.png,a taller person wearing blue standing next to a shorter person,0,0,winoground
+201_image_0.png,a person wearing a bear mask in blue on the left hand side of a person wearing a panda mask with glasses in pink,0,0,winoground
+201_image_1.png,a person wearing a panda mask with glasses in blue on the left hand side of a person wearing a bear mask in pink,0,0,winoground
+202_image_0.png,a car containing many a box,0,0,winoground
+202_image_1.png,a box containing many a car,0,0,winoground
+203_image_0.png,left is red and right is blue,0,0,winoground
+203_image_1.png,left is blue and right is red,0,0,winoground
+204_image_0.png,"many a table tennis racket, just one ball",0,0,winoground
+204_image_1.png,"just one table tennis racket, many a ball",0,0,winoground
+205_image_0.png,"four lions, no tigers",0,0,winoground
+205_image_1.png,"no lions, four tigers",0,0,winoground
+206_image_0.png,a small spherical object is heavier than a big spherical object,0,0,winoground
+206_image_1.png,a big spherical object is heavier than a small spherical object,0,0,winoground
+207_image_0.png,an older person blocking a younger person,0,0,winoground
+207_image_1.png,a younger person blocking an older person,0,0,winoground
+208_image_0.png,white land and black water,0,0,winoground
+208_image_1.png,black land and white water,0,0,winoground
+209_image_0.png,the cube is smaller than the shape whose lateral faces meet at a vertex,0,0,winoground
+209_image_1.png,the shape whose lateral faces meet at a vertex is smaller than the cube,0,0,winoground
+20_image_0.png,there is a bit less milk chocolate than white chocolate,0,0,winoground
+20_image_1.png,there is a bit less white chocolate than milk chocolate,0,0,winoground
+210_image_0.png,more bicycles than cars,0,0,winoground
+210_image_1.png,more cars than bicycles,0,0,winoground
+211_image_0.png,there are more apples than pears,0,0,winoground
+211_image_1.png,there are more pears than apples,0,0,winoground
+212_image_0.png,there is more love than hate,0,0,winoground
+212_image_1.png,there is more hate than love,0,0,winoground
+213_image_0.png,more water than oil,0,0,winoground
+213_image_1.png,more oil than water,0,0,winoground
+214_image_0.png,a person cries while another person wearing jewelry above their shoulders consoles,0,0,winoground
+214_image_1.png,a person consoles while another person wearing jewelry above their shoulders cries,0,0,winoground
+215_image_0.png,a person with long hair eating a meat-based product while a person with short hair snacks on some fries,0,0,winoground
+215_image_1.png,a person with short hair eating a meat-based product while a person with long hair snacks on some fries,0,0,winoground
+216_image_0.png,water below the boat,0,0,winoground
+216_image_1.png,boat below the water,0,0,winoground
+217_image_0.png,the one in front is faster than the other one,0,0,winoground
+217_image_1.png,the other one is faster than the one in front,0,0,winoground
+218_image_0.png,You can catch more flies with honey than you can with vinegar,0,0,winoground
+218_image_1.png,You can catch more flies with vinegar than you can with honey,0,0,winoground
+219_image_0.png,"It starts with ""A"" and ends with ""Z""",0,0,winoground
+219_image_1.png,"It starts with ""Z"" and ends with ""A""",0,0,winoground
+21_image_0.png,a person sits and a dog stands,0,0,winoground
+21_image_1.png,a person stands and a dog sits,0,0,winoground
+220_image_0.png,a shadow within the line,0,0,winoground
+220_image_1.png,a line within the shadow,0,0,winoground
+221_image_0.png,the brave in the face of fear,0,0,winoground
+221_image_1.png,fear in the face of the brave,0,0,winoground
+222_image_0.png,I need my strength back,0,0,winoground
+222_image_1.png,I need my back strength,0,0,winoground
+223_image_0.png,the one in the middle is taller than the ones on the side are,0,0,winoground
+223_image_1.png,the ones on the side are taller than the one in the middle is,0,0,winoground
+224_image_0.png,fish flying,0,0,winoground
+224_image_1.png,fly fishing,0,0,winoground
+225_image_0.png,the red car is behind the blue car,0,0,winoground
+225_image_1.png,the blue car is behind the red car,0,0,winoground
+226_image_0.png,the driver wearing a shirt is in front of the other person wearing a sleeveless top,0,0,winoground
+226_image_1.png,the driver wearing a sleeveless top is in front of the other person wearing a shirt,0,0,winoground
+227_image_0.png,an object that rolls is on some wood,0,0,winoground
+227_image_1.png,some wood is on an object that rolls,0,0,winoground
+228_image_0.png,a cat viewing a human on a screen,0,0,winoground
+228_image_1.png,a human viewing a cat on a screen,0,0,winoground
+229_image_0.png,a normal person wishing they were a superhero,0,0,winoground
+229_image_1.png,a superhero wishing they were a normal person,0,0,winoground
+22_image_0.png,The person with more facial hair lies awake while the other sleeps,0,0,winoground
+22_image_1.png,The person with more facial hair sleeps while the other lies awake,0,0,winoground
+230_image_0.png,a mike in the right hand while raising the left,0,0,winoground
+230_image_1.png,a mike in the left hand while raising the right,0,0,winoground
+231_image_0.png,a person with long hair behind a person with a beard,0,0,winoground
+231_image_1.png,a person with a beard behind a person with long hair,0,0,winoground
+232_image_0.png,the person with hair to their shoulders has brown eyes and the other person's are blue,0,0,winoground
+232_image_1.png,the person with hair to their shoulders has blue eyes and the other person's are brown,0,0,winoground
+233_image_0.png,a human being on a device that intercepts the sun's rays,0,0,winoground
+233_image_1.png,a device that intercepts the sun's rays on a human being,0,0,winoground
+234_image_0.png,more humans than phones,0,0,winoground
+234_image_1.png,more phones than humans,0,0,winoground
+235_image_0.png,a person is in the tube,0,0,winoground
+235_image_1.png,a tube is in the person,0,0,winoground
+236_image_0.png,the person's head is above the rest of their body,0,0,winoground
+236_image_1.png,the rest of their body is above the person's head,0,0,winoground
+237_image_0.png,person overboard,0,0,winoground
+237_image_1.png,person over board,0,0,winoground
+238_image_0.png,more red buttons than blue,0,0,winoground
+238_image_1.png,more blue buttons than red,0,0,winoground
+239_image_0.png,the object at the top left is purple and the one at the bottom right of the group is red,0,0,winoground
+239_image_1.png,the object at the bottom right is purple and the one at the top left of the group is red,0,0,winoground
+23_image_0.png,the person in the middle is floating and some others are standing,0,0,winoground
+23_image_1.png,the person in the middle is standing and some others are floating,0,0,winoground
+240_image_0.png,flat at the bottom and pointy on top,0,0,winoground
+240_image_1.png,flat on top and pointy at the bottom,0,0,winoground
+241_image_0.png,seat numbers increasing from left to right,0,0,winoground
+241_image_1.png,seat numbers increasing from right to left,0,0,winoground
+242_image_0.png,the number on the right is larger than the number on the left,0,0,winoground
+242_image_1.png,the number on the left is larger than the number on the right,0,0,winoground
+243_image_0.png,more hair on the person's face than on their head,0,0,winoground
+243_image_1.png,more hair on the person's head than on their face,0,0,winoground
+244_image_0.png,the knife on the left and the fork on the right,0,0,winoground
+244_image_1.png,the knife on the right and the fork on the left,0,0,winoground
+245_image_0.png,food on their eyes,0,0,winoground
+245_image_1.png,eyes on their food,0,0,winoground
+246_image_0.png,cars of bits,0,0,winoground
+246_image_1.png,bits of cars,0,0,winoground
+247_image_0.png,a person on top of the world,0,0,winoground
+247_image_1.png,the world on top of a person,0,0,winoground
+248_image_0.png,two people; the one on the right has curly hair and the one on the left doesn't,0,0,winoground
+248_image_1.png,two people; the one on the left has curly hair and the one on the right doesn't,0,0,winoground
+249_image_0.png,"first the cream, then the jam",0,0,winoground
+249_image_1.png,"first the jam, then the cream",0,0,winoground
+24_image_0.png,the person closer to the camera weightlifts and the person farther from the camera runs,0,0,winoground
+24_image_1.png,the person closer to the camera runs and the person farther from the camera weightlifts,0,0,winoground
+250_image_0.png,more kisses than hugs,0,0,winoground
+250_image_1.png,more hugs than kisses,0,0,winoground
+251_image_0.png,an inflatable flamingo on a person,0,0,winoground
+251_image_1.png,a person on an inflatable flamingo,0,0,winoground
+252_image_0.png,a pink bird with a white beak,0,0,winoground
+252_image_1.png,a white bird with a pink beak,0,0,winoground
+253_image_0.png,a large pink inflatable flamingo along with some other lilos on the water including one that is mostly white,0,0,winoground
+253_image_1.png,a large white inflatable flamingo along with some other lilos on the water including one that is mostly pink,0,0,winoground
+254_image_0.png,there are more eyes in the image than there are on a typical human,0,0,winoground
+254_image_1.png,there are more eyes on a typical human than there are in the image,0,0,winoground
+255_image_0.png,"the confident doctor's stethoscope is around their neck, and their jacket is over their name tag",0,0,winoground
+255_image_1.png,"the confident doctor's stethoscope is around their neck, and their name tag is over their jacket",0,0,winoground
+256_image_0.png,few wind turbines and many clouds,0,0,winoground
+256_image_1.png,few clouds and many wind turbines,0,0,winoground
+257_image_0.png,an adult is reading to their young child,0,0,winoground
+257_image_1.png,their young child is reading to an adult,0,0,winoground
+258_image_0.png,the shopping basket is full and the shelves on the person's right are empty,0,0,winoground
+258_image_1.png,the shelves on the person's right are full and the shopping basket is empty,0,0,winoground
+259_image_0.png,Young person playing baseball with a green bat and blue ball,0,0,winoground
+259_image_1.png,Young person playing baseball with a blue bat and green ball,0,0,winoground
+25_image_0.png,the person with the white collared shirt waters the plant while the other holds it,0,0,winoground
+25_image_1.png,the person with the white collared shirt holds the plant while the other waters it,0,0,winoground
+260_image_0.png,painting the white wall red,0,0,winoground
+260_image_1.png,painting the red wall white,0,0,winoground
+261_image_0.png,wearing a red jacket over blue,0,0,winoground
+261_image_1.png,wearing a blue jacket over red,0,0,winoground
+262_image_0.png,I had cleaned my car,0,0,winoground
+262_image_1.png,I had my car cleaned,0,0,winoground
+263_image_0.png,unfortunate poor people,0,0,winoground
+263_image_1.png,poor unfortunate people,0,0,winoground
+264_image_0.png,there are less gloves than masks,0,0,winoground
+264_image_1.png,there are less masks than gloves,0,0,winoground
+265_image_0.png,there are more pineapples than boxes,0,0,winoground
+265_image_1.png,there are more boxes than pineapples,0,0,winoground
+266_image_0.png,the outer bristles are blue and the inner ones are white,0,0,winoground
+266_image_1.png,the outer bristles are white and the inner ones are blue,0,0,winoground
+267_image_0.png,the first vowel is E and the last consonant is N,0,0,winoground
+267_image_1.png,the last vowel is E and the first consonant is N,0,0,winoground
+268_image_0.png,the cat on the left of the photo has its right paw ahead of its left,0,0,winoground
+268_image_1.png,the cat on the left of the photo has its left paw ahead of its right,0,0,winoground
+269_image_0.png,the text is black on white,0,0,winoground
+269_image_1.png,the text is white on black,0,0,winoground
+26_image_0.png,the taller person chops food and the shorter person eats food,0,0,winoground
+26_image_1.png,the taller person eats food and the shorter person chops food,0,0,winoground
+270_image_0.png,the dog sits and the cat stands,0,0,winoground
+270_image_1.png,the dog stands and the cat sits,0,0,winoground
+271_image_0.png,the person with facial hair cycles and the other person runs,0,0,winoground
+271_image_1.png,the person with facial hair runs and the other person cycles,0,0,winoground
+272_image_0.png,using the laptop while the guitar is close by,0,0,winoground
+272_image_1.png,using the guitar while the laptop is close by,0,0,winoground
+273_image_0.png,a person in a blue coat with a brown-ish coffee cup,0,0,winoground
+273_image_1.png,a person in a brown-ish coat with a blue coffee cup,0,0,winoground
+274_image_0.png,space in a star,0,0,winoground
+274_image_1.png,a star in space,0,0,winoground
+275_image_0.png,star of death,0,0,winoground
+275_image_1.png,death of star,0,0,winoground
+276_image_0.png,the younger person is making noise while the other is silent,0,0,winoground
+276_image_1.png,the younger person is silent while the other is making noise,0,0,winoground
+277_image_0.png,the one on the left is happy and the other is sad,0,0,winoground
+277_image_1.png,the one on the left is sad and the other is happy,0,0,winoground
+278_image_0.png,the person on the left is dancing and the person on the very right is sitting on the sofa,0,0,winoground
+278_image_1.png,the person on the left is sitting on the sofa and the person on the very right is dancing,0,0,winoground
+279_image_0.png,the person on the left is crying sadly while the one on the right is smiling happily,0,0,winoground
+279_image_1.png,the person on the left is smiling happily while the one on the right is crying sadly,0,0,winoground
+27_image_0.png,the person with the ponytail packs stuff and other buys it,0,0,winoground
+27_image_1.png,the person with the ponytail buys stuff and other packs it,0,0,winoground
+280_image_0.png,the large person is drinking from the small coffee cup,0,0,winoground
+280_image_1.png,the small person is drinking from the large coffee cup,0,0,winoground
+281_image_0.png,hot rubber and cool metal,0,0,winoground
+281_image_1.png,cool rubber and hot metal,0,0,winoground
+282_image_0.png,the triangular shape is beneath the square one,0,0,winoground
+282_image_1.png,the square shape is beneath the triangular one,0,0,winoground
+283_image_0.png,rough outside but smooth inside,0,0,winoground
+283_image_1.png,smooth outside but rough inside,0,0,winoground
+284_image_0.png,the green one is fast and the one in white is comparatively slow,0,0,winoground
+284_image_1.png,the green one is slow and the one in white is comparatively fast,0,0,winoground
+285_image_0.png,there are more humans than balls,0,0,winoground
+285_image_1.png,there are more balls than humans,0,0,winoground
+286_image_0.png,there are more legs than wheels,0,0,winoground
+286_image_1.png,there are more wheels than legs,0,0,winoground
+287_image_0.png,a group of three people with longer hair and two with short hair in a business context,0,0,winoground
+287_image_1.png,a group of two people with longer hair and three with short hair in a business context,0,0,winoground
+288_image_0.png,the gesture of the person sitting down is supporting the understanding of the person standing up,0,0,winoground
+288_image_1.png,the gesture of the person standing up is supporting the understanding of the person sitting down,0,0,winoground
+289_image_0.png,the circle is above the cross,0,0,winoground
+289_image_1.png,the cross is above the circle,0,0,winoground
+28_image_0.png,a person walking in a field of yellow flowers with a red dress,0,0,winoground
+28_image_1.png,a person walking in a field of red flowers with a yellow dress,0,0,winoground
+290_image_0.png,aerial view of a green tree in the brown freshly turned soil next to a green field,0,0,winoground
+290_image_1.png,aerial view of a green tree in a green field next to the brown freshly turned soil,0,0,winoground
+291_image_0.png,physical therapist inspecting blue elastic therapeutic kinesio tape over pink,0,0,winoground
+291_image_1.png,physical therapist inspecting pink elastic therapeutic kinesio tape over blue,0,0,winoground
+292_image_0.png,the skipping rope color is different to the shoelaces but similar to the shoes,0,0,winoground
+292_image_1.png,the skipping rope color is similar to the shoelaces but different to the shoes,0,0,winoground
+293_image_0.png,the blue balloon is being lifted by the weight,0,0,winoground
+293_image_1.png,the weight is being lifted by the blue balloon,0,0,winoground
+294_image_0.png,the sea is rough but the rocks are smooth,0,0,winoground
+294_image_1.png,the sea is smooth but the rocks are rough,0,0,winoground
+295_image_0.png,the melting white food is cold while the brown is warm,0,0,winoground
+295_image_1.png,the melting white food is warm while the brown is cold,0,0,winoground
+296_image_0.png,the person with a beard is smiling while the person with long hair is not,0,0,winoground
+296_image_1.png,the person with long hair is smiling while the person with a beard is not,0,0,winoground
+297_image_0.png,the pet on the right is white and the one on the left is not,0,0,winoground
+297_image_1.png,the pet on the left is white and the one on the right is not,0,0,winoground
+298_image_0.png,the outlet carrying water from the faucet to the shower head is near the hot tap not the cold,0,0,winoground
+298_image_1.png,the outlet carrying water from the faucet to the shower head is near the cold tap not the hot,0,0,winoground
+299_image_0.png,the larger ball is heavier and the smaller one is lighter,0,0,winoground
+299_image_1.png,the larger ball is lighter and the smaller one is heavier,0,0,winoground
+29_image_0.png,a brown dog is on a white couch,0,0,winoground
+29_image_1.png,a white dog is on a brown couch,0,0,winoground
+2_image_0.png,the masked wrestler hits the unmasked wrestler,0,0,winoground
+2_image_1.png,the unmasked wrestler hits the masked wrestler,0,0,winoground
+300_image_0.png,The adult with the magnifying glass looks at the kid,0,0,winoground
+300_image_1.png,The adult looks at the kid with the magnifying glass,0,0,winoground
+301_image_0.png,a dog is on a blanket with spots,0,0,winoground
+301_image_1.png,a blanket is on a dog with spots,0,0,winoground
+302_image_0.png,There is a mouse cake for a birthday,0,0,winoground
+302_image_1.png,There is a birthday cake for a mouse,0,0,winoground
+303_image_0.png,The cold-blooded animal isn't happy in warm water,0,0,winoground
+303_image_1.png,The warm-blooded animal isn't happy in cold water,0,0,winoground
+304_image_0.png,The white queen is taking the black king,0,0,winoground
+304_image_1.png,The black queen is taking the white king,0,0,winoground
+305_image_0.png,visiting animals at home can be fun,0,0,winoground
+305_image_1.png,animals visiting at home can be fun,0,0,winoground
+306_image_0.png,the person is not happy with the cat,0,0,winoground
+306_image_1.png,the cat is not happy with the person,0,0,winoground
+307_image_0.png,the person is too big for the small door,0,0,winoground
+307_image_1.png,the door is too small for the big person,0,0,winoground
+308_image_0.png,a taller person is covering the eyes of a shorter person,0,0,winoground
+308_image_1.png,a shorter person is covering the eyes of a taller person,0,0,winoground
+309_image_0.png,the plant is eating the bug,0,0,winoground
+309_image_1.png,the bug is eating the plant,0,0,winoground
+30_image_0.png,a blue bird is next to a red berry,0,0,winoground
+30_image_1.png,a red bird is next to a blue berry,0,0,winoground
+310_image_0.png,every bug has a leaf,0,0,winoground
+310_image_1.png,every leaf has a bug,0,0,winoground
+311_image_0.png,the green leaves will soon be red as the seasons change,0,0,winoground
+311_image_1.png,the red leaves will soon be green as the seasons change,0,0,winoground
+312_image_0.png,the white wall will soon be painted blue,0,0,winoground
+312_image_1.png,the blue wall will soon be painted white,0,0,winoground
+313_image_0.png,the moon prevents the sun's rays from falling on the earth,0,0,winoground
+313_image_1.png,the earth prevents the sun's rays from falling on the moon,0,0,winoground
+314_image_0.png,all paper airplanes fly on a straight path except for one which takes a curved one,0,0,winoground
+314_image_1.png,all paper airplanes fly on a curved path except for one which takes a straight one,0,0,winoground
+315_image_0.png,the person is too big for the pants,0,0,winoground
+315_image_1.png,the pants is too big for the person,0,0,winoground
+316_image_0.png,a kid jumped then threw a basketball,0,0,winoground
+316_image_1.png,a kid threw a basketball then jumped,0,0,winoground
+317_image_0.png,one cheerlearder supporting multiple cheerleaders,0,0,winoground
+317_image_1.png,multiple cheerleaders supporting one cheerlearder,0,0,winoground
+318_image_0.png,two persons wearing one scarf,0,0,winoground
+318_image_1.png,one person wearing two scarfs,0,0,winoground
+319_image_0.png,human head on pet,0,0,winoground
+319_image_1.png,pet head on human,0,0,winoground
+31_image_0.png,The red book is above the yellow book and below the blue book,0,0,winoground
+31_image_1.png,The yellow book is above the blue book and below the red book,0,0,winoground
+320_image_0.png,the cow is over the moon,0,0,winoground
+320_image_1.png,the moon is over the cow,0,0,winoground
+321_image_0.png,someone babys a pet,0,0,winoground
+321_image_1.png,someone pets a baby,0,0,winoground
+322_image_0.png,cat house,0,0,winoground
+322_image_1.png,house cat,0,0,winoground
+323_image_0.png,gold for pan,0,0,winoground
+323_image_1.png,pan for gold,0,0,winoground
+324_image_0.png,water for plants,0,0,winoground
+324_image_1.png,plants for water,0,0,winoground
+325_image_0.png,the businessperson's down fall,0,0,winoground
+325_image_1.png,the businessperson's fall down,0,0,winoground
+326_image_0.png,outswam the person in the red swimcap,0,0,winoground
+326_image_1.png,the person in the red swimcap swamout,0,0,winoground
+327_image_0.png,manning a ship,0,0,winoground
+327_image_1.png,shiping a mann,0,0,winoground
+328_image_0.png,the person wearing a sweater stands in front of the person who isn't wearing a sweater,0,0,winoground
+328_image_1.png,the person who isn't wearing a sweater stands in front of the person wearing a sweater,0,0,winoground
+329_image_0.png,a person without glasses pushes a person with glasses sitting in a box,0,0,winoground
+329_image_1.png,a person with glasses pushes a person without glasses sitting in a box,0,0,winoground
+32_image_0.png,astronauts in blue suits with a red planet in the background,0,0,winoground
+32_image_1.png,astronauts in red suits with a blue planet in the background,0,0,winoground
+330_image_0.png,what is green will soon be yellow,0,0,winoground
+330_image_1.png,what is yellow will soon be green,0,0,winoground
+331_image_0.png,soon this animal not with a tail will have one,0,0,winoground
+331_image_1.png,soon this animal with a tail will not have one,0,0,winoground
+332_image_0.png,a mouse is touching a dog,0,0,winoground
+332_image_1.png,a dog is touching a mouse,0,0,winoground
+333_image_0.png,fishing for compliments,0,0,winoground
+333_image_1.png,compliments for fishing,0,0,winoground
+334_image_0.png,that person dusting off their hands,0,0,winoground
+334_image_1.png,that person hands off their dusting,0,0,winoground
+335_image_0.png,a person wearing black shoes cleaning a bookshelf with an orange duster while a person wearing green shoes drinks wine from an orange glass and relaxes,0,0,winoground
+335_image_1.png,a person wearing green shoes cleaning a bookshelf with an orange duster while a person wearing black shoes drinks wine from an orange glass and relaxes,0,0,winoground
+336_image_0.png,a person with short hair is happily ironing a light blue shirt while a person with long hair sits on a white couch,0,0,winoground
+336_image_1.png,a person with long hair is happily ironing a light blue shirt while a person with short hair sits on a white couch,0,0,winoground
+337_image_0.png,yellow duck shoes on,0,0,winoground
+337_image_1.png,yellow duck on shoes,0,0,winoground
+338_image_0.png,child in front facing row of yellow rubber ducks,0,0,winoground
+338_image_1.png,front facing child in row of yellow rubber ducks,0,0,winoground
+339_image_0.png,a bird cooking a person,0,0,winoground
+339_image_1.png,a person cooking a bird,0,0,winoground
+33_image_0.png,the square table has a round base,0,0,winoground
+33_image_1.png,the round table has a square base,0,0,winoground
+340_image_0.png,a person wearing yellow and a person wearing stripes jumping,0,0,winoground
+340_image_1.png,a jumping person wearing yellow and a person wearing stripes,0,0,winoground
+341_image_0.png,a person wearing yellow with their feet in the air and a person wearing stripes,0,0,winoground
+341_image_1.png,a person wearing stripes with their feet in the air and a person wearing yellow,0,0,winoground
+342_image_0.png,darker things become light in stripes,0,0,winoground
+342_image_1.png,light things in stripes become darker,0,0,winoground
+343_image_0.png,together hammering something,0,0,winoground
+343_image_1.png,hammering something together,0,0,winoground
+344_image_0.png,A person sits next to a baby using an orange screwdriver to assemble a white piece of furniture,0,0,winoground
+344_image_1.png,A baby sits next to a person using an orange screwdriver to assemble a white piece of furniture,0,0,winoground
+345_image_0.png,a worker in a yellow hat uses a drill to the left of where the opening in the wall is,0,0,winoground
+345_image_1.png,the opening in the wall is to the left of where a worker in a yellow hat uses a drill,0,0,winoground
+346_image_0.png,A small animal with curled hair,0,0,winoground
+346_image_1.png,A curled small animal with hair,0,0,winoground
+347_image_0.png,A right hand pulls a glove onto a left hand,0,0,winoground
+347_image_1.png,A left hand pulls a glove onto a right hand,0,0,winoground
+348_image_0.png,A dog and a person with their feet hanging out of a car window,0,0,winoground
+348_image_1.png,A dog with their feet hanging out of a car window and a person,0,0,winoground
+349_image_0.png,A person whispering into a dog's ear,0,0,winoground
+349_image_1.png,A dog whispering into a person's ear,0,0,winoground
+34_image_0.png,pointy bushes are behind rectangular bushes,0,0,winoground
+34_image_1.png,rectangular bushes are behind pointy bushes,0,0,winoground
+350_image_0.png,one ear that some donkey is whispering a secret into,0,0,winoground
+350_image_1.png,donkey ear that some one is whispering a secret into,0,0,winoground
+351_image_0.png,walking someone cut lines into green plants,0,0,winoground
+351_image_1.png,someone walking lines cut into green plants,0,0,winoground
+352_image_0.png,a volcano above water makes steam,0,0,winoground
+352_image_1.png,water above a volcano makes steam,0,0,winoground
+353_image_0.png,A child riding a bike and an adult,0,0,winoground
+353_image_1.png,A child and an adult riding a bike,0,0,winoground
+354_image_0.png,an adult putting a helmet on a child,0,0,winoground
+354_image_1.png,a child putting a helmet on an adult,0,0,winoground
+355_image_0.png,An adult wearing purple lying next to a child,0,0,winoground
+355_image_1.png,An adult lying next to a child wearing purple,0,0,winoground
+356_image_0.png,a fencer who is wearing black pants having a point scored against them by another fencer using a wheelchair,0,0,winoground
+356_image_1.png,a fencer having a point scored against them by another fencer who is wearing black pants using a wheelchair,0,0,winoground
+357_image_0.png,a person with long braids is exercising in front of a person without braids,0,0,winoground
+357_image_1.png,a person without braids is exercising in front of a person with long braids,0,0,winoground
+358_image_0.png,"in the stadium, the person wearing gray outperformed the one wearing blue",0,0,winoground
+358_image_1.png,"in the stadium, the person wearing blue outperformed the one wearing gray",0,0,winoground
+359_image_0.png,butchering white meat while wearing yellow but not red,0,0,winoground
+359_image_1.png,butchering red meat while wearing white but not yellow,0,0,winoground
+35_image_0.png,a circular sign is above a rectangular sign,0,0,winoground
+35_image_1.png,a rectangular sign is above a circular sign,0,0,winoground
+360_image_0.png,a child with a fake beard and an adult,0,0,winoground
+360_image_1.png,an adult with a fake beard and a child,0,0,winoground
+361_image_0.png,"on halloween, a child dressed as an insect is to the right of a child dressed as a mammal",0,0,winoground
+361_image_1.png,"on halloween, a child dressed as a mammal is to the right of a child dressed as an insect",0,0,winoground
+362_image_0.png,a modern office complex with many windows above a nicely landscaped lawn,0,0,winoground
+362_image_1.png,a nicely landscaped lawn above a modern office complex with many windows,0,0,winoground
+363_image_0.png,a tree is partially inside a parked car,0,0,winoground
+363_image_1.png,a parked car is partially inside a tree,0,0,winoground
+364_image_0.png,some are parking in a train,0,0,winoground
+364_image_1.png,some are training in a park,0,0,winoground
+365_image_0.png,an athlete running on water,0,0,winoground
+365_image_1.png,water running on an athlete,0,0,winoground
+366_image_0.png,a horse getting wet,0,0,winoground
+366_image_1.png,getting a horse wet,0,0,winoground
+367_image_0.png,the glasses full of water are above the person's head and leg,0,0,winoground
+367_image_1.png,the person's head and leg are above the glasses full of water,0,0,winoground
+368_image_0.png,a person is touching the head of a squirrel,0,0,winoground
+368_image_1.png,a squirrel is touching the head of a person,0,0,winoground
+369_image_0.png,a deer's nose is resting on a child's hand,0,0,winoground
+369_image_1.png,a child's hand is resting on a deer's nose,0,0,winoground
+36_image_0.png,a wood chess piece rests on metal objects,0,0,winoground
+36_image_1.png,a metal chess piece rests on wood objects,0,0,winoground
+370_image_0.png,two sparklers for one hand,0,0,winoground
+370_image_1.png,one sparkler for two hands,0,0,winoground
+371_image_0.png,an animal giving a person food,0,0,winoground
+371_image_1.png,a person giving an animal food,0,0,winoground
+372_image_0.png,a spider towering over a dog,0,0,winoground
+372_image_1.png,a dog towering over a spider,0,0,winoground
+373_image_0.png,a car going into a hollow tube,0,0,winoground
+373_image_1.png,a hollow tube going into a car,0,0,winoground
+374_image_0.png,two people wearing clothes of the same colors are on different side of the tennis net,0,0,winoground
+374_image_1.png,two people wearing clothes of different colors are on the same side of the tennis net,0,0,winoground
+375_image_0.png,living things drinking,0,0,winoground
+375_image_1.png,drinking living things,0,0,winoground
+376_image_0.png,a person near water using a lasso,0,0,winoground
+376_image_1.png,near a person using a water lasso,0,0,winoground
+377_image_0.png,a person spraying water on someone else and a person on a bike,0,0,winoground
+377_image_1.png,a person spraying water on a person on a bike and someone else,0,0,winoground
+378_image_0.png,a person stretching behind a brown dog,0,0,winoground
+378_image_1.png,a brown dog stretching behind a person,0,0,winoground
+379_image_0.png,a person carrying more than one flotation device,0,0,winoground
+379_image_1.png,more than one flotation device carrying a person,0,0,winoground
+37_image_0.png,soft shoes are on a smooth floor,0,0,winoground
+37_image_1.png,smooth shoes are on a soft floor,0,0,winoground
+380_image_0.png,two kids on a pool floatie and one kid swimming,0,0,winoground
+380_image_1.png,one kid on a pool floatie and two kids swimming,0,0,winoground
+381_image_0.png,gears for moving something,0,0,winoground
+381_image_1.png,moving gears for something,0,0,winoground
+382_image_0.png,looking from above at a collection of similar objects below,0,0,winoground
+382_image_1.png,looking from below at a collection of similar objects above,0,0,winoground
+383_image_0.png,a toy herbivore stands on top of at least one toy carnivore,0,0,winoground
+383_image_1.png,at least one toy herbivore stands on top of a toy carnivore,0,0,winoground
+384_image_0.png,a person supports a small chair,0,0,winoground
+384_image_1.png,a chair supports a small person,0,0,winoground
+385_image_0.png,a person smiles at another person wearing a checked shirt who is hitting a ping pong ball,0,0,winoground
+385_image_1.png,a person wearing a checked shirt smiles at another person who is hitting a ping pong ball,0,0,winoground
+386_image_0.png,two versions of one person,0,0,winoground
+386_image_1.png,one version of two persons,0,0,winoground
+387_image_0.png,There are not pink flowers below the bird with yellow head feathers,0,0,winoground
+387_image_1.png,There are pink flowers not below the bird with yellow head feathers,0,0,winoground
+388_image_0.png,"In a shopping cart, there are two animals that are the same species but are looking in different directions",0,0,winoground
+388_image_1.png,"In a shopping cart, there are two animals that are the different species but are looking in same directions",0,0,winoground
+389_image_0.png,water is on and under a vessel,0,0,winoground
+389_image_1.png,a vessel is on and under water,0,0,winoground
+38_image_0.png,the happy person is on the right and the sad person is on the left,0,0,winoground
+38_image_1.png,the sad person is on the right and the happy person is on the left,0,0,winoground
+390_image_0.png,two bodies share with one head,0,0,winoground
+390_image_1.png,one bodies share with two head,0,0,winoground
+391_image_0.png,The worker wears something striped over a white undershirt with a collar,0,0,winoground
+391_image_1.png,The worker wears something white over a striped undershirt with a collar,0,0,winoground
+392_image_0.png,A person seen from above has a grid below them,0,0,winoground
+392_image_1.png,A person seen from below has a grid above them,0,0,winoground
+393_image_0.png,head in the clouds,0,0,winoground
+393_image_1.png,clouds in the head,0,0,winoground
+394_image_0.png,standing on feet,0,0,winoground
+394_image_1.png,on feet standing,0,0,winoground
+395_image_0.png,They have sunglasses over their hair,0,0,winoground
+395_image_1.png,They have hair over their sunglasses,0,0,winoground
+396_image_0.png,an odd number of sweet things on a plate with an even number of sides,0,0,winoground
+396_image_1.png,an even number of sweet things on a plate with an odd number of sides,0,0,winoground
+397_image_0.png,a large living thing in front of a large non-living thing,0,0,winoground
+397_image_1.png,a large non-living thing in front of a large living thing,0,0,winoground
+398_image_0.png,racing over it,0,0,winoground
+398_image_1.png,racing it over,0,0,winoground
+399_image_0.png,someone is overdoing it,0,0,winoground
+399_image_1.png,someone is doing it over,0,0,winoground
+39_image_0.png,the hurt person is on the left and the helpful person is on the right,0,0,winoground
+39_image_1.png,the helpful person is on the left and the hurt person is on the right,0,0,winoground
+3_image_0.png,a person watches an animal,0,0,winoground
+3_image_1.png,an animal watches a person,0,0,winoground
+40_image_0.png,the more content person has the healthier food and the less content person has the less healthy food,0,0,winoground
+40_image_1.png,the less content person has the healthier food and the more content person has the less healthy food,0,0,winoground
+41_image_0.png,the orange lollipop is sad and the red lollipop is surprised,0,0,winoground
+41_image_1.png,the orange lollipop is surprised and the red lollipop is sad,0,0,winoground
+42_image_0.png,the larger person wears yellow and the smaller person does not,0,0,winoground
+42_image_1.png,the smaller person wears yellow and the larger person does not,0,0,winoground
+43_image_0.png,a big cat is next to a small dog,0,0,winoground
+43_image_1.png,a small cat is next to a big dog,0,0,winoground
+44_image_0.png,the heavy oncoming traffic is contrasted with the light outgoing traffic,0,0,winoground
+44_image_1.png,the light oncoming traffic is contrasted with the heavy outgoing traffic,0,0,winoground
+45_image_0.png,a cold drink on a hot day,0,0,winoground
+45_image_1.png,a hot drink on a cold day,0,0,winoground
+46_image_0.png,a person is drinking now and eating later,0,0,winoground
+46_image_1.png,a person is drinking later and eating now,0,0,winoground
+47_image_0.png,the sailboat sails close but the beach is far away,0,0,winoground
+47_image_1.png,the sailboat sails far away but the beach is close,0,0,winoground
+48_image_0.png,the passenger is riding inattentive to the road and the driver is driving attentive to the road,0,0,winoground
+48_image_1.png,the passenger is riding attentive to the road and the driver is driving inattentive to the road,0,0,winoground
+49_image_0.png,it wears a hat but the person doesn't,0,0,winoground
+49_image_1.png,the person wears a hat but it doesn't,0,0,winoground
+4_image_0.png,the person without earrings pays the person with earrings,0,0,winoground
+4_image_1.png,the person with earrings pays the person without earrings,0,0,winoground
+50_image_0.png,the person with green legs is running quite slowly and the red legged one runs faster,0,0,winoground
+50_image_1.png,the person with green legs is running faster and the red legged one runs quite slowly,0,0,winoground
+51_image_0.png,a person is in the water and close to the sand,0,0,winoground
+51_image_1.png,a person is close to the water and in the sand,0,0,winoground
+52_image_0.png,a frog is above rocks which are under the water,0,0,winoground
+52_image_1.png,a frog is under rocks which are above the water,0,0,winoground
+53_image_0.png,driving off the road and on the unpaved terrain,0,0,winoground
+53_image_1.png,driving on the road and off the unpaved terrain,0,0,winoground
+54_image_0.png,someone is in a helicopter with a car,0,0,winoground
+54_image_1.png,someone is with a helicopter in a car,0,0,winoground
+55_image_0.png,the green one can fit inside the blue one and the blue one can fit outside the green one,0,0,winoground
+55_image_1.png,the green one can fit outside the blue one and the blue one can fit inside the green one,0,0,winoground
+56_image_0.png,jumping away from the photographer and towards the others,0,0,winoground
+56_image_1.png,jumping towards the photographer and away from the others,0,0,winoground
+57_image_0.png,someone bakes the dough before the dough is eaten,0,0,winoground
+57_image_1.png,the dough is eaten before someone bakes the dough,0,0,winoground
+58_image_0.png,it hatched before it was eaten,0,0,winoground
+58_image_1.png,it was eaten before it hatched,0,0,winoground
+59_image_0.png,there are three bananas and two apples,0,0,winoground
+59_image_1.png,there are two bananas and three apples,0,0,winoground
+5_image_0.png,a bird eats a snake,0,0,winoground
+5_image_1.png,a snake eats a bird,0,0,winoground
+60_image_0.png,someone has loaded their plate with one of the toast slices and two of the eggs,0,0,winoground
+60_image_1.png,someone has loaded their plate with two of the toast slices and one of the eggs,0,0,winoground
+61_image_0.png,there are three people and two windows,0,0,winoground
+61_image_1.png,there are two people and three windows,0,0,winoground
+62_image_0.png,there are 50 stars on the right flag and 5 stars on the left flag,0,0,winoground
+62_image_1.png,there are 5 stars on the right flag and 50 stars on the left flag,0,0,winoground
+63_image_0.png,no people wear blue shirts and six people wear white shirts,0,0,winoground
+63_image_1.png,six people wear blue shirts and no people wear white shirts,0,0,winoground
+64_image_0.png,the dog's leg is on the person's torso,0,0,winoground
+64_image_1.png,the person's leg is on the dog's torso,0,0,winoground
+65_image_0.png,the animal's eyes are bigger than the person's,0,0,winoground
+65_image_1.png,the person's eyes are bigger than the animal's,0,0,winoground
+66_image_0.png,the taller person's arm is around the shorter person's shoulder,0,0,winoground
+66_image_1.png,the shorter person's arm is around the taller person's shoulder,0,0,winoground
+67_image_0.png,the person in a brown coat looks back and the person in a black coat looks forward,0,0,winoground
+67_image_1.png,the person in a black coat looks back and the person in a brown coat looks forward,0,0,winoground
+68_image_0.png,it ran away while they pursued,0,0,winoground
+68_image_1.png,they ran away while it pursued,0,0,winoground
+69_image_0.png,almost everyone is in a boat and one is swimming,0,0,winoground
+69_image_1.png,one is in a boat and almost everyone is swimming,0,0,winoground
+6_image_0.png,"a plant was harmed by another organism, and that organism broke the plant into pieces",0,0,winoground
+6_image_1.png,"another organism was harmed by a plant, and that plant broke the organism into pieces",0,0,winoground
+70_image_0.png,the person with the lighter shoes is holding an emoji and the person with the darker shoes isn't,0,0,winoground
+70_image_1.png,the person with the darker shoes is holding an emoji and the person with the lighter shoes isn't,0,0,winoground
+71_image_0.png,the person wearing neutral colors poses and the person wearing brighter colors takes a picture,0,0,winoground
+71_image_1.png,the person wearing brighter colors poses and the person wearing neutral colors takes a picture,0,0,winoground
+72_image_0.png,it's a fire truck,0,0,winoground
+72_image_1.png,it's a truck fire,0,0,winoground
+73_image_0.png,watching the present,0,0,winoground
+73_image_1.png,presenting the watch,0,0,winoground
+74_image_0.png,walking out on a rock,0,0,winoground
+74_image_1.png,rocking out on a walk,0,0,winoground
+75_image_0.png,the kid with the magnifying glass looks at them,0,0,winoground
+75_image_1.png,the kid looks at them with the magnifying glass,0,0,winoground
+76_image_0.png,the person with the kids is sitting,0,0,winoground
+76_image_1.png,the person is sitting with the kids,0,0,winoground
+77_image_0.png,the people with shoes are touching each other,0,0,winoground
+77_image_1.png,the people are touching each other with shoes,0,0,winoground
+78_image_0.png,someone with an apple is hurt by a tree,0,0,winoground
+78_image_1.png,someone is hurt by a tree with an apple,0,0,winoground
+79_image_0.png,the person that is on the table is eating the food,0,0,winoground
+79_image_1.png,the person is eating the food that is on the table,0,0,winoground
+7_image_0.png,a bottle is in water,0,0,winoground
+7_image_1.png,water is in a bottle,0,0,winoground
+80_image_0.png,the watering can is larger than the pot,0,0,winoground
+80_image_1.png,the pot is larger than the watering can,0,0,winoground
+81_image_0.png,they hold a suitcase handle with their left hand and they hold a passport with their right hand,0,0,winoground
+81_image_1.png,they hold a passport with their left hand and they hold a suitcase handle with their right hand,0,0,winoground
+82_image_0.png,the person with the patterned shirt is curly-haired and the other is straight-haired,0,0,winoground
+82_image_1.png,the person with the patterned shirt is straight-haired and the other is curly-haired,0,0,winoground
+83_image_0.png,a diagram showing movement from right to left,0,0,winoground
+83_image_1.png,a diagram showing movement from left to right,0,0,winoground
+84_image_0.png,the flip flops are too big for these feet,0,0,winoground
+84_image_1.png,the feet are too big for these flip flops,0,0,winoground
+85_image_0.png,the person who is wearing a crown is kissing a frog,0,0,winoground
+85_image_1.png,the person is kissing a frog who is wearing a crown,0,0,winoground
+86_image_0.png,a dog sitting on a couch with a person lying on the floor,0,0,winoground
+86_image_1.png,a person lying on a couch with a dog sitting on the floor,0,0,winoground
+87_image_0.png,The uncaged bird has an opened cage door,0,0,winoground
+87_image_1.png,The caged bird has an unopened cage door,0,0,winoground
+88_image_0.png,meat with potatoes,0,0,winoground
+88_image_1.png,potatoes with meat,0,0,winoground
+89_image_0.png,the person in pink was close to not winning,0,0,winoground
+89_image_1.png,the person in pink was not close to winning,0,0,winoground
+8_image_0.png,a tree smashed into a car,0,0,winoground
+8_image_1.png,a car smashed into a tree,0,0,winoground
+90_image_0.png,two humans and one wheel,0,0,winoground
+90_image_1.png,two wheels and one human,0,0,winoground
+91_image_0.png,clothing on lines,0,0,winoground
+91_image_1.png,lines on clothing,0,0,winoground
+92_image_0.png,someone talks on the phone angrily while another person sits happily,0,0,winoground
+92_image_1.png,someone talks on the phone happily while another person sits angrily,0,0,winoground
+93_image_0.png,two boats and one direction down the stream,0,0,winoground
+93_image_1.png,one boat and two directions down the stream,0,0,winoground
+94_image_0.png,The dog rides without a visible tongue,0,0,winoground
+94_image_1.png,The dog rides with a visible tongue out,0,0,winoground
+95_image_0.png,handing a hammer,0,0,winoground
+95_image_1.png,hammering a hand,0,0,winoground
+96_image_0.png,leaves its shedding,0,0,winoground
+96_image_1.png,shedding its leaves,0,0,winoground
+97_image_0.png,they are using no bait but still got fish,0,0,winoground
+97_image_1.png,they are using bait but still got no fish,0,0,winoground
+98_image_0.png,someone on the ground is spraying water towards a vehicle,0,0,winoground
+98_image_1.png,someone is on a vehicle spraying water towards the ground,0,0,winoground
+99_image_0.png,the dog wears as a hat what someone would normally bite,0,0,winoground
+99_image_1.png,the dog bites what someone would normally wear as a hat,0,0,winoground
+9_image_0.png,people fall on the leaves,0,0,winoground
+9_image_1.png,the leaves fall on people,0,0,winoground
